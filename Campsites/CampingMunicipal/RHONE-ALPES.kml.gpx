@@ -1,0 +1,706 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:gpx="http://www.topografix.com/GPX/1/0" version="1.0" creator="ViewRanger - http://www.viewranger.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+  <wpt lat="44.917167" lon="5.637360000000001">
+    <name>Camping MUNICIPAL LES PORTES DU TRIEVES 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-Septembre; Places: 50; Budget €/j: ; Addr: 38650 MONESTIER DE CLERMONT; Tel: 04 76 34 01 24</desc>
+    <url>http://www.camping-portes-du-trieves.com/fr</url>
+  </wpt>
+  <wpt lat="45.990283" lon="4.903421000000001">
+    <name>Camping MUNICIPAL LE CERISIER 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril - Septembre; Places: 70; Budget €/j: ; Addr: Route de St Jean de Thurigneux, 01330 AMBERIEUX EN DOMBES; Tel: 04 74 00 83 40</desc>
+    <url>http://www.amberieux-en-dombes.fr </url>
+  </wpt>
+  <wpt lat="45.99082" lon="4.816518">
+    <name>Camping MUNICIPAL le Bois de la Dame 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril - Septembre; Places: 103; Budget €/j: ; Addr: Chemin du Bois de la Dame, 01480 ARS SUR FORMANS; Tel: 04 74 00 77 23</desc>
+    <url>http://www.cc-porteouestdeladombes.com </url>
+  </wpt>
+  <wpt lat="46.21019" lon="5.242023">
+    <name>Camping MUNICIPAL DE CHALLES 4*</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril à mi Octobre; Places: 120; Budget €/j: ; Addr: allée du Centre Nautique, 01000 BOURG EN BRESSE; Tel: ,04 74 45 37 21</desc>
+    <url>http://www.bourgenbresse.fr/Decouvrir-Bourg/Tourisme/Camping-municipal/(language)/fre-FR </url>
+  </wpt>
+  <wpt lat="45.640898" lon="5.627403">
+    <name>Camping MUNICIPAL BREGNIER CORDON 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 23; Budget €/j: ; Addr: La Bruyère, 01300 BREGNIER CORDON; Tel: 06 23 24 79 09</desc>
+    <url>http://www.bregnier-cordon.fr   </url>
+  </wpt>
+  <wpt lat="45.955207" lon="5.532646000000001">
+    <name>Camping MUNICIPAL de Chaley</name>
+    <sym>Camp</sym>
+    <desc>Open: Mars - Septembre; Places: ...; Budget €/j: ; Addr: Le Pre commun, 01230 CHALEY; Tel: 04 74 36 41 27</desc>
+    <url>http://www.camping-chaley.fr  </url>
+  </wpt>
+  <wpt lat="46.015085" lon="5.597534">
+    <name>Camping MUNICIPAL LE VIEUX MOULIN 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'annee; Places: 64; Budget €/j: ; Addr: Route de Corcelles, 01110 CHAMPDOR; Tel: 04 74 36 48 15</desc>
+    <url>http://www.champdor.jimdo.com </url>
+  </wpt>
+  <wpt lat="45.906569" lon="5.678043">
+    <name>Camping MUNICIPAL CHAMPAGNE</name>
+    <sym>Camp</sym>
+    <desc>Open: Juillet-Aout; Places: 33; Budget €/j: ; Addr: route du stade, 01260 CHAMPAGNE EN VALROMEY; Tel: 04.79.87.61.40</desc>
+    <url>http://www.champagne-valromey.fr/page25.html </url>
+  </wpt>
+  <wpt lat="46.118942" lon="4.96582">
+    <name>Camping MUNICIPAL le VIEUX MOULIN 4*</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-Septembre; Places: 120; Budget €/j: ; Addr: 01400 CHATILLON SUR CHALARONNE; Tel: 04 74 55 04 79</desc>
+    <url>http://www.camping-vieuxmoulin.com </url>
+  </wpt>
+  <wpt lat="45.801999" lon="3.77243">
+    <name>Camping MUNICIPAL de la ROCHE </name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'annee; Places: 40; Budget €/j: ; Addr: La Roche, 42440 NOIRETABLE; Tel: 04 77 24 72 68</desc>
+    <url>http://www.haut-forez-tourisme.fr</url>
+  </wpt>
+  <wpt lat="45.415563" lon="4.00898">
+    <name>Camping MUNICIPAL LE COLOMBIER 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-Octobre; Places: 24; Budget €/j: ; Addr: 42380 ESTIVAREILLES; Tel: 04 77 50 21 72</desc>
+    <url>http://www.estivareilles42.fr</url>
+  </wpt>
+  <wpt lat="45.9053" lon="3.9303590000000006">
+    <name>Camping MUNICIPAL du Breuil 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril-Octobre; Places: 6; Budget €/j: ; Addr: Le Breuil, Chemin du Petit Bois, 42260 CREMEAUX; Tel: 04 77 62 50 67</desc>
+    <url>http://www.leroannais.com/noesit/!/fiche/camping-municipal-du-breuil-95389</url>
+  </wpt>
+  <wpt lat="45.818272" lon="4.070435">
+    <name>Camping MUNICIPAL POMMIERS 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril-Octobre; Places: 180; Budget €/j: ; Addr: Pont d'Argent, 42260 POMMIERS; Tel: 04 77 65 43 54</desc>
+    <url>http://www.pommiers.fr</url>
+  </wpt>
+  <wpt lat="46.148919" lon="4.113007">
+    <name>Camping MUNICIPAL POUILLY SOUS CHARLIEU 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: mi Mai-mi Septembre; Places: 57; Budget €/j: ; Addr: Les Ilots, 42720 POUILLY SOUS CHARLIEU; Tel: 04 77 60 80 67</desc>
+    <url>http://www.pouillysouscharlieu.fr</url>
+  </wpt>
+  <wpt lat="45.426407" lon="4.067688">
+    <name>Camping MUNICIPAL de la belle Etoile 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: 42380 ST BONNET LE CHATEAU; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="45.733984" lon="3.959198">
+    <name>Camping MUNICIPAL SAIL SOUS COUZAN 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril-Octobre; Places: 53; Budget €/j: ; Addr: 42890 SAIL SOUS COUZAN; Tel: 04 77 24 52 08</desc>
+    <url>http://www.sail-sous-couzan.com</url>
+  </wpt>
+  <wpt lat="45.612596" lon="4.065628000000001">
+    <name>Camping MUNICIPAL LE SURIZET 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: mi Avril-mi Octobre; Places: 90; Budget €/j: ; Addr: 42600 MONTBRISON; Tel: 04 77 58 08 30</desc>
+    <url>http://www.ville-montbrison.fr</url>
+  </wpt>
+  <wpt lat="45.741652" lon="4.224243">
+    <name>Camping MUNICIPAL du palais 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril-Octobre; Places: 385; Budget €/j: ; Addr: 42110 FEURS; Tel: 04 77 26 43 41</desc>
+    <url>http://www.feurs.org/tourisme/camping.html</url>
+  </wpt>
+  <wpt lat="45.338391" lon="4.41925">
+    <name>Camping MUNICIPAL ST GENEST MALIFAUX 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 65; Budget €/j: ; Addr: 42660 ST GENEST MALIFAUX; Tel: 04 77 51 25 84</desc>
+    <url>http://www.st-genest-malifaux.fr</url>
+  </wpt>
+  <wpt lat="45.396039" lon="4.025803">
+    <name>Camping MUNICIPAL les LEYCHES 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 66; Budget €/j: ; Addr: 42380 MERLE LEIGNEC; Tel: 04 77 50 21 99</desc>
+    <url/>
+  </wpt>
+  <wpt lat="45.936706" lon="4.268703">
+    <name>Camping MUNICIPAL FOURNEAUX 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="45.855347" lon="4.028549">
+    <name>Camping MUNICIPAL ST GERMAIN LAVAL 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: mi Mars-mi Octobre; Places: 113; Budget €/j: ; Addr: La Pras, 42260 ST GERMAIN LAVAL; Tel: 04 77 65 44 35</desc>
+    <url>http://www.st-germain-laval.fr</url>
+  </wpt>
+  <wpt lat="45.386877" lon="3.944092">
+    <name>Camping MUNICIPAL les TILLEULS 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: mi Avril-Octobre; Places: 49; Budget €/j: ; Addr: Le Stade, 42550 USSON EN FOREZ; Tel: 04 77 50 63 73</desc>
+    <url>http://www.usson-en-forez.fr/fr/le-temps-d-un-sejour/hebergement/camping.php</url>
+  </wpt>
+  <wpt lat="46.17983" lon="3.864441">
+    <name>Camping MUNICIPAL BEAUSOLEIL 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-Septembre; Places: 45; Budget €/j: ; Addr: 42310 LA PACAUDIERE; Tel: 04 77 64 11 50</desc>
+    <url>http://www.la-pacaudiere.fr</url>
+  </wpt>
+  <wpt lat="45.883556" lon="3.892593">
+    <name>Camping MUNICIPAL du LAVOIR 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 16; Budget €/j: ; Addr: 42430 JURE; Tel: 04 77 62 55 24</desc>
+    <url/>
+  </wpt>
+  <wpt lat="46.159561" lon="4.181242">
+    <name>Camping MUNICIPAL DE LA DOUZE 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril - Septembre; Places: 100; Budget €/j: ; Addr: Chemin du camping, 42190 CHARLIEU; Tel: 04 77 72 86 01</desc>
+    <url>http://(www.ville-charlieu.fr/sejourner/camping) ou ICI (www.camp-charlieu.sitew.com)</url>
+  </wpt>
+  <wpt lat="45.588816" lon="4.574347">
+    <name>Camping MUNICIPAL le CHATELARD 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: Mars-Novembre; Places: 60; Budget €/j: ; Addr: Le Châtelard, 69440 STE CATHERINE; Tel: 04 78 81 80 60</desc>
+    <url>http://www.mairie-saintecatherine.fr</url>
+  </wpt>
+  <wpt lat="46.020941" lon="4.315696">
+    <name>Camping MUNICIPAL THIZY 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 16; Budget €/j: ; Addr: Chemin de la Livrée, 69240 THIZY; Tel: 04 74 64 05 29</desc>
+    <url>http://www.thizy.fr</url>
+  </wpt>
+  <wpt lat="45.651548" lon="4.563575000000001">
+    <name>Camping MUNICIPAL ST MARTIN EN HAUT 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 90; Budget €/j: ; Addr: Les Plaines, 69850 ST MARTIN EN HAUT; Tel: 04 78 48 62 16</desc>
+    <url>http://www.saintmartinenhaut.fr</url>
+  </wpt>
+  <wpt lat="46.25394800000001" lon="4.596405">
+    <name>Camping MUNICIPAL les crots 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 6; Budget €/j: ; Addr: Les Crots, 69860 ST JACQUES DES ARRETS; Tel: 04 74 04 61 60</desc>
+    <url>http://www.saintjacquesdesarrets.fr</url>
+  </wpt>
+  <wpt lat="46.192547" lon="4.697514">
+    <name>Camping LA GRAPPE FLEURIE 4****</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="45.619801" lon="4.665756">
+    <name>Camping MUNICIPAL LA TRILLONNIERE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-Septembre; Places: 60; Budget €/j: ; Addr: Boulevard du Général de Gaulle, 69440 MORNANT; Tel: 04 78 44 16 47</desc>
+    <url>http://www.ville-mornant.fr</url>
+  </wpt>
+  <wpt lat="46.166754" lon="4.44088">
+    <name>Campings MUNICIPAL POULE LES ECHARMEAUX 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-Septembre; Places: 24; Budget €/j: ; Addr: 69870 POULE LES ECHARMEAUX; Tel: 06 89 90 33 64</desc>
+    <url>http://www.poulelesecharmeaux.fr/vie-municipale/camping-municipal</url>
+  </wpt>
+  <wpt lat="46.279343" lon="4.567909">
+    <name>Camping MUNICIPAL TRADES 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril-Octobre; Places: 15; Budget €/j: ; Addr: 69860 TRADES; Tel: 04 74 04 65 03</desc>
+    <url>http://www.communedetrades.fr/fr/Hebergement/Camping.html</url>
+  </wpt>
+  <wpt lat="45.971943" lon="4.751844">
+    <name>Camping MUNICIPAL de la PLAGE 3*** </name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 130; Budget €/j: ; Addr: 2788, route de Riottier, 69400 VILLEFRANCHE SUR SAONE; Tel: 04 74 65 33 48 </desc>
+    <url>http://www.villefranche.net/index.php/culture-sports-et-loisirs/loisirs/193-camping-municipal-de-la-plage-</url>
+  </wpt>
+  <wpt lat="45.99887" lon="4.325867">
+    <name>Camping MUNICIPAL ST JEAN LA BUSSIERE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: 69550 ST JEAN LA BUSSIERE; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="46.181257" lon="4.432125">
+    <name>Camping MUNICIPAL PROPIERES 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: 15/06 au 15/09; Places: 13; Budget €/j: ; Addr: Azole, 69790 PROPIERES; Tel: 04 74 03 60 08</desc>
+    <url>http://www.rhonetourisme.com/Hebergement/Campings</url>
+  </wpt>
+  <wpt lat="46.016158" lon="4.37891">
+    <name>Camping MUNICIPAL chez Favre 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'annee; Places: 27; Budget €/j: ; Addr: 69550 CUBLIZE; Tel: 04 74 89 53 54</desc>
+    <url>http://www.lacdessapins.fr/camping/camping-municipal-chez-favre-69AACAM100014.html</url>
+  </wpt>
+  <wpt lat="46.221534" lon="4.988179">
+    <name>Camping MUNICIPAL LE RENOM 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril-Septembre; Places: 80; Budget €/j: ; Addr: Avenue des Sports, 01540 VONNAS; Tel: 04 74 50 02 75</desc>
+    <url>http://www.camping-renom.com/content/fr/accueil/61/     </url>
+  </wpt>
+  <wpt lat="45.971197" lon="5.701904">
+    <name>Camping MUNICIPAL SONGIEU 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'annee; Places: 33; Budget €/j: ; Addr: 01260 SONGIEU; Tel: 04 79 87 71 38</desc>
+    <url>http://www.valromey-retord.fr </url>
+  </wpt>
+  <wpt lat="45.964873" lon="5.583372">
+    <name>Camping MUNICIPAL LES ABERREAUX 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: 01110 HAUTEVILLE LOMPNES; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="46.144399" lon="5.335579">
+    <name>Camping MUNICIPAL JOURNANS 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 35; Budget €/j: ; Addr: 01250 JOURNANS; Tel: 04 74 51 64 45</desc>
+    <url>http://www.ain-tourisme.com</url>
+  </wpt>
+  <wpt lat="46.162474" lon="5.003071">
+    <name>Camping MUNICIPAL NEUVILLE LES DAMES 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: 01400 NEUVILLE LES DAMES; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="45.886842" lon="5.587234">
+    <name>Camping MUNICIPAL le GENEVRAY 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 15; Budget €/j: ; Addr: 01110 THEZILLIEU; Tel: 04 74 37 56 48</desc>
+    <url>http://www.ain-tourisme.com</url>
+  </wpt>
+  <wpt lat="46.245045" lon="5.352058">
+    <name>Camping MUNICIPAL La RAZZA 3**</name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'annee; Places: 30; Budget €/j: ; Addr: 292 chemin du bois d Amont, 01370 MEILLONNAS; Tel: 04 74 42 32 42</desc>
+    <url>http://www.meillonnas.fr </url>
+  </wpt>
+  <wpt lat="46.333906" lon="6.066878">
+    <name>Camping MUNICIPAL LES GENETS 3*** </name>
+    <sym>Camp</sym>
+    <desc>Open: 1er mai au 30 Septembre; Places: 140; Budget €/j: ; Addr: 400, avenue des Alpes, 01170 GEX; Tel: 04 50 41 61 46</desc>
+    <url>http://www.gex.fr</url>
+  </wpt>
+  <wpt lat="46.263917" lon="5.428877">
+    <name>Camping MUNICIPAL CHAVANNES SUR SURAN 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-Aout; Places: 30; Budget €/j: ; Addr: 01250 CHAVANNES SUR SURAN; Tel: 04 74 51 70 52</desc>
+    <url>http://www.chavannes-sur-suran.fr</url>
+  </wpt>
+  <wpt lat="46.047502" lon="4.766693">
+    <name>Camping MUNICIPAL MESSIMY SUR SAONE 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril-Octobre; Places: 26; Budget €/j: ; Addr: 01480 MESSIMY SUR SAONE; Tel: 04 74 67 80 77</desc>
+    <url>http://www.messimysursaone.fr/spip.php?article10</url>
+  </wpt>
+  <wpt lat="45.817315" lon="5.206146">
+    <name>Camping MUNICIPAL le PLAN 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril-mi Octobre; Places: 100; Budget €/j: ; Addr: 11 chemin du Plan, 01800 ST MAURICE DE GOURDANS; Tel: 04 74 61 80 02</desc>
+    <url>http://www.saintmauricedegourdans.fr/camping_municipal.aspx</url>
+  </wpt>
+  <wpt lat="46.458674" lon="5.151215">
+    <name>Camping MUNICIPAL MEPILLAT 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril-Septembre; Places: 80; Budget €/j: ; Addr: 01560 ST NIZIER LE BOUCHOUX; Tel: 04.74.52 97 24</desc>
+    <url>http://www.ain-tourisme.com/camping-de-mepillat-01AACAM100074.sitra</url>
+  </wpt>
+  <wpt lat="46.075851" lon="4.760685">
+    <name>Camping MUNICIPAL LES MURIERS 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril - mi Octobre; Places: 300; Budget €/j: ; Addr: 322 rue de Lyon, 01090 MONTMERLE SUR SAONE; Tel: 04 74 69 34 40</desc>
+    <url>http://www.mairie-montmerle.fr    </url>
+  </wpt>
+  <wpt lat="46.423068" lon="5.098085">
+    <name>Camping MUNICIPAL du Coq</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril - Octobre; Places: 30; Budget €/j: ; Addr: 01560 MANTENAY MONTLIN; Tel: 04 74 52 66 91</desc>
+    <url>http://goo.gl/sVAiBi</url>
+  </wpt>
+  <wpt lat="46.107993" lon="6.59111">
+    <name>Camping MUNICIPAL les THEZIERES 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'annee; Places: 113; Budget €/j: ; Addr: 74440 TANINGES; Tel: 04 50 34 25 59</desc>
+    <url>http://www.savoie-mont-blanc.com/offre/fiche/camping-municipal-thezieres/74AACAM100203</url>
+  </wpt>
+  <wpt lat="46.082668" lon="6.412711">
+    <name>Camping MUNICIPAL BOIS DES TOURS 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: mi Juin - Septembre; Places: 82; Budget €/j: ; Addr: Rue de Bairiers, 74130 BONNEVILLE; Tel: 04 50 97 04 31</desc>
+    <url>http://www.tourisme-faucigny-glieres.fr</url>
+  </wpt>
+  <wpt lat="46.281716" lon="6.613426">
+    <name>Camping MUNICIPAL LA BAUME 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: Juillet-Aout; Places: 25; Budget €/j: ; Addr: 74430 LA BAUME; Tel: 04 50 72 10 06</desc>
+    <url>http://www.la-baume.fr</url>
+  </wpt>
+  <wpt lat="46.00507" lon="6.39473">
+    <name>Camping MUNICIPAL LES MARRONNIERS 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: Juin-Septembre; Places: 46; Budget €/j: ; Addr: 74130 LE PETIT BORNAND LES GLIERES; Tel: 04 50 03 54 74</desc>
+    <url>http://www.petit-bornand.fr</url>
+  </wpt>
+  <wpt lat="46.390517" lon="6.542358">
+    <name>Camping MUNICIPAL BLANCHE NEIGE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 80; Budget €/j: ; Addr: Route Dranse, 74500 PUBLIER-AMPHION; Tel: 04 50 70 02 06</desc>
+    <url>http://www.ville-publier.fr</url>
+  </wpt>
+  <wpt lat="45.765607" lon="6.306152">
+    <name>Camping MUNICIPAL les PINS 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: 74210 ST FERREOL; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="46.095138" lon="6.674881">
+    <name>Camping MUNICIPAL LAC ET MONTAGNE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 105; Budget €/j: ; Addr: 74440 VERCHAIX; Tel: 04 50 90 10 12</desc>
+    <url>http://www.mairie-verchaix.fr/spip.php?article54</url>
+  </wpt>
+  <wpt lat="46.349209" lon="6.619821">
+    <name>Camping MUNICIPAL DE L'ESSERT 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: Juillet-Aout; Places: 20; Budget €/j: ; Addr: 74500 VINZIER; Tel: 04 50 76 61 19</desc>
+    <url>http://www.vinzier.com</url>
+  </wpt>
+  <wpt lat="45.825839" lon="6.1925550000000005">
+    <name>Camping MUNICIPAL LES CHAMPS FLEURIS 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-mi Septembre; Places: 115; Budget €/j: ; Addr: 631 voie romaine Les Perris, 74410 DUINGT; Tel: 04 50 68 57 31</desc>
+    <url>http://www.camping-duingt.com</url>
+  </wpt>
+  <wpt lat="45.228299" lon="6.741486">
+    <name>Camping MUNICIPAL MUNICIPAL LA BUIDONNIERE 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'annee; Places: 160; Budget €/j: ; Addr: 73500 AUSSOIS; Tel: 04 79 20 35 58</desc>
+    <url>http://www.aussois.com</url>
+  </wpt>
+  <wpt lat="45.715769" lon="6.573944">
+    <name>Camping MUNICIPAL DOMELIN 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: Juin-Septembre; Places: 100; Budget €/j: ; Addr: 73270 BEAUFORT; Tel: 04 79 38 33 88</desc>
+    <url>http://www.mairie-beaufort73.com</url>
+  </wpt>
+  <wpt lat="45.512121" lon="6.595917">
+    <name>Camping MUNICIPAL LE ROCHER DE GLAISY 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: 01.06 - 15.09.; Places: 25; Budget €/j: ; Addr: 73600 NOTRE DAME DU PRE; Tel: 06 37 76 70 96</desc>
+    <url>http://www.notredamedupre.fr</url>
+  </wpt>
+  <wpt lat="45.454351" lon="6.69548">
+    <name>Camping MUNICIPAL le CANADA 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 120; Budget €/j: ; Addr: Champagny-le-Haut, 73350 CHAMPAGNY EN VANOISE; Tel: 04 79 55 03 41</desc>
+    <url>http://www.camping-champagny-en-vanoise.fr</url>
+  </wpt>
+  <wpt lat="45.20961700000001" lon="6.535492">
+    <name>Camping MUNICIPAL ORELLE 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'annee; Places: 17; Budget €/j: ; Addr: 73140 ORELLE; Tel: 04 79 56 87 22</desc>
+    <url>http://www.orelle.net</url>
+  </wpt>
+  <wpt lat="45.712413" lon="6.468887">
+    <name>Camping MUNICIPAL DES GLIERES 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: Juillet-Aout; Places: 33; Budget €/j: ; Addr: 73720 QUEIGE; Tel: 04 79 38 02 97</desc>
+    <url>http://www.queige.fr</url>
+  </wpt>
+  <wpt lat="45.293969" lon="6.226845">
+    <name>Camping MUNICIPAL LA PERRIERE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: 73130 ST COLOMBAN DES VILLARDS; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="45.270538" lon="6.351471">
+    <name>Camping MUNICIPAL LES GRANDS COLS 4****</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-mi Septembre; Places: 65; Budget €/j: ; Addr: 422, avenue du Mont Cenis, 73300 ST JEAN DE MAURIENNE; Tel: 04 79 64 28 02</desc>
+    <url>http://www.campingdesgrandscols.com</url>
+  </wpt>
+  <wpt lat="45.786679" lon="5.824127">
+    <name>Camping MUNICIPAL des Babelles 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: mi Avril-mi Octobre; Places: 30; Budget €/j: ; Addr: 73310 CONJUX; Tel: 04 79 54 25 40</desc>
+    <url>http://www.conjux.fr/le-camping.php</url>
+  </wpt>
+  <wpt lat="45.38109" lon="6.723633">
+    <name>Camping MUNICIPAL le CHAMOIS 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: Juin-debut Septembre; Places: 200; Budget €/j: ; Addr: 73710 PRALOGNAN LA VANOISE; Tel: 04 79 08 71 54</desc>
+    <url>http://www.pralognan.com</url>
+  </wpt>
+  <wpt lat="45.300007" lon="5.880432">
+    <name>Camping MUNICIPAL les petites roches</name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'annee; Places: 60; Budget €/j: ; Addr: 105 route des trois villages, 38660 ST HILAIRE; Tel: 06 32 37 01 03</desc>
+    <url>http://www.funiculaire.fr/camping-saint-hilaire/acces.php</url>
+  </wpt>
+  <wpt lat="44.898687" lon="5.907898000000001">
+    <name>Camping MUNICIPAL du plan d eau VALBONNAIS 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 180; Budget €/j: ; Addr: 38740 VALBONNAIS; Tel: 04 76 30 21 28</desc>
+    <url>http://www.plandeau.net</url>
+  </wpt>
+  <wpt lat="45.444416" lon="5.529728">
+    <name>Camping MUNICIPAL LE BORD DU LAC 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: mi Mars-Septembre; Places: 76; Budget €/j: ; Addr: 687, Route du Bord du Lac, 38850 BILIEU; Tel: 04 76 06 67 00</desc>
+    <url>http://www.campingleborddulac.fr</url>
+  </wpt>
+  <wpt lat="45.228239" lon="6.780238">
+    <name>Camping MUNICIPAL LE VAL D'AMBIN 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'annee; Places: 160; Budget €/j: ; Addr: 602 route de l'Eglise, 73500 BRAMANS; Tel: 04 79 05 03 05</desc>
+    <url>http://www.camping-bramansvanoise.com</url>
+  </wpt>
+  <wpt lat="45.776144" lon="5.815887">
+    <name>Camping MUNICIPAL BEL AIR 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 40; Budget €/j: ; Addr: Quinfieux, 73310 ST PIERRE DE CURTILLE; Tel: 04 79 54 25 48</desc>
+    <url>http://www.cc-chautagne.fr/saintpierre-de-curtille.html</url>
+  </wpt>
+  <wpt lat="45.417732" lon="5.857773">
+    <name>Camping MUNICIPAL LE COZON 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-Septembre; Places: 33; Budget €/j: ; Addr: 73670 ST PIERRE D ENTREMONT; Tel: 04 79 65 89 65</desc>
+    <url>http://saintpierredentremont.org/savoie/category/tourisme/camping-municipal-le-cozon/</url>
+  </wpt>
+  <wpt lat="45.719604" lon="5.936737">
+    <name>Camping MUNICIPAL GRESY SUR AIX 2** </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: 73100 GRESY SUR AIX; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="45.548919" lon="5.985317">
+    <name>Camping MUNICIPAL LE SAVOY 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 110; Budget €/j: ; Addr: 73190 CHALLES LES EAUX; Tel: 04 79 72 97 31</desc>
+    <url>http://www.ville-challesleseaux.com</url>
+  </wpt>
+  <wpt lat="45.442067" lon="6.650162">
+    <name>Camping MUNICIPAL LE CHEVELU 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 200; Budget €/j: ; Addr: Route des Bois Chevelu, 73350 BOZEL; Tel: 04 79 22 04 80</desc>
+    <url>http://www.campinglechevelu.com</url>
+  </wpt>
+  <wpt lat="45.67926" lon="5.464411">
+    <name>Camping MUNICIPAL la Rivoirette 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-Septembre; Places: 70; Budget €/j: ; Addr: 335 rue François Perrin, 38510 MORESTEL; Tel: 06 27 41 41 17</desc>
+    <url>http://www.morestel.com/noesit/!/fiche/camping-municipal-la-rivoirette-214980</url>
+  </wpt>
+  <wpt lat="44.987627" lon="5.74379">
+    <name>Camping MUNICIPAL LE SABOT 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 40; Budget €/j: ; Addr: Le Sabot, 38144 NOTRE DAME DE VAUX; Tel: 04 76 30 64 73</desc>
+    <url/>
+  </wpt>
+  <wpt lat="45.635047" lon="5.5723">
+    <name>Camping MUNICIPAL les EPINETTES 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril-Septembre; Places: 80; Budget €/j: ; Addr: 38630 LES AVENIERES; Tel: 04 74 33 92 92</desc>
+    <url/>
+  </wpt>
+  <wpt lat="45.391338" lon="5.73658">
+    <name>Camping MUNICIPAL LES BERGES DU GUIERS 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: mi Juin-mi Septembre; Places: 37; Budget €/j: ; Addr: Le Revol, 38380 ST LAURENT DU PONT; Tel: 04 76 55 20 63</desc>
+    <url>http://www.mairie-st-laurent-du-pont.fr/Camping_Municipal.html</url>
+  </wpt>
+  <wpt lat="45.322823" lon="5.930214">
+    <name>Camping MUNICIPAL LA TERRASSE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-Septembre; Places: 90; Budget €/j: ; Addr: 38660 LA TERRASSE; Tel: 04 76 08 28 68</desc>
+    <url>http://www.isere-tourisme.com/CAM/Camping-du-Lac-de-la-Terrasse/La-Terrasse/fiche-1104-1-38AACAM100046.html</url>
+  </wpt>
+  <wpt lat="45.259422" lon="5.777435">
+    <name>Camping MUNICIPAL la VIRETTE 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: Juin-Aout; Places: 25; Budget €/j: ; Addr: 38700 LE SAPPEY EN CHARTREUSE; Tel: 04 76 88 85 28</desc>
+    <url>http://www.sappey-tourisme.com</url>
+  </wpt>
+  <wpt lat="45.374338" lon="5.949097">
+    <name>Camping MUNICIPAL la COMBE 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: Juin-Septembre; Places: 30; Budget €/j: ; Addr: 38660 ST VINCENT DE MERCUZE; Tel: 04 76 13 42 23</desc>
+    <url>http://www.isere-tourisme.com/CAM/Camping-Municipal-La-Combe/Saint-Vincent-de-Mercuze/fiche-1104-1-38AACAM100051.html)</url>
+  </wpt>
+  <wpt lat="44.955081" lon="6.17569">
+    <name>Camping MUNICIPAL la BERADE 3* </name>
+    <sym>Camp</sym>
+    <desc>Open: Juin-Septembre; Places: 165; Budget €/j: ; Addr: 38520 ST CHRISTOPHE EN OISANS; Tel: 04 76 79 20 45</desc>
+    <url>http://www.berarde.com</url>
+  </wpt>
+  <wpt lat="45.455314" lon="5.637360000000001">
+    <name>Camping MUNICIPAL LA COMBE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: La Combe, 38620 ST GEOIRE EN VALDAINE; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="45.380909" lon="5.640793">
+    <name>Camping MUNICIPAL LA GRANDE FORET </name>
+    <sym>Camp</sym>
+    <desc>Open: mi Juin-mi Septembre; Places: 20; Budget €/j: ; Addr: Route de St Nicolas, 38960 ST ETIENNE DE CROSSEY; Tel: 06 74 97 80 95</desc>
+    <url>http://www.st-etienne-de-crossey.fr</url>
+  </wpt>
+  <wpt lat="44.878255" lon="6.017761">
+    <name>Camping MUNICIPAL VALJOUFFREY 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 50; Budget €/j: ; Addr: 38740 VALJOUFFREY; Tel: 04 76 30 22 28</desc>
+    <url>http://www.valjouffrey.fr/index.php?page=le-camping</url>
+  </wpt>
+  <wpt lat="45.135555" lon="5.438232">
+    <name>Camping MUNICIPAL la Lunette</name>
+    <sym>Camp</sym>
+    <desc>Open: mi Juin - mi Septembre; Places: 29; Budget €/j: ; Addr: 38470 MALLEVAL; Tel: 04 76 38 54 59</desc>
+    <url>http://www.ot-pont-en-royans.com</url>
+  </wpt>
+  <wpt lat="45.062003" lon="5.341415">
+    <name>Camping MUNICIPAL les SERAINES 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: mi Avril-Septembre; Places: 90; Budget €/j: ; Addr: La Plage, 38680 PONT EN ROYANS; Tel: 04 76 36 06 30</desc>
+    <url>http://www.ot-pont-en-royans.com</url>
+  </wpt>
+  <wpt lat="45.838368" lon="5.394287">
+    <name>Camping MUNICIPAL ILE DE LA SERRE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: 38390 PORCIEU AMBLAGNIEU; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="45.070611" lon="6.17363">
+    <name>CAMPING MUNICIPALE BESSE</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: ...; Budget €/j: ; Addr: Les Granges, 38142 BESSE; Tel: 04 76 80 25 80</desc>
+    <url>http://www.besse-en-oisans.com</url>
+  </wpt>
+  <wpt lat="45.064792" lon="5.392914000000001">
+    <name>Camping MUNICIPAL les MILLIERES </name>
+    <sym>Camp</sym>
+    <desc>Open: Avril-mi Novembre; Places: 20; Budget €/j: ; Addr: 38680 CHORANCHE; Tel: 04 76 36 01 65</desc>
+    <url>http://www.ot-pont-en-royans.com</url>
+  </wpt>
+  <wpt lat="45.393146" lon="5.174904">
+    <name>Camping MUNICIPAL les EYDOCHES 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'année; Places: 60; Budget €/j: ; Addr: 515 Avenue des Marais, 38260 FARAMANS; Tel: 04 74 54 21 78</desc>
+    <url>http://www.isere-tourisme.com/selection/campings-et-campings-car</url>
+  </wpt>
+  <wpt lat="44.901605" lon="5.94841">
+    <name>Camping MUNICIPAL les VIGNEAUX 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-Septembre; Places: 30; Budget €/j: ; Addr: 38740 ENTRAIGUES; Tel: 04 76 30 17 05</desc>
+    <url>http://www.isere-tourisme.com/CAM/Camping-Municipal-Les-Vigneaux/Entraigues/fiche-1104-1-38AACAM100071.html</url>
+  </wpt>
+  <wpt lat="45.904344" lon="6.153717">
+    <name>Camping MUNICIPAL le Belvedere 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: mi Mars-mi Octobre; Places: 103; Budget €/j: ; Addr: route du Semnoz, 74000 ANNECY; Tel: 04.50.45.48.30</desc>
+    <url>http://www.annecy.fr/581-camping-annecy-camping-municipal.htm</url>
+  </wpt>
+  <wpt lat="46.056675" lon="6.780109">
+    <name>Camping MUNICIPAL le PELLY </name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: ...; Budget €/j: ; Addr: 74740 Sixt Fer a Cheval; Tel: 04 50 34 12 17</desc>
+    <url>http://www.sixtferacheval.com/camping</url>
+  </wpt>
+  <wpt lat="45.815401" lon="3.8740540000000006">
+    <name>Camping MUNICIPAL les Vernieres</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 10; Budget €/j: ; Addr: La Roche, 42440 SAINT THURIN ; Tel: 04 77 97 91 10</desc>
+    <url>http://www.haut-forez-tourisme.fr</url>
+  </wpt>
+  <wpt lat="45.392182" lon="3.873711">
+    <name>Camping MUNICIPAL le BANDIER</name>
+    <sym>Camp</sym>
+    <desc>Open: nc; Places: 23; Budget €/j: ; Addr: 63840 SAUVESSANGE; Tel: 04-73-95-94-29</desc>
+    <url>http://www.auvergne-tourisme.info/hotellerie-de-plein-air/sauvessanges/camping-le-bandier/tourisme-HPAAUV063FS00019-1.html</url>
+  </wpt>
+  <wpt lat="45.017244" lon="5.294037">
+    <name>Camping MUNICIPAL Les Bords de l Yonne 2</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril - Septembre; Places: 120; Budget €/j: ; Addr: Chemin Ernest Chuillon, 26190 Saint-Jean-en-Royans; Tel: 04 75 47 74 60</desc>
+    <url>http://www.camping-saintjeanenroyans.com</url>
+  </wpt>
+  <wpt lat="45.792425" lon="4.3396">
+    <name>Camping MUNICIPAL de la ferme Seigne</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-mi Septembre; Places: ...; Budget €/j: ; Addr: 42110 PANISSIERES; Tel: 04.77.28.69.68</desc>
+    <url>http://www.montagnesdumatin-tourisme.com</url>
+  </wpt>
+  <wpt lat="45.433515" lon="3.8815209999999998">
+    <name>Camping MUNICIPAL le PRADOUX 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril-Octobre; Places: 51; Budget €/j: ; Addr: 63840 VIVEROLS; Tel: 04 73 95 96 90</desc>
+    <url>http://www.viverols.free.fr</url>
+  </wpt>
+  <wpt lat="45.238152" lon="6.274567">
+    <name>Camping MUNICIPAL de la Tigny</name>
+    <sym>Camp</sym>
+    <desc>Open: l'ete; Places: 17; Budget €/j: ; Addr: 73300 VILLAREMBERT; Tel: 04 79 56 74 65</desc>
+    <url>http://www.le-corbier.com</url>
+  </wpt>
+  <wpt lat="45.338195" lon="5.062659000000001">
+    <name>Camping Intercommunal Beaurepaire</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril - mi Octobre; Places: 60; Budget €/j: ; Addr: 370 avenue Général de Gaulle, 38270 Beaurepaire ; Tel: 04 74 84 64 89</desc>
+    <url>http://www.territoire-de-beaurepaire.fr/spip.php?article38</url>
+  </wpt>
+  <wpt lat="45.800084" lon="5.306396">
+    <name>Camping MUNICIPAL Val d Amby</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-mi Octobre; Places: ...; Budget €/j: ; Addr: 38118 VAL D AMBY; Tel: 04 74 94 22 81</desc>
+    <url>http://www.isere-tourisme.com/CAM/Camping-Municipal-du-Val-d-Amby/Hieres-sur-Amby/fiche-1104-1-38AACAM100162.html</url>
+  </wpt>
+  <wpt lat="46.429309" lon="4.933162">
+    <name>Camping Intercommunal de Pont de Vaux 4*</name>
+    <sym>Camp</sym>
+    <desc>Open: mi Juin-mi Octobre; Places: 100; Budget €/j: ; Addr: Camping Champ d’Eté, 01190 REYSSOUZE; Tel: 03 85 23 96 10</desc>
+    <url>http://www.camping-champ-dete.com   </url>
+  </wpt>
+  <wpt lat="46.166517" lon="5.585861">
+    <name>Camping MUNICIPAL du Signal 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril-mi Octobre; Places: 39; Budget €/j: ; Addr: 17 avenue du Camping, 01130 Nantua; Tel: 04 74 75 02 09 </desc>
+    <url>http://www.camping-nantua.fr </url>
+  </wpt>
+  <wpt lat="46.227353" lon="5.421753">
+    <name>Camping Municipal Simande sur Suran 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai - Aout; Places: 15; Budget €/j: ; Addr: Le Village, 01250 Simandre-sur-Suran; Tel: 04 74 30 63 36 </desc>
+    <url>http://www.chavannes-sur-suran.fr </url>
+  </wpt>
+  <wpt lat="45.50767" lon="5.203056">
+    <name>Camping MUNICIPAL Base loisirs Moulin 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: mi Avril-Septembre; Places: 73; Budget €/j: ; Addr: Base de Loisirs du Moulin, 38440 MEYRIEU les ETANGS; Tel: 04 74 59 30 34</desc>
+    <url/>
+  </wpt>
+  <wpt lat="46.077399" lon="6.719685">
+    <name>Camping MUNICIPAL le Giffre 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'annee; Places: 212; Budget €/j: ; Addr: 1064 Route du Lac aux Dames, 74340 SAMOENS; Tel: 04 50 34 41 92 </desc>
+    <url>http://www.camping-samoens.com </url>
+  </wpt>
+  <wpt lat="44.85197500000001" lon="5.623798">
+    <name>Camping MUNICIPAL la Chabannerie 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-Septembre; Places: 30; Budget €/j: ; Addr: 38930 SAINT MARTIN de CLELLES; Tel: 04 76 34 00 38</desc>
+    <url>http://www.camping-isere.fr </url>
+  </wpt>
+  <wpt lat="46.054531000000004" lon="5.157995">
+    <name>Camping MUNICIPAL de la Niziere 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: Ouverture mi Avril-Septembre/
+locations toute l'annee; Places: 70; Budget €/j: ; Addr: 01320 SAINT NIZIER LE DESERT; Tel: 04 74 30 35 16</desc>
+    <url>http://www.cc-chalamont.com/Base_loisir/index.php </url>
+  </wpt>
+  <wpt lat="45.703542" lon="6.113033">
+    <name>Camping MUNICIPAL les Iles du Cheran 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: mi Avril-Septembre; Places: 250; Budget €/j: ; Addr: 73190 LESCHERAINES; Tel: 04 79 63 80 00</desc>
+    <url>http://www.savoie-camping.com </url>
+  </wpt>
+  <wpt lat="46.252761" lon="4.828491">
+    <name>Camping MUNICIPAL lac de Cormoranche 4*</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai -Septembre; Places: 117; Budget €/j: ; Addr: Base de Loisirs, 01290 CORMORANCHE SUR SAONE; Tel: 03 85 23 97 10</desc>
+    <url>http://www.lac-cormoranche.com     </url>
+  </wpt>
+</gpx>

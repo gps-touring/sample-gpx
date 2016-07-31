@@ -1,0 +1,321 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:gpx="http://www.topografix.com/GPX/1/0" version="1.0" creator="ViewRanger - http://www.viewranger.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+  <wpt lat="44.693796" lon="5.4894300000000005">
+    <name>Camping Municipal les Chassieres 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 164.0; Budget €/j: 20-25; Addr: 26410 CHATILLON EN DIOIS; Tel: 04 75 21 10 30</desc>
+    <url>http://www.camping-chatillonendiois.com </url>
+  </wpt>
+  <wpt lat="44.694681" lon="5.304723">
+    <name>Camping MUNICIPAL la Colombe </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 50.0; Budget €/j: 10-15; Addr: 26340 AUREL; Tel: 04 75 21 70 56 </desc>
+    <url>http://goo.gl/IBvH5K</url>
+  </wpt>
+  <wpt lat="44.517945" lon="5.211146">
+    <name>Camping MUNICIPAL Bouvieres 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 20.0; Budget €/j: 10-15; Addr: 26460 BOUVIERES; Tel: 04 75 53 20 02 </desc>
+    <url>http://goo.gl/OEkO4y</url>
+  </wpt>
+  <wpt lat="44.274858" lon="5.276656">
+    <name>Camping MUNICIPAL le Jalinier </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 74.0; Budget €/j: 10-15; Addr: Quartier du Jalinier, 26170 BUIS LES BARONNIES; Tel: 04 75 28 04 96</desc>
+    <url>http://goo.gl/XrYmFI</url>
+  </wpt>
+  <wpt lat="44.718441" lon="4.351959">
+    <name>Camping MUNICIPAL le Pont de l Huile</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 30.0; Budget €/j: 10-15; Addr: Pont de l'Huile, 07530 ANTRAIGUES SUR VOLANE; Tel: 04 75 38 70 10</desc>
+    <url>http://goo.gl/nARgdt</url>
+  </wpt>
+  <wpt lat="44.853329" lon="4.353805">
+    <name>Camping MUNICIPAL la GANDOLE </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 15.0; Budget €/j: ns; Addr: 07160 DORNAS; Tel: 04 75 29 23 45</desc>
+    <url>http://www.dornas.fr/page2.html#4</url>
+  </wpt>
+  <wpt lat="44.823552" lon="4.070649">
+    <name>Camping Municipal Lac d ISSARLES 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 180.0; Budget €/j: 10-15; Addr: Les Bords du Lac, 07470 LE LAC D ISSARLES; Tel: 04 66 46 20 70</desc>
+    <url>http://www.campinglesbordsdulacdissarles.fr</url>
+  </wpt>
+  <wpt lat="44.900488" lon="4.323817">
+    <name>Camping Municipal ARCENS 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 15.0; Budget €/j: 10-15; Addr: 07310 ARCENS; Tel: 04 75 30 40 72</desc>
+    <url>http://goo.gl/dktJfy</url>
+  </wpt>
+  <wpt lat="44.738351" lon="4.248962">
+    <name>Camping Municipal RIEU SEPOUX 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 30.0; Budget €/j: 10-15; Addr: Rieu Sépoux, 07450 BURZET; Tel: 04 75 88 09 06</desc>
+    <url>http://goo.gl/7yjlPE</url>
+  </wpt>
+  <wpt lat="44.813993" lon="4.399338">
+    <name>Camping Municipal de GOURJATOUX 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 25.0; Budget €/j: 10-15; Addr: 07190 MARCOLS LES EAUX; Tel: 04 75 65 63 36</desc>
+    <url>http://goo.gl/XwQGTi</url>
+  </wpt>
+  <wpt lat="44.943903" lon="4.730644">
+    <name>Camping MUNICIPAL la DUZONNE 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 55.0; Budget €/j: 15-20; Addr: Le Plan d'Eau, 07440 ALBOUSSIERE; Tel: 04 75 58 20 91</desc>
+    <url>http://www.camping-alboussiere.fr</url>
+  </wpt>
+  <wpt lat="44.668165" lon="4.168797">
+    <name>Camping MUNICIPAL le GRAND PRE 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 50.0; Budget €/j: 10-15; Addr: Le Grand Pré , 07330 BARNAS; Tel: 04 75 36 40 12</desc>
+    <url>http://goo.gl/gi1Cd9</url>
+  </wpt>
+  <wpt lat="44.805118" lon="3.9709140000000005">
+    <name>Camping MUNICIPAL COUCOURON 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 85.0; Budget €/j: 10-15; Addr: Le village, 07470 COUCOURON; Tel: 04 66 46 13 08</desc>
+    <url>http://www.coucouron.fr</url>
+  </wpt>
+  <wpt lat="45.117872" lon="4.535637">
+    <name>Camping MUNICIPAL le PRE du MOULIN 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 70.0; Budget €/j: 10-15; Addr: 07520 LALOUVESC; Tel: 04 75 67 84 86</desc>
+    <url>http://www.lalouvesc.com</url>
+  </wpt>
+  <wpt lat="44.725718" lon="4.003959">
+    <name>Camping Municipal LANARCE 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 35.0; Budget €/j: 10-15; Addr: 07660 LANARCE; Tel: 04 66 69 47 87</desc>
+    <url>http://goo.gl/wlDoFg</url>
+  </wpt>
+  <wpt lat="44.831526" lon="4.449463">
+    <name>Camping Municipal BOIS CHABRIER 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 20.0; Budget €/j: ns; Addr: 07190 ALBON; Tel: 04 75 65 65 81</desc>
+    <url>http://goo.gl/D1v37m</url>
+  </wpt>
+  <wpt lat="44.859519" lon="4.843254">
+    <name>Camping Municipal CHARMES sur Rhone 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 20.0; Budget €/j: 10-15; Addr: Quartier de la Grange, 07800 CHARMES SUR RHONE; Tel: 04 75 60 96 62</desc>
+    <url>http://goo.gl/che54x</url>
+  </wpt>
+  <wpt lat="45.085157" lon="4.626617">
+    <name>Camping Municipal PIARRAGEAI 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 50.0; Budget €/j: 10-15; Addr: 1360 route de Brintenas, 07410 ST FELICIEN; Tel: 04 75 06 03 05</desc>
+    <url>http://campingsaintfelicien.fr/fr/Accueil.html</url>
+  </wpt>
+  <wpt lat="45.068429" lon="4.843941">
+    <name>Camping Municipal Les Lucs 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 50.0; Budget €/j: 15-20; Addr: 26600 TAIN L HERMITAGE; Tel: 04 75 08 32 82</desc>
+    <url>http://www.ville-tain.fr</url>
+  </wpt>
+  <wpt lat="44.774113" lon="4.159698">
+    <name>Camping MUNICIPAL le RIEUTORD </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 5.0; Budget €/j: 10-15; Addr: 07510 USCLADES ET RIEUTORD; Tel: 04 75 38 00 48</desc>
+    <url>http://goo.gl/Ei76Lo</url>
+  </wpt>
+  <wpt lat="44.838343" lon="4.601898">
+    <name>Camping Municipal ST MICHEL 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 44.0; Budget €/j: 15-20; Addr: 07360 ST MICHEL DE CHABRILLANOUX; Tel: 04 75 66 25 13</desc>
+    <url>http://www.tourisme-ardeche.com</url>
+  </wpt>
+  <wpt lat="44.893823" lon="4.643097">
+    <name>Camping Municipal le BOIS de PRAT 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 40.0; Budget €/j: 10-15; Addr: Allée de Prat,07240 VERNOUX EN VIVARAIS; Tel: 04 75 58 11 90</desc>
+    <url>http://goo.gl/QzqNI7</url>
+  </wpt>
+  <wpt lat="44.293714" lon="4.566729">
+    <name>Camping Municipal VILLAGE 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 70.0; Budget €/j: 10-15; Addr: Chemin la joyeuse,07700 ST MARTIN D ARDECHE; Tel: 04 75 04 65 25</desc>
+    <url>http://www.ot-stmartin-ardeche.com/campings.php</url>
+  </wpt>
+  <wpt lat="44.397731" lon="4.386635">
+    <name>Camping Municipal ZAMENHOLF 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 150.0; Budget €/j: 25-30; Addr: Route de Salavas, 07150 VALLON PONT D ARC; Tel: 04 75 88 04 73</desc>
+    <url>http://www.municipalvallon.com</url>
+  </wpt>
+  <wpt lat="44.878255" lon="4.607391">
+    <name>Camping Municipal SILHAC 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 10.0; Budget €/j: 5-10; Addr: 07240 SILHAC; Tel: 04 75 58 11 36</desc>
+    <url>http://goo.gl/JTWCRQ</url>
+  </wpt>
+  <wpt lat="44.452654" lon="4.335823">
+    <name>Camping Municipal RUOMS 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 100.0; Budget €/j: 15-20; Addr: 07120 RUOMS; Tel: 04 75 93 99 16</desc>
+    <url>http://www.ot-pays-ruomsois.com</url>
+  </wpt>
+  <wpt lat="44.312779" lon="4.431567">
+    <name>Camping Municipal AVEN d ORGNAC 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 120.0; Budget €/j: 15-20; Addr: 07150 ORGNAC L AVEN; Tel: 04 75 38 63 68</desc>
+    <url>http://www.orgnacvillage.com</url>
+  </wpt>
+  <wpt lat="44.711427" lon="4.207764000000001">
+    <name>Camping Municipal Pre Bonnefoy</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 54.0; Budget €/j: 15-20; Addr: 07560 MONTPEZAT SOUS BAUZON; Tel: 04 75 94 41 29</desc>
+    <url>http://goo.gl/Waqt8Q</url>
+  </wpt>
+  <wpt lat="44.344967" lon="5.284424">
+    <name>Camping Municipal LES CIGALES 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 30.0; Budget €/j: 15-20; Addr: 26110 STE JALLE; Tel: 04 75 27 34 88</desc>
+    <url>http://www.camping.sainte-jalle.fr</url>
+  </wpt>
+  <wpt lat="44.296333" lon="5.009766">
+    <name>Camping Municipal ST MAURICE / EYGUES 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 45.0; Budget €/j: 15-20; Addr: 26110 ST MAURICE SUR EYGUES; Tel: 04 75 27 60 61</desc>
+    <url>http://www.saintmauricedrome.fr</url>
+  </wpt>
+  <wpt lat="45.009962" lon="4.848404">
+    <name>Camping Municipal les VERNES 4*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 43.0; Budget €/j: 15-20; Addr: Les Descizes, 26600 LA ROCHE DE GLUN; Tel: 04 75 84 54 11</desc>
+    <url>http://goo.gl/x8v3jI</url>
+  </wpt>
+  <wpt lat="44.931813" lon="5.431538000000001">
+    <name>Camping Municipal ST AGNAN 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 30.0; Budget €/j: 10-15; Addr: 26420 ST AGNAN EN VERCORS; Tel: 04 75 48 20 67</desc>
+    <url>http://www.saint-agnan-vercors.com</url>
+  </wpt>
+  <wpt lat="45.17816500000001" lon="4.817505">
+    <name>Camping Municipal les ISLES de SILON 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 81.0; Budget €/j: ; Addr: 26240 ST VALLIER; Tel: 04 75 23 22 17</desc>
+    <url>http://www.ladrometourisme.com</url>
+  </wpt>
+  <wpt lat="45.059214" lon="5.262451">
+    <name>Camping Municipal ST NAZAIRE en ROYANS 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 75.0; Budget €/j: 15-20; Addr: 26190 ST NAZAIRE EN ROYANS; Tel: 04 75 48 41 18</desc>
+    <url>http://www.camping-saint-nazaire-en-royans.com/</url>
+  </wpt>
+  <wpt lat="45.007535" lon="5.284424">
+    <name>Camping MUNICIPAL ST JEAN en ROYANS 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 140.0; Budget €/j: 15-20; Addr: 26190 ST JEAN EN ROYANS; Tel: 04 75 47 74 60</desc>
+    <url>http://www.camping-saintjeanenroyans.com/)</url>
+  </wpt>
+  <wpt lat="44.203866" lon="5.535736">
+    <name>Camping Municipal les BIAUX 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 21.0; Budget €/j: 10-15; Addr: 26560 SEDERON; Tel: 06 58 84 69 89</desc>
+    <url>http://goo.gl/yPkH4V</url>
+  </wpt>
+  <wpt lat="44.503362" lon="5.572815">
+    <name>Camping Municipal le MOULIN 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 18.0; Budget €/j: 10-15; Addr: RD 306, 26310 VALDROME; Tel: 04 75 21 40 06</desc>
+    <url>http://www.ot-valdrome.com</url>
+  </wpt>
+  <wpt lat="44.48523900000001" lon="5.380554">
+    <name>Camping MUNICIPAL la MOTTE CHALANCON 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 110.0; Budget €/j: 15-20; Addr: 26470 LA MOTTE CHALANCON; Tel: 04 75 27 22 95</desc>
+    <url>http://www.lamottechalancon.com/camping-municipal.html)</url>
+  </wpt>
+  <wpt lat="44.535675" lon="5.015259">
+    <name>Camping MUNICIPAL LORETTE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 60.0; Budget €/j: 10-15; Addr: 26160 LE POËT-LAVAL; Tel: 04 75 91 00 62</desc>
+    <url>http://www.campinglorette.fr/</url>
+  </wpt>
+  <wpt lat="44.624686" lon="5.52475">
+    <name>Camping MUNICIPAL les THIBAUDS 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 25.0; Budget €/j: 10-15; Addr: 26310 MISCON; Tel: 04 75 21 30 47</desc>
+    <url>http://www.camping-miscon.fr/)</url>
+  </wpt>
+  <wpt lat="44.594379" lon="5.015259">
+    <name>Camping MUNICIPAL LE PARC 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 33.0; Budget €/j: 5-10; Addr: 26160 PONT DE BARRET; Tel: 04 75 90 47 64</desc>
+    <url>http://www.paysdedieulefit.eu</url>
+  </wpt>
+  <wpt lat="44.412202" lon="5.358582">
+    <name>Camping MUNICIPAL les Aires 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 40.0; Budget €/j: 10-15; Addr: Les Aires, 26510 REMUZAT; Tel: 04 75 27 81 43</desc>
+    <url>http://www.remuzat.com</url>
+  </wpt>
+  <wpt lat="44.750634" lon="5.377808">
+    <name>Camping MUNICIPAL de JUSTIN 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 175.0; Budget €/j: 15-20; Addr: 26150 DIE; Tel: 04 75 22 14 77</desc>
+    <url>http://www.camping-die.com</url>
+  </wpt>
+  <wpt lat="44.172355" lon="5.443726">
+    <name>Camping Municipal MONTBRUN les Bains</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 55.0; Budget €/j: 10-15; Addr: Le Pré des Arbres, 26570 MONTBRUN LES BAINS; ; Tel: 04 75 28 85 41</desc>
+    <url>http://goo.gl/UQPBZl</url>
+  </wpt>
+  <wpt lat="44.65107" lon="5.413513">
+    <name>Camping MUNICIPAL LES ECUREUILS 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 30.0; Budget €/j: 10-15; Addr: 26310 RECOUBEAU JANSAC; Tel: 04 75 21 35 97</desc>
+    <url>http://site.recoubeau-jansac.fr/index.php/activite/show/categorie/Tourisme-Hebergement/id/60)</url>
+  </wpt>
+  <wpt lat="44.564056" lon="5.013199000000001">
+    <name>Camping Municipal  CHATAIGNIERS 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 50.0; Budget €/j: 10-15; Addr: 26160 EYZAHUT; Tel: 04 75 90 16 35</desc>
+    <url>http://goo.gl/JMG05P</url>
+  </wpt>
+  <wpt lat="44.416126" lon="4.899902">
+    <name>Camping MUNICIPAL la ROCHECOURBIERE </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 30.0; Budget €/j: ns; Addr: 26230 GRIGNAN ; Tel: 04 75 46 50 06</desc>
+    <url>http://www.ville-grignan.fr</url>
+  </wpt>
+  <wpt lat="44.541548" lon="4.934235">
+    <name>Camping Municipal EMILE LOUBET 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 40.0; Budget €/j: 10-15; Addr: Chemin de la Gallée, 26160 LA BEGUDE DE MAZENC; Tel: 04 75 50 62 69</desc>
+    <url>http://www.paysdedieulefit.eu/sejour/campings.htm</url>
+  </wpt>
+  <wpt lat="44.964798" lon="5.421753">
+    <name>Camping Municipal les BRUYERES 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 84.0; Budget €/j: 15-20; Addr: 26420 LA CHAPELLE EN VERCORS; Tel: 04 75 48 21 46</desc>
+    <url>http://www.lachapelleenvercors.fr</url>
+  </wpt>
+  <wpt lat="44.48775" lon="4.720345">
+    <name>Camping Municipal la GRAVELINE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 33.0; Budget €/j: 10-15; Addr: La Graveline, 26780 CHATEAUNEUF DU RHONE; Tel: 04 75 90 80 96</desc>
+    <url>http://goo.gl/RIwWC3</url>
+  </wpt>
+  <wpt lat="44.609046" lon="4.935608">
+    <name>Camping Municipal les CIGALES 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 20.0; Budget €/j: 15-20; Addr: 26450 CLEON D ANDRAN; Tel: 04 75 90 12 73</desc>
+    <url>http://www.mairie-cleon-andran.fr</url>
+  </wpt>
+  <wpt lat="45.256552" lon="4.672794">
+    <name>Camping Municipal Vaure</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 78.0; Budget €/j: 10-15; Addr: rue Mathieu Duret , 07100 Annonay; Tel: 04 75 33 73 73</desc>
+    <url>http://goo.gl/zcLy9L</url>
+  </wpt>
+  <wpt lat="44.286994" lon="4.933248">
+    <name>Camping Municipal de Tulette 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 28.0; Budget €/j: 15-20; Addr: 141 rue du chateau, 26790 TULETTE; Tel: 04 26 51 03 21</desc>
+    <url>http://www.tulette.fr/camping-municipal.php</url>
+  </wpt>
+</gpx>

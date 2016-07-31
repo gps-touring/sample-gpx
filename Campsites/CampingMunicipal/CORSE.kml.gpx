@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:gpx="http://www.topografix.com/GPX/1/0" version="1.0" creator="ViewRanger - http://www.viewranger.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+  <wpt lat="42.263415" lon="8.700861">
+    <name>Camping MUNICIPAL OTA PORTO </name>
+    <sym>Camp</sym>
+    <desc>Open: mi Mai -Septembre; Places: 300; Budget €/j: ; Addr: Route de la Plage, 20150 PORTO; Tel: 04 95 26 17 76 </desc>
+    <url>http://www.campingmunicipal-otaporto.fr </url>
+  </wpt>
+  <wpt lat="41.753001" lon="9.098182">
+    <name>Camping Municipal SERRA DI SCOPAMÈNE</name>
+    <sym>Camp</sym>
+    <desc>Open: en cours verification; Places: ns; Budget €/j: ; Addr: Alta Rocca, 20127 SERRA DI SCOPAMÈNE; Tel: 04.95.78.60.13</desc>
+    <url/>
+  </wpt>
+  <wpt lat="41.721554" lon="9.149723">
+    <name>Camping Municipal San Gavino 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: en cours de verification ; Places: 35 ; Budget €/j: ; Addr: 20170 SAN GAVINO DI CARBINI; Tel: 04 95 78 48 17</desc>
+    <url/>
+  </wpt>
+  <wpt lat="41.749639" lon="9.171267">
+    <name>Camping MUNICIPAL Zonza 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-Septembre; Places: 120; Budget €/j: ; Addr: 20124 ZONZA; Tel: 04 95 78 62 74 </desc>
+    <url>http://www.zonza-saintelucie.com</url>
+  </wpt>
+</gpx>

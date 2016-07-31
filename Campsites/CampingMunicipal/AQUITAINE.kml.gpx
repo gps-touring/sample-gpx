@@ -1,0 +1,477 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:gpx="http://www.topografix.com/GPX/1/0" version="1.0" creator="ViewRanger - http://www.viewranger.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+  <wpt lat="43.602801" lon="-1.456375">
+    <name>Camping Municipal  les Pins Bleus 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 20-25; Addr: Avenue de l ocean, 40133 LABENNE; Tel: 05 59 45 41 13</desc>
+    <url>http://www.lespinsbleus.com </url>
+  </wpt>
+  <wpt lat="45.082036" lon="-1.186523">
+    <name>Camping Municipal de Carcans-Océan 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 30-35; Addr: 1, rue du Camping, 33121 Carcans-Plage; Tel: 05 56 03 41 44</desc>
+    <url>http://www.camping-carcans-ocean.com</url>
+  </wpt>
+  <wpt lat="44.656329" lon="0.591556">
+    <name>Camping Municipal de la Ferrette </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: Route de Bergerac, 47330 CASTILLONNES; Tel: 05 53 36 94 68 </desc>
+    <url>http://goo.gl/Uwfhye</url>
+  </wpt>
+  <wpt lat="44.388911" lon="0.446545">
+    <name>Camping Municipal Panoramique 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 5-10; Addr: 47260 LAPARADE; Tel: 05 53 84 05 19</desc>
+    <url>http://goo.gl/DzixYj</url>
+  </wpt>
+  <wpt lat="44.57708" lon="0.620492">
+    <name>Camping Municipal  Lougratte 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 47290 LOUGRATTE; Tel: 06 63 32 15 52 </desc>
+    <url>http://www.lougratte.com</url>
+  </wpt>
+  <wpt lat="44.677969" lon="0.177273">
+    <name>Camping Municipal  le Chateau</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 47120 DURAS; Tel: 05.53.83.70.18</desc>
+    <url>http://www.paysdeduras.com/campings.html</url>
+  </wpt>
+  <wpt lat="44.315036" lon="0.091785">
+    <name>Camping Municipal  de la Piscine 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: rue du souvenir Francais, 47700 CASTELJALOUX; Tel: 05 53 93 54 68 </desc>
+    <url>http://www.casteljaloux.fr</url>
+  </wpt>
+  <wpt lat="44.384483" lon="0.807152">
+    <name>Camping Municipal  le lac de Ferie 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 15-20; Addr: Route 961, 47140 PENNE D AGENAIS; Tel: 05 53 41 30 97</desc>
+    <url>http://goo.gl/RvQxNg</url>
+  </wpt>
+  <wpt lat="44.394052" lon="0.253716">
+    <name>Camping Municipal LAGRUERE 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: Barne - Halte nautique, 47400 Lagruère; Tel: 05 53 20 95 47</desc>
+    <url>http://lagruere.info</url>
+  </wpt>
+  <wpt lat="44.218631" lon="-1.284027">
+    <name>Camping Municipal  la Plage 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 20-25; Addr: Avenue de Woolsack, 40200 MIMIZAN; Tel: 05 58 09 01 21</desc>
+    <url>http://www.mimizan-camping.com</url>
+  </wpt>
+  <wpt lat="44.218877" lon="-1.230297">
+    <name>Camping Municipal  le Lac 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 15-20; Addr: Avenue de Woolsack, 40200 MIMIZAN ; Tel: 05 58 09 01 21</desc>
+    <url>http://www.mimizan-camping.com</url>
+  </wpt>
+  <wpt lat="43.587292" lon="-0.736256">
+    <name>Camping Municipal  la DIGUE </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 5-10; Addr: 90 route de Bonnegarde, 40330 AMOU; Tel: 05 58 89 00 22</desc>
+    <url>http://goo.gl/fRXdFD</url>
+  </wpt>
+  <wpt lat="44.144153" lon="-1.240211">
+    <name>Camping Municipal  le Tatiou 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 20-25; Addr: 40170 BIAS; Tel: 05 58 09 04 76 </desc>
+    <url>http://www.campingletatiou.com</url>
+  </wpt>
+  <wpt lat="43.629987" lon="-1.4326">
+    <name>Camping Municipal  la Civelle 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 25-30; Addr: Rue des Biches, 40130 CAPBRETON; Tel: 05 58 72 15 11 </desc>
+    <url>http://www.campinglacivelle.fr</url>
+  </wpt>
+  <wpt lat="43.982532" lon="0.016265">
+    <name>Camping Municipal  la Cheneraie 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: Bordenave rd38, 40310 GABARRET; Tel: 05 58 44 92 62 </desc>
+    <url>http://goo.gl/c6ABEz</url>
+  </wpt>
+  <wpt lat="43.792767" lon="-1.406186">
+    <name>Camping Municipal  les Sableres 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 25-30; Addr: Boulevard du Marensin , 40480 VIEUX BOUCAU LES BAINS; Tel: 05 58 48 12 29</desc>
+    <url>http://www.camping-les-sableres.com</url>
+  </wpt>
+  <wpt lat="44.037257" lon="-1.334839">
+    <name>Camping Municipal  la plage du cap de l Homy 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 30-35; Addr: 600, avenue de l'Océan, 40170 LIT ET MIXE; Tel: 05 58 42 83 47</desc>
+    <url>http://www.camping-cap.com</url>
+  </wpt>
+  <wpt lat="43.649057" lon="-0.590515">
+    <name>Camping Municipal  la Cite Verte </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 20-25; Addr: Chemin des Loussets, 40700 HAGETMAU; Tel: 05 58 79 79 79 </desc>
+    <url>http://www.tourisme-hagetmau.com</url>
+  </wpt>
+  <wpt lat="43.773093" lon="-0.435762">
+    <name>Camping Municipal l Adour 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: Rue du Parc des Sports, 40270 GRENADE SUR L ADOUR ; Tel: 05 58 45 91 14</desc>
+    <url>http://goo.gl/yxQMuz</url>
+  </wpt>
+  <wpt lat="43.635811" lon="-0.382032">
+    <name>Camping Municipal  Geaune 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 11, route de Clèdes, 40320 GEAUNE; Tel: 05 58 44 50 27 </desc>
+    <url>http://goo.gl/pYQyRr</url>
+  </wpt>
+  <wpt lat="43.758728" lon="-0.75325">
+    <name>Camping Municipal  la Saucille 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: Rue du Vieux Port, 40250 MUGRON; Tel: 05 58 97 98 50</desc>
+    <url>http://goo.gl/YEeH4s</url>
+  </wpt>
+  <wpt lat="45.434238" lon="-1.031427">
+    <name>Camping Municipal  St Vivien 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 35 rue Ludovic Trarieux, 33590 ST VIVIEN DE MEDOC; Tel: 05 56 09 43 77</desc>
+    <url>http://goo.gl/9VA4TL</url>
+  </wpt>
+  <wpt lat="44.823202" lon="-0.109198">
+    <name>Camping Municipal Sainte Terre</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 33350 STE TERRE; Tel: 05 57 47 16 23</desc>
+    <url>http://goo.gl/ATqUQz</url>
+  </wpt>
+  <wpt lat="45.090975" lon="-0.543823">
+    <name>Camping Municipal  de Teuillac</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 33710 TEUILLAC; Tel: 05 57 64 34 55</desc>
+    <url>http://goo.gl/rw32WA</url>
+  </wpt>
+  <wpt lat="45.185379" lon="-0.7425">
+    <name>Camping Municipal  les Gabarreys 4*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 20-25; Addr: Route de la Rivière, 33250 PAUILLAC; Tel: 05 56 59 10 03 </desc>
+    <url>http://www.pauillac-medoc.com</url>
+  </wpt>
+  <wpt lat="45.26788" lon="-1.161289">
+    <name>Camping Municipal  du Pin Sec 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 15-20; Addr: 33990 NAUJAC SUR MER; Tel: 05 56 73 00 66 </desc>
+    <url>http://www.naujac.com</url>
+  </wpt>
+  <wpt lat="44.750756" lon="-1.178112">
+    <name>Camping Municipal les Pastourelles 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 20-25; Addr: Claouey, 33950 LEGE CAP FERRET; Tel: 05 56 60 70 61</desc>
+    <url>http://www.legecapferret.fr/lespastourelles</url>
+  </wpt>
+  <wpt lat="44.891816" lon="-1.20532">
+    <name>Camping Municipal  la Grigne 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 25-30; Addr: Route de l'Océan, 33680 LE PORGE; Tel: 05 56 26 54 88</desc>
+    <url>http://www.leporge.fr</url>
+  </wpt>
+  <wpt lat="45.433876" lon="-1.146355">
+    <name>Camping Municipal  LE GURP 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 20-25; Addr: route de l ocean, 33590 GRAYAN ET L HOPITAL ; Tel: 05 56 09 44 53</desc>
+    <url>http://goo.gl/8sL8d5</url>
+  </wpt>
+  <wpt lat="44.82903" lon="0.03695">
+    <name>Camping Municipal  Lo Qualh </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 5-10; Addr: le bourg sud, 33350 FLAUJAGUES; Tel: 05 57 40 72 23 </desc>
+    <url>http://goo.gl/R412YU</url>
+  </wpt>
+  <wpt lat="45.249105" lon="-0.628302">
+    <name>Camping Municipal  Braud 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 33820 BRAUD ET ST LOUIS; Tel: 05 57 42 60 87</desc>
+    <url>http://goo.gl/Bnf98H</url>
+  </wpt>
+  <wpt lat="45.038536" lon="-0.561311">
+    <name>Camping Municipal  la citadelle 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 15-20; Addr: rue du roc, 33710 BOURG; Tel: 05 57 68 40 04</desc>
+    <url>http://goo.gl/l8iScC</url>
+  </wpt>
+  <wpt lat="45.129417" lon="-0.666196">
+    <name>Camping Municipal  la Citadelle</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 33390 BLAYE; Tel: 05 57 42 00 20 </desc>
+    <url>http://goo.gl/zpiq62</url>
+  </wpt>
+  <wpt lat="44.793226" lon="1.207337">
+    <name>Camping  Municipal CENAC 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: RD 46, 24250 CENAC ET ST JULIEN; Tel: 05 53 28 31 91</desc>
+    <url>http://goo.gl/6yWkPI</url>
+  </wpt>
+  <wpt lat="45.337607" lon="1.059709">
+    <name>Camping Municipal  EXCIDEUIL</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: Pont Rouge, 24160 EXCIDEUIL; Tel: 05 53 62 43 72</desc>
+    <url>http://goo.gl/7C7isK</url>
+  </wpt>
+  <wpt lat="44.873146" lon="1.432557">
+    <name>Camping Municipal  la Borgne 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 15-20; Addr: La Borgne, 24370 CAZOULES; Tel: 05 53 29 81 64</desc>
+    <url>http://goo.gl/hWRaJM</url>
+  </wpt>
+  <wpt lat="45.677236" lon="0.640206">
+    <name>Camping Municipal  ST MARTIAL 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: le clos de l ouvrage, 24360 BUSSEROLLES; Tel: 05.53.60.53.04</desc>
+    <url>http://goo.gl/IykkLe</url>
+  </wpt>
+  <wpt lat="43.1259829" lon="-0.4626276">
+    <name>Camping Municipal  les CHENES </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: Rue Cassoures, 64 260 - BUZY; Tel: 05 59 04 80 27</desc>
+    <url>http://goo.gl/SKxXQD</url>
+  </wpt>
+  <wpt lat="43.345155" lon="-0.259552">
+    <name>Camping Municipal la PISCINE</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: Route de la Bastide, 64160 MORLAAS; Tel: 05 59 12 00 87</desc>
+    <url>http://goo.gl/gpH5Qq</url>
+  </wpt>
+  <wpt lat="43.02473" lon="-0.42572">
+    <name>Camping Municipal MONTPLAISIR </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 15-20; Addr: Quartier Monplaisir, 64260 GERE BELESTEN; Tel: 05 59 82 61 18</desc>
+    <url>http://goo.gl/wl3BvX</url>
+  </wpt>
+  <wpt lat="42.99316" lon="-0.414219">
+    <name>Camping Municipal Au Pied de l Aubisque 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 15-20; Addr: Quartier Laneplaa, 64 440 BEOST; Tel: 05 59 82 45 05</desc>
+    <url>http://goo.gl/VSNdca</url>
+  </wpt>
+  <wpt lat="42.998621" lon="-0.598068">
+    <name>Camping Municipal CAROLE 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 64490 BEDOUS; Tel: 05 59 34 59 19</desc>
+    <url>http://www.tourisme-aspe.com</url>
+  </wpt>
+  <wpt lat="42.932296" lon="-0.63446">
+    <name>Camping Municipal le LAUZART 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 15-20; Addr: 64490 LESCUN; Tel: 05 59 34 61 77</desc>
+    <url>http://camping-lescun.com/</url>
+  </wpt>
+  <wpt lat="43.465005" lon="-0.62032">
+    <name>Camping Municipal L OREE du BOIS 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 15-20; Addr: 2 allee des sports , 64000 ARTHEZ DE BEARN; Tel: 05 59 67 76 56</desc>
+    <url>http://www.camping-arthez.com/</url>
+  </wpt>
+  <wpt lat="43.408352" lon="-1.6354180000000003">
+    <name>Camping Municipal  CHIBAU BERRIA 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 25-30; Addr: 525 Chemin de Chibau Berria, 64500 ST JEAN DE LUZ; Tel: 05 59 26 11 94 </desc>
+    <url>http://goo.gl/Ap5GOn</url>
+  </wpt>
+  <wpt lat="43.475844" lon="-0.9385159999999999">
+    <name>Camping Municipal  MOSQUEROS 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: Route de Bayonne, 64270 SALIES DE BEARN; Tel: 06 73 12 52 37</desc>
+    <url>http://goo.gl/JRsLVn</url>
+  </wpt>
+  <wpt lat="43.321181" lon="-0.576782">
+    <name>Camping Municipal le Pont Lat 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 64360 MONEIN; Tel: 05 59 71 27 23</desc>
+    <url>http://goo.gl/54qz2d</url>
+  </wpt>
+  <wpt lat="43.160615" lon="-1.236906">
+    <name>Camping Municipal PLAZA BERRI 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: Avenue du fronton, 64220 SAINT-JEAN-PIED-DE-PORT; Tel: 05 59 37 11 19</desc>
+    <url>http://goo.gl/GVb6Za</url>
+  </wpt>
+  <wpt lat="43.184323" lon="-1.335933">
+    <name>Camping Municipal de L IROULEGUY 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: Borciriette, 64430 ST ETIENNE DE BAIGORRY; Tel: 05 59 37 40 80</desc>
+    <url>http://goo.gl/LV6ib4 </url>
+  </wpt>
+  <wpt lat="45.257957" lon="0.49454600000000004">
+    <name>Camping Municipal  le PRE SEC 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 24350 TOCANE ST APRE; Tel: 05 53 90 40 60</desc>
+    <url>http://www.campingdupresec.com </url>
+  </wpt>
+  <wpt lat="45.412536" lon="0.9348250000000001">
+    <name>Camping Municipal  le REPAIRE 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 20-25; Addr: le repaire, 24800 THIVIERS; Tel: 05 53 52 69 75</desc>
+    <url>http://www.camping-le-repaire.fr </url>
+  </wpt>
+  <wpt lat="45.496646" lon="0.74825">
+    <name>Camping Municipal  Saint Pardoux la Rivoirerie 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: La Font Pissotte,  24470 ST PARDOUX LA RIVIERE; Tel: 05 53 60 81 74</desc>
+    <url>http://goo.gl/AuX8lA </url>
+  </wpt>
+  <wpt lat="45.011525" lon="1.088891">
+    <name>Camping Municipal  ST LEON / VEZERE</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 24290 ST LEON SUR VEZERE; Tel: 05 53 50 73 16</desc>
+    <url>http://goo.gl/DFdvaO </url>
+  </wpt>
+  <wpt lat="44.86402100000001" lon="1.360073">
+    <name>Camping Municipal  le BOURNIOU 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 15-20; Addr: Le Bourniou, 24370 ST JULIEN DE LAMPON; Tel: 05 53 29 83 39</desc>
+    <url>http://www.camping-bourniou.com </url>
+  </wpt>
+  <wpt lat="45.208045" lon="0.132222">
+    <name>Camping Municipal  de la PLAGE 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: au pont, 24410 ST AULAYE; Tel: 05 53 90 62 20</desc>
+    <url>http://www.saint-aulaye.com </url>
+  </wpt>
+  <wpt lat="45.446824" lon="0.45129800000000003">
+    <name>Camping Municipal  VIEUX MOULIN </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 20-25; Addr: 10 rue Arnaud de Mareuil, 24340 MAREUIL; Tel: 05 53 60 99 80</desc>
+    <url>http://mareuil.camping.free.fr</url>
+  </wpt>
+  <wpt lat="45.148836" lon="-0.001931">
+    <name>Camping Municipal  du Meridien</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: rue de la dronne, 24490 La Roche-Chalais; Tel: 05 53 91 40 65</desc>
+    <url>http://www.larochechalais.com/chrono/index.php</url>
+  </wpt>
+  <wpt lat="44.307512" lon="-1.178284">
+    <name>Camping Municipal  le LAC 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 20-25; Addr: route du lac, 40200 STE EULALIE EN BORN; Tel: 05 58 09 70 10 </desc>
+    <url>http://www.lecampingdulac.com</url>
+  </wpt>
+  <wpt lat="44.081836" lon="-1.262012">
+    <name>Camping Municipal  LA LETTE FLEURIE 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 20-25; Addr: 40170 ST JULIEN EN BORN; Tel: 05 58 42 74 09 </desc>
+    <url>http://www.camping-municipal-plage.com/</url>
+  </wpt>
+  <wpt lat="44.022693" lon="-0.3265">
+    <name>Camping Municipal  SARBAZAN 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 40120 SARBAZAN; Tel: 05 58 45 64 93 </desc>
+    <url>http://goo.gl/dbvVo4</url>
+  </wpt>
+  <wpt lat="44.305854" lon="-0.769343">
+    <name>Camping Municipal  L ARRIU 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 525 chemin de l arriu, 40410 PISSOS; Tel: 05 58 08 90 38 </desc>
+    <url>http://goo.gl/zzv8SS</url>
+  </wpt>
+  <wpt lat="43.531003" lon="-1.063871">
+    <name>Camping Municipal  la GALUPE 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 242 chemin du camping, 40300 SORDE L ABBAYE; Tel: 05 58 73 18 13 </desc>
+    <url>http://goo.gl/iumhHp</url>
+  </wpt>
+  <wpt lat="44.06863200000001" lon="-1.229412">
+    <name>Camping Municipal  La Passerelle 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 15-20; Addr: Route des Lacs, 40170 ST JULIEN EN BORN; Tel: 05 58 42 80 18 </desc>
+    <url>http://www.camping-municipal-bourg.com</url>
+  </wpt>
+  <wpt lat="43.880464" lon="-1.1373">
+    <name>Camping Municipal  le GALAN 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 73, Rue du stade, 40260 Castets; Tel: 05 58 89 43 52</desc>
+    <url>http://www.camping-legalan.com</url>
+  </wpt>
+  <wpt lat="44.577569" lon="-0.033131">
+    <name>Camping Municipal  la Rouergue 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 15-20; Addr: 33190 LA REOLE; Tel: 06 20 31 98 12</desc>
+    <url>http://goo.gl/WPflHx</url>
+  </wpt>
+  <wpt lat="44.523039" lon="0.036993">
+    <name>Camping Municipal  au Jardin</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 5-10; Addr: 47180 Meilhan-sur-Garonne; Tel: 05 53 94 30 04</desc>
+    <url>http://goo.gl/VifmJQ</url>
+  </wpt>
+  <wpt lat="43.610119" lon="-0.991452">
+    <name>Camping Municipal de POUILLON</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: Bd des sports, 40350 POUILLON; Tel: 05 58 98 21 62</desc>
+    <url>http://goo.gl/IiR3bb</url>
+  </wpt>
+  <wpt lat="44.266346" lon="-0.519791">
+    <name>Aire Naturelle Municipale LUXEY</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 5-10; Addr: ; Tel: 05 58 04 70 70</desc>
+    <url>http://goo.gl/QV9QCX</url>
+  </wpt>
+  <wpt lat="42.979346" lon="-0.606222">
+    <name>Aire Municipale Naturelle ACCOUS</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 5-10; Addr: Route du Caillaü et de LacuardeQuartier Lhers, 64490 ACCOUS; Tel: 06 70 20 45 86</desc>
+    <url>http://goo.gl/qwHqkx</url>
+  </wpt>
+  <wpt lat="44.628817000000005" lon="0.29139">
+    <name>Camping Municipal de l Allemans du dropt</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 5-10; Addr: 47800 ALLEMANS-DU-DROPT; Tel: 07 88 47 03 17</desc>
+    <url>http://goo.gl/swI9vN</url>
+  </wpt>
+  <wpt lat="44.304733" lon="0.344417">
+    <name>Camping Municipal du Vieux Moulin</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: route de villeneuve, 47190 AIGUILLON; Tel: 05 53 79 61 43</desc>
+    <url>http://goo.gl/QYgY5t</url>
+  </wpt>
+  <wpt lat="44.524783" lon="0.639009">
+    <name>Camping Municipal du Lac 1* </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: route du Lac, 47290 CANCON; Tel: 05 53 41 11 39 </desc>
+    <url>http://goo.gl/mXixDe </url>
+  </wpt>
+  <wpt lat="44.362151" lon="0.391388">
+    <name>Camping Municipal de Clairac 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: Route de la plage, 47320 CLAIRAC ; Tel: 05 53 84 22 21</desc>
+    <url>http://goo.gl/Ag5IF2</url>
+  </wpt>
+  <wpt lat="44.634704" lon="-0.321661">
+    <name>Camping Intercommunal des Coteaux de Garonne</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 15-20; Addr: rue du Porc, 33410 CADILLAC ; Tel: 05 56 62 72 98</desc>
+    <url>http://goo.gl/K5l0HC </url>
+  </wpt>
+  <wpt lat="45.483063" lon="-1.13893">
+    <name>Camping Municipal les Oyats 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 30-35; Addr: Boulevard Guy Albospeyre, 33780 SOULAC SUR MER; Tel: 05 56 09 78 54</desc>
+    <url>http://campinglesoyats.jimdo.com</url>
+  </wpt>
+  <wpt lat="44.643926" lon="-1.110864">
+    <name>Camping Municipal  de la Verdalle 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 25-30; Addr: 2 allee de l Infante, 33470 GUJAN MESTRAT; Tel: 05 56 66 12 62</desc>
+    <url>http://www.campingdeverdalle.com/ </url>
+  </wpt>
+  <wpt lat="44.065957" lon="0.64903">
+    <name>Camping Municipal  du Pont du Gers</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 47220 ASTAFFORT; Tel: 05 53 67 13 33</desc>
+    <url>http://goo.gl/q6Fwza </url>
+  </wpt>
+  <wpt lat="44.046944" lon="-0.323625">
+    <name>Camping Municipal  de Roquefort 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: 78 allee de Nauton, 40245 ROQUEFORT des LANDES ; Tel: pas de tel, installez vous</desc>
+    <url>http://www.roquefort-des-landes.fr </url>
+  </wpt>
+  <wpt lat="45.3844812" lon="-1.152792">
+    <name>Camping Municipal de l Océan</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 25-30; Addr: Avenue de Joinville, 33390 Vendays Montalivet; Tel: 05 56 73 32 02</desc>
+    <url>http://www.ot-vendays-montalivet.fr/ </url>
+  </wpt>
+</gpx>

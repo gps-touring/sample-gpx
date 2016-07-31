@@ -1,0 +1,879 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:gpx="http://www.topografix.com/GPX/1/0" version="1.0" creator="ViewRanger - http://www.viewranger.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+  <wpt lat="44.686139" lon="2.603567">
+    <name>Camping MUNICIPAL du LAURADIOL 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: Juin-Aout; Places: 32; Budget €/j: 15-20; Addr: 12460 Campouriez; Tel: 05 65 44 53 95</desc>
+    <url>http://camping-lelauradiol.jimdo.com</url>
+  </wpt>
+  <wpt lat="42.655235" lon="1.835554">
+    <name>Camping MUNICIPAL MERENS 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'annee; Places: 71; Budget €/j: 15-20; Addr: 09110 Mérens-les-Vals; Tel: 05 61 02 85  </desc>
+    <url>http://camping.merenslesvals.fr </url>
+  </wpt>
+  <wpt lat="42.774739" lon="1.703568">
+    <name>Camping MUNICIPAL la Coume 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'annee; Places: 53; Budget €/j: 10-15; Addr: La coume, 09310 ALBIES; Tel: 05 61 64 98 99 </desc>
+    <url>http://www.vallees-ax.com</url>
+  </wpt>
+  <wpt lat="43.137586" lon="1.444155">
+    <name>Camping MUNICIPAL les Eychecadous 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: 10-15; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="42.898101000000004" lon="1.315613">
+    <name>Camping MUNICIPAL Biert </name>
+    <sym>Camp</sym>
+    <desc>Open: Avril - Octobre; Places: ; Budget €/j: 5-20; Addr: 09320 BIERT; Tel: 05 61 96 95 25 </desc>
+    <url>http://www.ariegepyrenees.com</url>
+  </wpt>
+  <wpt lat="42.920229" lon="1.029282">
+    <name>Camping MUNICIPAL Castillon les Vignes </name>
+    <sym>Camp</sym>
+    <desc>Open: Mars-Octobre; Places: 72; Budget €/j: ns; Addr: Les Vignes; 09800 CASTILLON EN COUSERANS; Tel: 05 61 96 72 72 </desc>
+    <url>http://ot-castillon-en-couserans.fr</url>
+  </wpt>
+  <wpt lat="42.970696" lon="1.573073">
+    <name>Camping MUNICIPAL le Rieutord 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'annee; Places: 32; Budget €/j: 10-15; Addr: 09000 COS; Tel: 06 71 18 10 38</desc>
+    <url>http://camping-municipal-cos09.fr/</url>
+  </wpt>
+  <wpt lat="42.767068" lon="1.47882">
+    <name>Camping MUNICIPAL de la Verniere 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'annee; Places: 64; Budget €/j: 15-20; Addr: 09220 AUZAT; Tel: 05 61 64 84 46 </desc>
+    <url>http://www.laverniere.eu/LaVerniere-Campeurs.html</url>
+  </wpt>
+  <wpt lat="42.715111" lon="2.080708">
+    <name>Camping MUNICIPAL la Pradaille 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.176641" lon="1.408997">
+    <name>Camping MUNICIPAL Lailleres 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.454632" lon="2.014983">
+    <name>Camping MUNICIPAL LE MOULIN DU ROY 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: Juin - Aout; Places: 60; Budget €/j: 15-20; Addr: chemin du roy, 31250 REVEL; Tel: 05 61 83 32 47 </desc>
+    <url>http://www.mairie-revel.fr/fr/decouvrir/camper/camping-du-roy-des-eaux.html </url>
+  </wpt>
+  <wpt lat="43.269831" lon="1.178026">
+    <name>Camping MUNICIPAL du PLAN d EAU 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril-Octobre (chalets tte l annee ); Places: 66; Budget €/j: 15-20; Addr: Plan d'eau, 31310 RIEUX; Tel: 05 61 97 24 59</desc>
+    <url>http://www.camping-rieux.eu</url>
+  </wpt>
+  <wpt lat="43.04358200000001" lon="0.853286">
+    <name>Camping MUNICIPAL ESTADENS</name>
+    <sym>Camp</sym>
+    <desc>Open: toute l'annee; Places: 10; Budget €/j: 5-10 ; Addr: Mairie Lasserre, 31160 ESTADENS; Tel: 05 61 88 48 06</desc>
+    <url>http://www.estadens.fr/camping-c20170025 </url>
+  </wpt>
+  <wpt lat="43.50826" lon="1.376558">
+    <name>Camping MUNICIPAL le Ramier</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.11003800000001" lon="0.708103">
+    <name>Camping MUNICIPAL BELVEDERE DES PYRENEES 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.138213" lon="0.9295249999999999">
+    <name>Camping MUNICIPAL ST MARTORY 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.431427" lon="1.435111">
+    <name>Camping MUNICIPAL le Ramier 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.178221" lon="0.974672">
+    <name>Camping MUNICIPAL LE LAC 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.528" lon="1.747255">
+    <name>Camping MUNICIPAL L ORME BLANC 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="42.914054" lon="0.639889">
+    <name>Camping MUNICIPAL CIERP GAU 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.350804" lon="1.476588">
+    <name>Camping MUNICIPAL DU RAMIER 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.28297" lon="0.655639">
+    <name>Camping MUNICIPAL LE LAC 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.476176" lon="1.232529">
+    <name>Camping MUNICIPAL Pech del Gal 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.675123" lon="1.8769450000000003">
+    <name>Camping MUNICIPAL les pradels 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.574817" lon="1.833344">
+    <name>Camping MUNICIPAL BRENGUES 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.48393" lon="1.8392230000000003">
+    <name>Camping MUNICIPAL du TERIOL 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.642155" lon="1.221178">
+    <name>Camping MUNICIPAL le PLAN d EAU 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.939362" lon="1.988504">
+    <name>Camping MUNICIPAL COMIAC 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.466851" lon="1.485794">
+    <name>Camping MUNICIPAL LAMAGDELAINE 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.882877" lon="1.4833690000000002">
+    <name>Camping MUNICIPAL DU PONT 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.469883" lon="1.361125">
+    <name>Camping MUNICIPAL de L ECLUSE</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.991148" lon="1.651726">
+    <name>Camping MUNICIPAL LE VIGNON 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.647162" lon="1.5682980000000002">
+    <name>Camping MUNICIPAL L ESTOMBE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.733359" lon="1.917297">
+    <name>Camping MUNICIPAL le BOIS de SOPHIE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.274305" lon="1.352177">
+    <name>Camping MUNICIPAL les 3 MOULINS 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.335636" lon="1.549072">
+    <name>Camping MUNICIPAL LABENQUE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.93880000000001" lon="1.606987">
+    <name>Camping MUNICIPAL LA CALLOPIE</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.502811" lon="1.9042400000000002">
+    <name>Camping MUNICIPAL le Pre des Arbres 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.341284" lon="1.202574">
+    <name>Camping MUNICIPAL St Jean 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.645208" lon="1.845703">
+    <name>Camping MUNICIPAL LIVERNON 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.665772000000004" lon="2.113431">
+    <name>Camping MUNICIPAL LINAC</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.476474" lon="1.578716">
+    <name>Camping MUNICIPAL la Peupleraie</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.484504" lon="1.554244">
+    <name>Camping MUNICIPAL l ARQUETTE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.478136" lon="1.2871170000000003">
+    <name>Camping MUNICIPAL les BERGES de CAIX 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.945361" lon="1.708374">
+    <name>Camping MUNICIPAL la PALANQUIERE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.729174" lon="2.106628">
+    <name>AIRE NATURELLE MUNICIPALE MONTET</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.233885" lon="2.757568">
+    <name>Camping MUNICIPAL les FONTANELLES 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.462211" lon="2.129974">
+    <name>AIRE NATURELLE MUNICIPALE LE SOL</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.048609" lon="2.7558520000000004">
+    <name>Camping MUNICIPAL la PRADE </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.473481" lon="2.463684">
+    <name>Camping MUNICIPAL le cambou</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.270772" lon="2.000198">
+    <name>Camping MUNICIPAL la Capelle</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.551335" lon="2.675171">
+    <name>Camping MUNICIPAL la CHANTELLERIE </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.417598" lon="3.088531">
+    <name>Camping MUNICIPAL la SAGNE 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.829091" lon="2.683411">
+    <name>Camping MUNICIPAL BROMMAT </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.387918" lon="2.33614">
+    <name>Camping MUNICIPAL BELCASTEL 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.572861" lon="2.073154">
+    <name>Camping MUNICIPAL les RIVES d OLT 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.684277" lon="2.846832">
+    <name>Camping MUNICIPAL les MONTS d AUBRAC</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.372459" lon="2.230911">
+    <name>Camping MUNICIPAL la MOULINE 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.53861100000001" lon="2.565308">
+    <name>Camping MUNICIPAL au VERT DOURDOU 1* </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.353314" lon="2.584534">
+    <name>Camping MUNICIPAL LAYOULE 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.292401" lon="2.373047">
+    <name>Camping MUNICIPAL du SARDOU</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.843334" lon="2.66161">
+    <name>Camping MUNICIPAL le PUECH de la TOURELLE 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.526864" lon="2.27417">
+    <name>Camping MUNICIPAL les FAYSSES 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.766135" lon="2.948456">
+    <name>Camping MUNICIPAL du DOURDOU</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.369024" lon="2.201385">
+    <name>AIRE NATURELLE MUNICIPALE COMPOLIBAT</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.45927" lon="2.949829">
+    <name>Camping MUNICIPAL la GRAVE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.406316" lon="2.290649">
+    <name>Camping MUNICIPAL la PEYRADE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.53959" lon="2.4142460000000003">
+    <name>Camping MUNICIPAL LA CITARELLE</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.447997" lon="3.112564">
+    <name>Camping MUNICIPAL la GALINIERE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.95624800000001" lon="2.885284">
+    <name>Camping MUNICIPAL ST AFFRIQUE</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.649116" lon="2.504883">
+    <name>Camping MUNICIPAL le FEL 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.422992" lon="3.01712">
+    <name>Camping MUNICIPAL les Thermes</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.797551" lon="2.79808">
+    <name>Camping MUNICIPAL STE GENEVIEVE </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.925099" lon="2.547112">
+    <name>Camping MUNICIPAL le MOULIN 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.529311" lon="2.50351">
+    <name>AIRE NATURELLE MUNICIPALE PRUINES</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.049689" lon="2.894726">
+    <name>Camping MUNICIPAL ST ROME de TARN 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.164844" lon="2.958241">
+    <name>Camping MUNICIPAL la MUSE 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.711442" lon="2.561928">
+    <name>Camping MUNICIPAL la RIVIERE 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.481823" lon="2.489777">
+    <name>Camping MUNICIPAL Vallée du Thoré 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.689159" lon="2.657318">
+    <name>Camping MUNICIPAL la VERNHE 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.909766" lon="2.504883">
+    <name>Camping MUNICIPAL VILLENEUVE-SUR-TARN 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.875128" lon="3.120117">
+    <name>Camping MUNICIPAL FONDAMENTE 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.965145" lon="2.730103">
+    <name>AIRE NATURELLE MUNICIPALE LA PLANQUE</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.496519" lon="2.392509">
+    <name>Camping MUNICIPAL la LAUZE 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.718512" lon="2.324982">
+    <name>Camping MUNICIPAL l OURTAL 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.016521" lon="2.403259">
+    <name>AIRE NATURELLE MUNICIPALE VALENCE D ALBIGEOIS</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.424999" lon="2.1698">
+    <name>Camping MUNICIPAL ARFONS 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.762664" lon="2.436433">
+    <name>Camping MUNICIPAL la FORET 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.68575" lon="2.854385">
+    <name>Camping MUNICIPAL les ADRETS 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.915238" lon="1.684299">
+    <name>AIRE NATURELLE MUNICIPALE SOURIGOUS</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.776052" lon="2.189026">
+    <name>Camping MUNICIPAL de la BATISSE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.69568" lon="2.427979">
+    <name>AIRE NATURELLE MUNICIPALE THERONDEL LES PINS</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.069827" lon="2.097015">
+    <name>Camping MUNICIPAL les PRUNETTES 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.482819" lon="2.139587">
+    <name>Camping MUNICIPAL TRAVERS DE SAINT-STAPIN 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.886016" lon="2.460938">
+    <name>Camping MUNICIPAL la FRANQUEZE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.624147" lon="2.488403">
+    <name>Camping MUNICIPAL la LANDE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.820657" lon="1.7248540000000003">
+    <name>Camping MUNICIPAL les AUZERALS 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.734391" lon="2.58316">
+    <name>Camping MUNICIPAL de la RABAUDIE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.664891" lon="2.292023">
+    <name>Camping MUNICIPAL le SILOE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.150866" lon="1.750603">
+    <name>Camping MUNICIPAL le PONGET 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: Mai-Septembre; Places: 40; Budget €/j: 10-15; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.186143" lon="1.367798">
+    <name>Camping MUNICIPAL le MALIVERT 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: mi-mai à mi-octobre; Places: 24; Budget €/j: 10-15; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.123085" lon="1.246948">
+    <name>Camping MUNICIPAL LE LAC 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.249751" lon="1.684341">
+    <name>Camping MUNICIPAL LA PLAGE 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.033802" lon="1.103439">
+    <name>Camping MUNICIPAL DE TRESCASSES SUR GARONNE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.268805" lon="1.0519410000000002">
+    <name>Camping MUNICIPAL TOUFFAILLES 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.072417" lon="1.518087">
+    <name>Camping MUNICIPAL le COLOMBIER 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.953282" lon="0.9187320000000001">
+    <name>Camping MUNICIPAL Bertramon 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.158563" lon="1.540833">
+    <name>Camping MUNICIPAL la PIBOULETTE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.594317" lon="-0.002747">
+    <name>Camping MUNICIPAL CENTRADOUR 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.786958" lon="0.829468">
+    <name>Camping MUNICIPAL MONTFORT 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.707594" lon="0.873413">
+    <name>C MUNICIPAL MAUVEZIN 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.94521" lon="0.085745">
+    <name>Camping MUNICIPAL du Cocout 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.58437" lon="1.09314">
+    <name>Camping MUNICIPAL PONT TOURNE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.948339" lon="0.36478">
+    <name>Camping MUNICIPAL l ARGENTE 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.753241" lon="-0.035706">
+    <name>Camping MUNICIPAL NOGARO 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.488549" lon="0.9331510000000001">
+    <name>Camping MUNICIPAL la CHAUSSEE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.636506" lon="0.588587">
+    <name>Camping MUNICIPAL L'ILE ST-MARTIN 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.696983" lon="0.08317">
+    <name>Camping MUNICIPAL AIGNAN 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.432977" lon="0.730591">
+    <name>Camping MUNICIPAL SIMORE 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="42.927771" lon="0.20256">
+    <name>Camping MUNICIPAL DE BAGNERES 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="42.841234" lon="0.408554">
+    <name>Camping MUNICIPAL LE HOURGADE 2** </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="42.792377" lon="0.4107">
+    <name>Camping MUNICIPAL PENE BLANCHE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.31119" lon="0.299377">
+    <name>Camping MUNICIPAL le castets</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="42.814922" lon="0.319977">
+    <name>Camping MUNICIPAL LALANNE 3***</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.233197" lon="0.521851">
+    <name>Camping MUNICIPAL MONLEON MAGNOAC 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.028055" lon="0.608497">
+    <name>Camping MUNICIPAL Bord de Garonne 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.289202" lon="0.510864">
+    <name>Camping MUNICIPAL de CAROLLE 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="42.900364" lon="0.354996">
+    <name>Camping MUNICIPAL ARREAU 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="42.785323" lon="0.211487">
+    <name>Camping MUNICIPAL LE PONT DE MOUDANG 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.429985" lon="0.584335">
+    <name>Camping MUNICIPAL les Berges du Gers 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.46218900000001" lon="1.747383">
+    <name>Camping MUNICIPAL Grand Pre Cénevières</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="42.729676" lon="1.8493080000000002">
+    <name>Camping MUNICIPAL Sorgeat 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.010108" lon="0.796766">
+    <name>Camping MUNICIPAL le Cagire</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="42.79751" lon="1.262913">
+    <name>Camping MUNICIPAL Ustou 2**</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.789709" lon="1.8139939999999999">
+    <name>Camping MUNICIPAL de Bellevue 2* </name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.320682" lon="1.9362549999999998">
+    <name>Camping MUNICIPAL de la Giraille 1*</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.200671" lon="2.142591">
+    <name>Camping MUNICIPAL de Montreal</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="43.223191" lon="2.427979">
+    <name>Camping MUNICIPAL de la CITe</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.590903" lon="2.921537">
+    <name>Camping MUNICIPAL St Chely d Aubrac</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.772353" lon="2.876744">
+    <name>Camping MUNICIPAL le Moulin</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="44.83565" lon="2.8112340000000002">
+    <name>Camping MUNICIPAL Cantoin</name>
+    <sym>Camp</sym>
+    <desc>Open: Juillet-Aout; Places: 20; Budget €/j: 10-15; Addr: 12420 CANTOIN; Tel: 05 65 66 43 15</desc>
+    <url>http://www.argencetourisme-aubrac.com/se-loger/camping</url>
+  </wpt>
+  <wpt lat="42.87362100000001" lon="2.175572">
+    <name>Camping MUNICIPAL la Sapinette 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: Avril-Octobre; Places: 3; Budget €/j: ::; Addr: 21 avenue Rene Delpech, 11500 QUILLAN; Tel: 04 68 20 13 52</desc>
+    <url>http://www.camping-municipal-lasapinette.fr</url>
+  </wpt>
+  <wpt lat="43.965948" lon="1.240897">
+    <name>Camping MUNICIPAL de Montech 3*</name>
+    <sym>Camp</sym>
+    <desc>Open: Mars - Octobre; Places: 154; Budget €/j: 20-25; Addr: Chemin de la Pierre, 82700 MONTECH; Tel: 05 63 31 14 29</desc>
+    <url>http://www.ville-montech.fr</url>
+  </wpt>
+  <wpt lat="42.588541" lon="1.7983680000000002">
+    <name>Camping COMMUNAL la Porte des Cimes 2*</name>
+    <sym>Camp</sym>
+    <desc>Open: Juin- Octobre; Places: 62; Budget €/j: 10-15; Addr: RN 20, 09390 L’Hospitalet; Tel: 05 61 05 21 10</desc>
+    <url>http://www.laportedescimes.com</url>
+  </wpt>
+  <wpt lat="42.87093200000001" lon="0.735397">
+    <name>Camping MUNICIPAL Fos</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: 43; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+  <wpt lat="42.928274" lon="1.8566890000000003">
+    <name>Camping MUNICIPAL pre Cathare</name>
+    <sym>Camp</sym>
+    <desc>Open: ; Places: ; Budget €/j: ; Addr: ; Tel: </desc>
+    <url/>
+  </wpt>
+</gpx>
