@@ -1,0 +1,238 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://github.com/gps-touring/js-app-src"><rte><name>Newhaven_Brighton.gpx_0</name>
+<desc><![CDATA[<h2>Track information:</h2>
+<p>Name: Newhaven Port Authority, Administration Office, East Quay, Newhaven BN9 0BN, United Kingdom - Embassy Court, 5 Western Street, Hove, Brighton BN1, United Kingdom</p>
+]]></desc>
+<rtept lat="50.78383" lon="0.05677"><name>0.00km</name>
+<sym>warningflag</sym>
+<cmt>0.00km</cmt>
+</rtept>
+<rtept lat="50.78972" lon="0.05430"><name>0.68km</name>
+</rtept>
+<rtept lat="50.79031" lon="0.05440"><name>0.74km</name>
+</rtept>
+<rtept lat="50.79237" lon="0.05380"><name>0.98km</name>
+</rtept>
+<rtept lat="50.79358" lon="0.05387"><name>1.11km</name>
+</rtept>
+<rtept lat="50.79433" lon="0.05414"><name>1.20km</name>
+</rtept>
+<rtept lat="50.79480" lon="0.05413"><name>1.25km</name>
+</rtept>
+<rtept lat="50.79507" lon="0.05398"><name>1.28km</name>
+</rtept>
+<rtept lat="50.79518" lon="0.05366"><name>1.31km</name>
+</rtept>
+<rtept lat="50.79514" lon="0.05289"><name>1.36km</name>
+</rtept>
+<rtept lat="50.79488" lon="0.05182"><name>1.44km</name>
+</rtept>
+<rtept lat="50.79465" lon="0.05166"><name>1.47km</name>
+</rtept>
+<rtept lat="50.79428" lon="0.05169"><name>1.51km</name>
+</rtept>
+<rtept lat="50.79417" lon="0.05164"><name>1.52km</name>
+</rtept>
+<rtept lat="50.79401" lon="0.05195"><name>1.55km</name>
+</rtept>
+<rtept lat="50.79270" lon="0.05227"><name>1.70km</name>
+</rtept>
+<rtept lat="50.79249" lon="0.05210"><name>1.72km</name>
+</rtept>
+<rtept lat="50.79117" lon="0.05236"><name>1.87km</name>
+</rtept>
+<rtept lat="50.79029" lon="0.05250"><name>1.97km</name>
+</rtept>
+<rtept lat="50.78985" lon="0.05259"><name>2.02km</name>
+</rtept>
+<rtept lat="50.78948" lon="0.05303"><name>2.07km</name>
+</rtept>
+<rtept lat="50.78827" lon="0.05366"><name>2.21km</name>
+</rtept>
+<rtept lat="50.78820" lon="0.05349"><name>2.23km</name>
+</rtept>
+<rtept lat="50.78813" lon="0.05314"><name>2.25km</name>
+</rtept>
+<rtept lat="50.78769" lon="0.05249"><name>2.32km</name>
+</rtept>
+<rtept lat="50.78717" lon="0.05207"><name>2.39km</name>
+</rtept>
+<rtept lat="50.78700" lon="0.05150"><name>2.43km</name>
+</rtept>
+<rtept lat="50.78692" lon="0.05040"><name>2.51km</name>
+</rtept>
+<rtept lat="50.78712" lon="0.04961"><name>2.57km</name>
+</rtept>
+<rtept lat="50.78744" lon="0.04713"><name>2.75km</name>
+</rtept>
+<rtept lat="50.78744" lon="0.04523"><name>2.88km</name>
+</rtept>
+<rtept lat="50.78809" lon="0.04152"><name>3.15km</name>
+</rtept>
+<rtept lat="50.78850" lon="0.03993"><name>3.27km</name>
+</rtept>
+<rtept lat="50.78924" lon="0.03730"><name>3.47km</name>
+</rtept>
+<rtept lat="50.78935" lon="0.03677"><name>3.51km</name>
+</rtept>
+<rtept lat="50.78872" lon="0.03662"><name>3.58km</name>
+</rtept>
+<rtept lat="50.78821" lon="0.03609"><name>3.65km</name>
+</rtept>
+<rtept lat="50.78740" lon="0.03400"><name>3.82km</name>
+</rtept>
+<rtept lat="50.78709" lon="0.03164"><name>3.99km</name>
+</rtept>
+<rtept lat="50.78757" lon="0.02738"><name>4.30km</name>
+</rtept>
+<rtept lat="50.78707" lon="0.02350"><name>4.57km</name>
+</rtept>
+<rtept lat="50.78768" lon="0.02088"><name>4.77km</name>
+</rtept>
+<rtept lat="50.78775" lon="0.02080"><name>4.78km</name>
+</rtept>
+<rtept lat="50.78780" lon="0.01937"><name>4.88km</name>
+</rtept>
+<rtept lat="50.78859" lon="0.01349"><name>5.30km</name>
+</rtept>
+<rtept lat="50.78938" lon="0.00997"><name>5.57km</name>
+</rtept>
+<rtept lat="50.79068" lon="0.00472"><name>5.96km</name>
+</rtept>
+<rtept lat="50.79112" lon="-0.00051"><name>6.33km</name>
+</rtept>
+<rtept lat="50.79143" lon="-0.00211"><name>6.45km</name>
+</rtept>
+<rtept lat="50.79204" lon="-0.00454"><name>6.64km</name>
+</rtept>
+<rtept lat="50.79200" lon="-0.00479"><name>6.65km</name>
+</rtept>
+<rtept lat="50.79210" lon="-0.00486"><name>6.67km</name>
+</rtept>
+<rtept lat="50.79257" lon="-0.00739"><name>6.85km</name>
+</rtept>
+<rtept lat="50.79330" lon="-0.01025"><name>7.07km</name>
+</rtept>
+<rtept lat="50.79440" lon="-0.01663"><name>7.53km</name>
+</rtept>
+<rtept lat="50.79545" lon="-0.02077"><name>7.85km</name>
+</rtept>
+<rtept lat="50.79673" lon="-0.02520"><name>8.19km</name>
+</rtept>
+<rtept lat="50.79774" lon="-0.03009"><name>8.55km</name>
+</rtept>
+<rtept lat="50.79996" lon="-0.03773"><name>9.14km</name>
+</rtept>
+<rtept lat="50.80040" lon="-0.03983"><name>9.30km</name>
+</rtept>
+<rtept lat="50.80029" lon="-0.04017"><name>9.32km</name>
+</rtept>
+<rtept lat="50.80040" lon="-0.04059"><name>9.36km</name>
+</rtept>
+<rtept lat="50.80026" lon="-0.04059"><name>9.37km</name>
+</rtept>
+<rtept lat="50.80012" lon="-0.04013"><name>9.41km</name>
+</rtept>
+<rtept lat="50.80007" lon="-0.04027"><name>9.42km</name>
+</rtept>
+<rtept lat="50.80035" lon="-0.04137"><name>9.50km</name>
+</rtept>
+<rtept lat="50.80063" lon="-0.04305"><name>9.62km</name>
+</rtept>
+<rtept lat="50.80061" lon="-0.04462"><name>9.73km</name>
+</rtept>
+<rtept lat="50.80076" lon="-0.04578"><name>9.82km</name>
+</rtept>
+<rtept lat="50.80130" lon="-0.04824"><name>10.00km</name>
+<sym>warningflag</sym>
+<cmt>10.00km</cmt>
+</rtept>
+<rtept lat="50.80171" lon="-0.05012"><name>10.14km</name>
+</rtept>
+<rtept lat="50.80165" lon="-0.05157"><name>10.24km</name>
+</rtept>
+<rtept lat="50.80187" lon="-0.05332"><name>10.37km</name>
+</rtept>
+<rtept lat="50.80203" lon="-0.05435"><name>10.44km</name>
+</rtept>
+<rtept lat="50.80192" lon="-0.05546"><name>10.52km</name>
+</rtept>
+<rtept lat="50.80249" lon="-0.05749"><name>10.68km</name>
+</rtept>
+<rtept lat="50.80294" lon="-0.05909"><name>10.80km</name>
+</rtept>
+<rtept lat="50.80374" lon="-0.06262"><name>11.06km</name>
+</rtept>
+<rtept lat="50.80395" lon="-0.06309"><name>11.10km</name>
+</rtept>
+<rtept lat="50.80436" lon="-0.06446"><name>11.21km</name>
+</rtept>
+<rtept lat="50.80528" lon="-0.06804"><name>11.48km</name>
+</rtept>
+<rtept lat="50.80678" lon="-0.07272"><name>11.85km</name>
+</rtept>
+<rtept lat="50.80732" lon="-0.07496"><name>12.02km</name>
+</rtept>
+<rtept lat="50.80798" lon="-0.07728"><name>12.20km</name>
+</rtept>
+<rtept lat="50.80841" lon="-0.07878"><name>12.31km</name>
+</rtept>
+<rtept lat="50.80854" lon="-0.07959"><name>12.37km</name>
+</rtept>
+<rtept lat="50.81032" lon="-0.08532"><name>12.82km</name>
+</rtept>
+<rtept lat="50.81079" lon="-0.08736"><name>12.97km</name>
+</rtept>
+<rtept lat="50.81157" lon="-0.09049"><name>13.21km</name>
+</rtept>
+<rtept lat="50.81204" lon="-0.09250"><name>13.36km</name>
+</rtept>
+<rtept lat="50.81214" lon="-0.09283"><name>13.39km</name>
+</rtept>
+<rtept lat="50.81233" lon="-0.09455"><name>13.51km</name>
+</rtept>
+<rtept lat="50.81320" lon="-0.09764"><name>13.75km</name>
+</rtept>
+<rtept lat="50.81367" lon="-0.10004"><name>13.92km</name>
+</rtept>
+<rtept lat="50.81437" lon="-0.10453"><name>14.25km</name>
+</rtept>
+<rtept lat="50.81428" lon="-0.10554"><name>14.32km</name>
+</rtept>
+<rtept lat="50.81421" lon="-0.10567"><name>14.33km</name>
+</rtept>
+<rtept lat="50.81423" lon="-0.10648"><name>14.39km</name>
+</rtept>
+<rtept lat="50.81417" lon="-0.10737"><name>14.45km</name>
+</rtept>
+<rtept lat="50.81419" lon="-0.10828"><name>14.52km</name>
+</rtept>
+<rtept lat="50.81420" lon="-0.10939"><name>14.59km</name>
+</rtept>
+<rtept lat="50.81669" lon="-0.12018"><name>15.40km</name>
+</rtept>
+<rtept lat="50.81727" lon="-0.12314"><name>15.62km</name>
+</rtept>
+<rtept lat="50.81912" lon="-0.13268"><name>16.32km</name>
+</rtept>
+<rtept lat="50.81947" lon="-0.13637"><name>16.58km</name>
+</rtept>
+<rtept lat="50.81949" lon="-0.13658"><name>16.60km</name>
+</rtept>
+<rtept lat="50.81941" lon="-0.13764"><name>16.67km</name>
+</rtept>
+<rtept lat="50.81944" lon="-0.13916"><name>16.78km</name>
+</rtept>
+<rtept lat="50.81990" lon="-0.14095"><name>16.91km</name>
+</rtept>
+<rtept lat="50.82069" lon="-0.14554"><name>17.25km</name>
+</rtept>
+<rtept lat="50.82189" lon="-0.15221"><name>17.74km</name>
+</rtept>
+<rtept lat="50.82268" lon="-0.15634"><name>18.04km</name>
+</rtept>
+<rtept lat="50.82299" lon="-0.15617"><name>18.07km</name>
+<sym>warningflag</sym>
+<cmt>18.07km</cmt>
+</rtept>
+</rte>
+</gpx>
