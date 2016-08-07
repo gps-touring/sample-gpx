@@ -1,0 +1,3464 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://github.com/gps-touring/js-app-src"><rte><name><![CDATA[EV6_Bale_StBrevin section 2]]></name>
+<desc><![CDATA[EV6_Bale_StBrevin section 2]]></desc>
+<rtept lat="47.07856" lon="5.47680"><name>0.00km</name>
+</rtept>
+<rtept lat="47.07591" lon="5.47266"><name>0.43km</name>
+</rtept>
+<rtept lat="47.07272" lon="5.47015"><name>0.83km</name>
+</rtept>
+<rtept lat="47.07273" lon="5.46994"><name>0.85km</name>
+</rtept>
+<rtept lat="47.07254" lon="5.46984"><name>0.87km</name>
+</rtept>
+<rtept lat="47.06792" lon="5.46629"><name>1.45km</name>
+</rtept>
+<rtept lat="47.06323" lon="5.46264"><name>2.04km</name>
+</rtept>
+<rtept lat="47.06118" lon="5.46114"><name>2.30km</name>
+</rtept>
+<rtept lat="47.06098" lon="5.46110"><name>2.32km</name>
+</rtept>
+<rtept lat="47.06053" lon="5.46035"><name>2.39km</name>
+</rtept>
+<rtept lat="47.05926" lon="5.45622"><name>2.74km</name>
+</rtept>
+<rtept lat="47.05548" lon="5.44418"><name>3.74km</name>
+</rtept>
+<rtept lat="47.05548" lon="5.44378"><name>3.77km</name>
+</rtept>
+<rtept lat="47.05568" lon="5.44329"><name>3.82km</name>
+</rtept>
+<rtept lat="47.05627" lon="5.44256"><name>3.90km</name>
+</rtept>
+<rtept lat="47.05633" lon="5.44229"><name>3.92km</name>
+</rtept>
+<rtept lat="47.05654" lon="5.44205"><name>3.95km</name>
+</rtept>
+<rtept lat="47.05676" lon="5.44195"><name>3.98km</name>
+</rtept>
+<rtept lat="47.05885" lon="5.43919"><name>4.29km</name>
+</rtept>
+<rtept lat="47.05958" lon="5.43817"><name>4.40km</name>
+</rtept>
+<rtept lat="47.05977" lon="5.43760"><name>4.45km</name>
+</rtept>
+<rtept lat="47.05970" lon="5.43364"><name>4.75km</name>
+</rtept>
+<rtept lat="47.05966" lon="5.42975"><name>5.04km</name>
+</rtept>
+<rtept lat="47.05961" lon="5.42952"><name>5.06km</name>
+</rtept>
+<rtept lat="47.05971" lon="5.42856"><name>5.14km</name>
+</rtept>
+<rtept lat="47.05971" lon="5.42678"><name>5.27km</name>
+</rtept>
+<rtept lat="47.05937" lon="5.42675"><name>5.31km</name>
+</rtept>
+<rtept lat="47.05944" lon="5.42158"><name>5.70km</name>
+</rtept>
+<rtept lat="47.05946" lon="5.41266"><name>6.38km</name>
+</rtept>
+<rtept lat="47.05847" lon="5.41267"><name>6.49km</name>
+</rtept>
+<rtept lat="47.05822" lon="5.41288"><name>6.52km</name>
+</rtept>
+<rtept lat="47.05764" lon="5.41383"><name>6.62km</name>
+</rtept>
+<rtept lat="47.05281" lon="5.41388"><name>7.15km</name>
+</rtept>
+<rtept lat="47.05249" lon="5.41410"><name>7.19km</name>
+</rtept>
+<rtept lat="47.05215" lon="5.41397"><name>7.23km</name>
+</rtept>
+<rtept lat="47.05208" lon="5.41390"><name>7.24km</name>
+</rtept>
+<rtept lat="47.04882" lon="5.41395"><name>7.60km</name>
+</rtept>
+<rtept lat="47.04853" lon="5.41410"><name>7.64km</name>
+</rtept>
+<rtept lat="47.04824" lon="5.41393"><name>7.67km</name>
+</rtept>
+<rtept lat="47.04761" lon="5.41394"><name>7.74km</name>
+</rtept>
+<rtept lat="47.04744" lon="5.41379"><name>7.76km</name>
+</rtept>
+<rtept lat="47.04462" lon="5.41280"><name>8.09km</name>
+</rtept>
+<rtept lat="47.04328" lon="5.41280"><name>8.24km</name>
+</rtept>
+<rtept lat="47.04323" lon="5.41250"><name>8.26km</name>
+</rtept>
+<rtept lat="47.04337" lon="5.41213"><name>8.29km</name>
+</rtept>
+<rtept lat="47.04394" lon="5.41122"><name>250.00km</name>
+<sym>10</sym>
+<cmt>250.00km</cmt>
+</rtept>
+<rtept lat="47.04419" lon="5.41082"><name>8.43km</name>
+</rtept>
+<rtept lat="47.04462" lon="5.41033"><name>8.49km</name>
+</rtept>
+<rtept lat="47.04458" lon="5.41012"><name>8.50km</name>
+</rtept>
+<rtept lat="47.04477" lon="5.40971"><name>8.54km</name>
+</rtept>
+<rtept lat="47.04481" lon="5.40846"><name>8.64km</name>
+</rtept>
+<rtept lat="47.04448" lon="5.40740"><name>8.72km</name>
+</rtept>
+<rtept lat="47.04436" lon="5.40713"><name>8.75km</name>
+</rtept>
+<rtept lat="47.04324" lon="5.40588"><name>8.91km</name>
+</rtept>
+<rtept lat="47.04352" lon="5.40495"><name>8.98km</name>
+</rtept>
+<rtept lat="47.04381" lon="5.40240"><name>9.18km</name>
+</rtept>
+<rtept lat="47.04367" lon="5.40221"><name>9.20km</name>
+</rtept>
+<rtept lat="47.04328" lon="5.40198"><name>9.25km</name>
+</rtept>
+<rtept lat="47.04233" lon="5.40075"><name>9.39km</name>
+</rtept>
+<rtept lat="47.04553" lon="5.39868"><name>9.77km</name>
+</rtept>
+<rtept lat="47.04696" lon="5.39748"><name>9.96km</name>
+</rtept>
+<rtept lat="47.04780" lon="5.39663"><name>10.07km</name>
+</rtept>
+<rtept lat="47.04964" lon="5.39549"><name>10.29km</name>
+</rtept>
+<rtept lat="47.05026" lon="5.39532"><name>10.36km</name>
+</rtept>
+<rtept lat="47.05450" lon="5.39216"><name>10.89km</name>
+</rtept>
+<rtept lat="47.05609" lon="5.39054"><name>11.11km</name>
+</rtept>
+<rtept lat="47.05702" lon="5.38968"><name>11.23km</name>
+</rtept>
+<rtept lat="47.05766" lon="5.38842"><name>11.35km</name>
+</rtept>
+<rtept lat="47.05833" lon="5.38735"><name>11.46km</name>
+</rtept>
+<rtept lat="47.05861" lon="5.38435"><name>11.69km</name>
+</rtept>
+<rtept lat="47.05897" lon="5.38379"><name>11.75km</name>
+</rtept>
+<rtept lat="47.06017" lon="5.38269"><name>11.90km</name>
+</rtept>
+<rtept lat="47.06036" lon="5.38225"><name>11.94km</name>
+</rtept>
+<rtept lat="47.06250" lon="5.37224"><name>12.74km</name>
+</rtept>
+<rtept lat="47.06275" lon="5.37205"><name>12.77km</name>
+</rtept>
+<rtept lat="47.06310" lon="5.37253"><name>12.82km</name>
+</rtept>
+<rtept lat="47.06436" lon="5.37356"><name>12.98km</name>
+</rtept>
+<rtept lat="47.06683" lon="5.37492"><name>13.28km</name>
+</rtept>
+<rtept lat="47.06832" lon="5.37526"><name>13.44km</name>
+</rtept>
+<rtept lat="47.06852" lon="5.37473"><name>13.49km</name>
+</rtept>
+<rtept lat="47.06904" lon="5.37280"><name>13.65km</name>
+</rtept>
+<rtept lat="47.06903" lon="5.37263"><name>13.66km</name>
+</rtept>
+<rtept lat="47.06910" lon="5.37266"><name>13.67km</name>
+</rtept>
+<rtept lat="47.06984" lon="5.37045"><name>13.85km</name>
+</rtept>
+<rtept lat="47.07008" lon="5.36914"><name>13.96km</name>
+</rtept>
+<rtept lat="47.07131" lon="5.37002"><name>14.11km</name>
+</rtept>
+<rtept lat="47.07322" lon="5.36447"><name>14.58km</name>
+</rtept>
+<rtept lat="47.07361" lon="5.36401"><name>14.64km</name>
+</rtept>
+<rtept lat="47.08308" lon="5.35827"><name>15.77km</name>
+</rtept>
+<rtept lat="47.08348" lon="5.35793"><name>15.83km</name>
+</rtept>
+<rtept lat="47.08372" lon="5.35741"><name>15.87km</name>
+</rtept>
+<rtept lat="47.08713" lon="5.33793"><name>17.40km</name>
+</rtept>
+<rtept lat="47.08730" lon="5.33736"><name>17.44km</name>
+</rtept>
+<rtept lat="47.08803" lon="5.33580"><name>17.59km</name>
+</rtept>
+<rtept lat="47.08813" lon="5.33537"><name>17.62km</name>
+</rtept>
+<rtept lat="47.08845" lon="5.32942"><name>18.07km</name>
+</rtept>
+<rtept lat="47.08874" lon="5.32867"><name>18.14km</name>
+</rtept>
+<rtept lat="47.08897" lon="5.32840"><name>18.17km</name>
+</rtept>
+<rtept lat="47.09037" lon="5.32755"><name>18.34km</name>
+</rtept>
+<rtept lat="47.09073" lon="5.32726"><name>260.00km</name>
+<sym>10</sym>
+<cmt>260.00km</cmt>
+</rtept>
+<rtept lat="47.09121" lon="5.32688"><name>18.45km</name>
+</rtept>
+<rtept lat="47.09191" lon="5.32596"><name>18.55km</name>
+</rtept>
+<rtept lat="47.09286" lon="5.32529"><name>18.67km</name>
+</rtept>
+<rtept lat="47.09356" lon="5.32517"><name>18.75km</name>
+</rtept>
+<rtept lat="47.09642" lon="5.32549"><name>19.07km</name>
+</rtept>
+<rtept lat="47.09678" lon="5.32508"><name>19.12km</name>
+</rtept>
+<rtept lat="47.09685" lon="5.32446"><name>19.16km</name>
+</rtept>
+<rtept lat="47.09676" lon="5.32365"><name>19.23km</name>
+</rtept>
+<rtept lat="47.09739" lon="5.32155"><name>19.40km</name>
+</rtept>
+<rtept lat="47.09798" lon="5.32049"><name>19.50km</name>
+</rtept>
+<rtept lat="47.09844" lon="5.32011"><name>19.56km</name>
+</rtept>
+<rtept lat="47.09950" lon="5.31991"><name>19.68km</name>
+</rtept>
+<rtept lat="47.09982" lon="5.31939"><name>19.73km</name>
+</rtept>
+<rtept lat="47.10111" lon="5.31715"><name>19.96km</name>
+</rtept>
+<rtept lat="47.10174" lon="5.31663"><name>20.04km</name>
+</rtept>
+<rtept lat="47.10273" lon="5.31665"><name>20.15km</name>
+</rtept>
+<rtept lat="47.10631" lon="5.31566"><name>20.55km</name>
+</rtept>
+<rtept lat="47.10700" lon="5.31518"><name>20.64km</name>
+</rtept>
+<rtept lat="47.10743" lon="5.31451"><name>20.71km</name>
+</rtept>
+<rtept lat="47.10758" lon="5.31418"><name>20.74km</name>
+</rtept>
+<rtept lat="47.10786" lon="5.31344"><name>20.80km</name>
+</rtept>
+<rtept lat="47.10750" lon="5.31296"><name>20.85km</name>
+</rtept>
+<rtept lat="47.10765" lon="5.31217"><name>20.92km</name>
+</rtept>
+<rtept lat="47.10724" lon="5.30978"><name>21.10km</name>
+</rtept>
+<rtept lat="47.10688" lon="5.30746"><name>21.28km</name>
+</rtept>
+<rtept lat="47.10658" lon="5.30601"><name>21.40km</name>
+</rtept>
+<rtept lat="47.10560" lon="5.30373"><name>21.60km</name>
+</rtept>
+<rtept lat="47.10503" lon="5.30287"><name>21.69km</name>
+</rtept>
+<rtept lat="47.10370" lon="5.30167"><name>21.87km</name>
+</rtept>
+<rtept lat="47.10276" lon="5.30052"><name>22.00km</name>
+</rtept>
+<rtept lat="47.10204" lon="5.29920"><name>22.13km</name>
+</rtept>
+<rtept lat="47.10153" lon="5.29775"><name>22.25km</name>
+</rtept>
+<rtept lat="47.10142" lon="5.29593"><name>22.39km</name>
+</rtept>
+<rtept lat="47.10146" lon="5.29551"><name>22.42km</name>
+</rtept>
+<rtept lat="47.10141" lon="5.29488"><name>22.47km</name>
+</rtept>
+<rtept lat="47.10160" lon="5.29179"><name>22.71km</name>
+</rtept>
+<rtept lat="47.10225" lon="5.28672"><name>23.10km</name>
+</rtept>
+<rtept lat="47.10218" lon="5.28462"><name>23.26km</name>
+</rtept>
+<rtept lat="47.10164" lon="5.28067"><name>23.56km</name>
+</rtept>
+<rtept lat="47.10119" lon="5.27766"><name>23.80km</name>
+</rtept>
+<rtept lat="47.10088" lon="5.27652"><name>23.89km</name>
+</rtept>
+<rtept lat="47.10052" lon="5.27318"><name>24.14km</name>
+</rtept>
+<rtept lat="47.10032" lon="5.27238"><name>24.21km</name>
+</rtept>
+<rtept lat="47.10018" lon="5.27141"><name>24.28km</name>
+</rtept>
+<rtept lat="47.09956" lon="5.26894"><name>24.48km</name>
+</rtept>
+<rtept lat="47.09935" lon="5.26680"><name>24.65km</name>
+</rtept>
+<rtept lat="47.09969" lon="5.26463"><name>24.81km</name>
+</rtept>
+<rtept lat="47.09970" lon="5.26300"><name>24.94km</name>
+</rtept>
+<rtept lat="47.09988" lon="5.26079"><name>25.11km</name>
+</rtept>
+<rtept lat="47.09955" lon="5.25720"><name>25.38km</name>
+</rtept>
+<rtept lat="47.09917" lon="5.25563"><name>25.51km</name>
+</rtept>
+<rtept lat="47.09844" lon="5.25355"><name>25.68km</name>
+</rtept>
+<rtept lat="47.09757" lon="5.25195"><name>25.84km</name>
+</rtept>
+<rtept lat="47.09650" lon="5.25054"><name>26.00km</name>
+</rtept>
+<rtept lat="47.09575" lon="5.24952"><name>26.11km</name>
+</rtept>
+<rtept lat="47.09384" lon="5.24554"><name>26.48km</name>
+</rtept>
+<rtept lat="47.09339" lon="5.24484"><name>26.55km</name>
+</rtept>
+<rtept lat="47.09228" lon="5.24398"><name>26.69km</name>
+</rtept>
+<rtept lat="47.09057" lon="5.24297"><name>26.90km</name>
+</rtept>
+<rtept lat="47.08978" lon="5.24266"><name>26.99km</name>
+</rtept>
+<rtept lat="47.08971" lon="5.24248"><name>27.01km</name>
+</rtept>
+<rtept lat="47.08953" lon="5.24238"><name>27.03km</name>
+</rtept>
+<rtept lat="47.08932" lon="5.24196"><name>27.07km</name>
+</rtept>
+<rtept lat="47.08803" lon="5.24018"><name>27.26km</name>
+</rtept>
+<rtept lat="47.08737" lon="5.23896"><name>27.38km</name>
+</rtept>
+<rtept lat="47.08650" lon="5.23685"><name>27.57km</name>
+</rtept>
+<rtept lat="47.08620" lon="5.23567"><name>27.66km</name>
+</rtept>
+<rtept lat="47.08598" lon="5.23525"><name>27.70km</name>
+</rtept>
+<rtept lat="47.08555" lon="5.23361"><name>27.84km</name>
+</rtept>
+<rtept lat="47.08560" lon="5.23339"><name>27.85km</name>
+</rtept>
+<rtept lat="47.08550" lon="5.23291"><name>27.89km</name>
+</rtept>
+<rtept lat="47.08563" lon="5.23228"><name>27.94km</name>
+</rtept>
+<rtept lat="47.08555" lon="5.23120"><name>28.02km</name>
+</rtept>
+<rtept lat="47.08521" lon="5.23029"><name>28.10km</name>
+</rtept>
+<rtept lat="47.08315" lon="5.22810"><name>270.00km</name>
+<sym>10</sym>
+<cmt>270.00km</cmt>
+</rtept>
+<rtept lat="47.08226" lon="5.22715"><name>28.51km</name>
+</rtept>
+<rtept lat="47.08098" lon="5.22490"><name>28.73km</name>
+</rtept>
+<rtept lat="47.08041" lon="5.22386"><name>28.83km</name>
+</rtept>
+<rtept lat="47.07998" lon="5.22272"><name>28.93km</name>
+</rtept>
+<rtept lat="47.07936" lon="5.22036"><name>29.12km</name>
+</rtept>
+<rtept lat="47.07913" lon="5.21848"><name>29.27km</name>
+</rtept>
+<rtept lat="47.07904" lon="5.21519"><name>29.51km</name>
+</rtept>
+<rtept lat="47.07885" lon="5.21425"><name>29.59km</name>
+</rtept>
+<rtept lat="47.07823" lon="5.21300"><name>29.71km</name>
+</rtept>
+<rtept lat="47.07661" lon="5.21067"><name>29.96km</name>
+</rtept>
+<rtept lat="47.07571" lon="5.20813"><name>30.17km</name>
+</rtept>
+<rtept lat="47.07462" lon="5.20678"><name>30.33km</name>
+</rtept>
+<rtept lat="47.06675" lon="5.19905"><name>31.39km</name>
+</rtept>
+<rtept lat="47.05784" lon="5.19043"><name>32.57km</name>
+</rtept>
+<rtept lat="47.05691" lon="5.18935"><name>32.70km</name>
+</rtept>
+<rtept lat="47.05636" lon="5.18885"><name>32.78km</name>
+</rtept>
+<rtept lat="47.05474" lon="5.18711"><name>33.00km</name>
+</rtept>
+<rtept lat="47.05316" lon="5.18845"><name>33.20km</name>
+</rtept>
+<rtept lat="47.05277" lon="5.18852"><name>33.25km</name>
+</rtept>
+<rtept lat="47.05269" lon="5.18832"><name>33.26km</name>
+</rtept>
+<rtept lat="47.05586" lon="5.18490"><name>33.70km</name>
+</rtept>
+<rtept lat="47.05513" lon="5.18632"><name>33.84km</name>
+</rtept>
+<rtept lat="47.05522" lon="5.18658"><name>33.86km</name>
+</rtept>
+<rtept lat="47.05928" lon="5.19079"><name>34.41km</name>
+</rtept>
+<rtept lat="47.06366" lon="5.19492"><name>34.99km</name>
+</rtept>
+<rtept lat="47.06365" lon="5.19369"><name>35.08km</name>
+</rtept>
+<rtept lat="47.06379" lon="5.19145"><name>35.25km</name>
+</rtept>
+<rtept lat="47.06409" lon="5.19007"><name>35.36km</name>
+</rtept>
+<rtept lat="47.06453" lon="5.18700"><name>35.60km</name>
+</rtept>
+<rtept lat="47.06458" lon="5.18489"><name>35.76km</name>
+</rtept>
+<rtept lat="47.06320" lon="5.17595"><name>36.45km</name>
+</rtept>
+<rtept lat="47.06341" lon="5.17476"><name>36.55km</name>
+</rtept>
+<rtept lat="47.06395" lon="5.17322"><name>36.68km</name>
+</rtept>
+<rtept lat="47.06413" lon="5.17287"><name>36.71km</name>
+</rtept>
+<rtept lat="47.06352" lon="5.17231"><name>36.79km</name>
+</rtept>
+<rtept lat="47.06318" lon="5.17219"><name>36.83km</name>
+</rtept>
+<rtept lat="47.06240" lon="5.17138"><name>36.94km</name>
+</rtept>
+<rtept lat="47.06148" lon="5.17010"><name>37.08km</name>
+</rtept>
+<rtept lat="47.06135" lon="5.16939"><name>37.13km</name>
+</rtept>
+<rtept lat="47.06091" lon="5.16405"><name>37.54km</name>
+</rtept>
+<rtept lat="47.06081" lon="5.16256"><name>37.66km</name>
+</rtept>
+<rtept lat="47.06041" lon="5.16058"><name>37.81km</name>
+</rtept>
+<rtept lat="47.06039" lon="5.15855"><name>37.97km</name>
+</rtept>
+<rtept lat="47.06038" lon="5.15671"><name>38.10km</name>
+</rtept>
+<rtept lat="47.06031" lon="5.15300"><name>280.00km</name>
+<sym>10</sym>
+<cmt>280.00km</cmt>
+</rtept>
+<rtept lat="47.06028" lon="5.15180"><name>38.48km</name>
+</rtept>
+<rtept lat="47.06061" lon="5.14876"><name>38.71km</name>
+</rtept>
+<rtept lat="47.06056" lon="5.14770"><name>38.79km</name>
+</rtept>
+<rtept lat="47.06034" lon="5.14611"><name>38.91km</name>
+</rtept>
+<rtept lat="47.06039" lon="5.14583"><name>38.93km</name>
+</rtept>
+<rtept lat="47.05970" lon="5.14522"><name>39.02km</name>
+</rtept>
+<rtept lat="47.05898" lon="5.14379"><name>39.16km</name>
+</rtept>
+<rtept lat="47.05738" lon="5.14366"><name>39.34km</name>
+</rtept>
+<rtept lat="47.05564" lon="5.14398"><name>39.53km</name>
+</rtept>
+<rtept lat="47.05418" lon="5.14404"><name>39.69km</name>
+</rtept>
+<rtept lat="47.05322" lon="5.14418"><name>39.80km</name>
+</rtept>
+<rtept lat="47.05140" lon="5.14383"><name>40.01km</name>
+</rtept>
+<rtept lat="47.04994" lon="5.14413"><name>40.17km</name>
+</rtept>
+<rtept lat="47.04690" lon="5.14558"><name>40.53km</name>
+</rtept>
+<rtept lat="47.04486" lon="5.14669"><name>40.77km</name>
+</rtept>
+<rtept lat="47.04412" lon="5.14696"><name>40.85km</name>
+</rtept>
+<rtept lat="47.04341" lon="5.14747"><name>40.94km</name>
+</rtept>
+<rtept lat="47.04265" lon="5.14795"><name>41.03km</name>
+</rtept>
+<rtept lat="47.04209" lon="5.14649"><name>41.16km</name>
+</rtept>
+<rtept lat="47.04152" lon="5.14555"><name>41.25km</name>
+</rtept>
+<rtept lat="47.04054" lon="5.14448"><name>41.39km</name>
+</rtept>
+<rtept lat="47.04045" lon="5.14393"><name>41.43km</name>
+</rtept>
+<rtept lat="47.04013" lon="5.14350"><name>41.48km</name>
+</rtept>
+<rtept lat="47.03865" lon="5.14196"><name>41.68km</name>
+</rtept>
+<rtept lat="47.03710" lon="5.14038"><name>41.89km</name>
+</rtept>
+<rtept lat="47.03699" lon="5.14044"><name>41.91km</name>
+</rtept>
+<rtept lat="47.03646" lon="5.13996"><name>41.97km</name>
+</rtept>
+<rtept lat="47.03572" lon="5.13896"><name>42.09km</name>
+</rtept>
+<rtept lat="47.03505" lon="5.13824"><name>42.18km</name>
+</rtept>
+<rtept lat="47.03495" lon="5.13789"><name>42.21km</name>
+</rtept>
+<rtept lat="47.03507" lon="5.13621"><name>42.34km</name>
+</rtept>
+<rtept lat="47.03512" lon="5.12408"><name>43.26km</name>
+</rtept>
+<rtept lat="47.03130" lon="5.12336"><name>43.68km</name>
+</rtept>
+<rtept lat="47.03124" lon="5.12331"><name>43.69km</name>
+</rtept>
+<rtept lat="47.03144" lon="5.11752"><name>44.13km</name>
+</rtept>
+<rtept lat="47.03009" lon="5.11732"><name>44.28km</name>
+</rtept>
+<rtept lat="47.02835" lon="5.11691"><name>44.48km</name>
+</rtept>
+<rtept lat="47.02687" lon="5.11699"><name>44.64km</name>
+</rtept>
+<rtept lat="47.02449" lon="5.11839"><name>44.93km</name>
+</rtept>
+<rtept lat="47.02232" lon="5.12025"><name>45.21km</name>
+</rtept>
+<rtept lat="47.02146" lon="5.12152"><name>45.34km</name>
+</rtept>
+<rtept lat="47.01989" lon="5.12622"><name>45.74km</name>
+</rtept>
+<rtept lat="47.01918" lon="5.12815"><name>45.91km</name>
+</rtept>
+<rtept lat="47.01818" lon="5.12927"><name>46.05km</name>
+</rtept>
+<rtept lat="47.01518" lon="5.13121"><name>46.41km</name>
+</rtept>
+<rtept lat="47.01386" lon="5.13227"><name>46.58km</name>
+</rtept>
+<rtept lat="47.01168" lon="5.13366"><name>46.84km</name>
+</rtept>
+<rtept lat="47.00892" lon="5.13476"><name>47.16km</name>
+</rtept>
+<rtept lat="47.00709" lon="5.13517"><name>47.37km</name>
+</rtept>
+<rtept lat="47.00610" lon="5.13570"><name>47.48km</name>
+</rtept>
+<rtept lat="47.00290" lon="5.13825"><name>47.89km</name>
+</rtept>
+<rtept lat="47.00223" lon="5.13909"><name>47.99km</name>
+</rtept>
+<rtept lat="47.00165" lon="5.14039"><name>48.10km</name>
+</rtept>
+<rtept lat="47.00170" lon="5.14055"><name>48.12km</name>
+</rtept>
+<rtept lat="47.00327" lon="5.14000"><name>48.30km</name>
+</rtept>
+<rtept lat="47.00337" lon="5.14023"><name>48.32km</name>
+</rtept>
+<rtept lat="47.00399" lon="5.14014"><name>290.00km</name>
+<sym>10</sym>
+<cmt>290.00km</cmt>
+</rtept>
+<rtept lat="47.00444" lon="5.14007"><name>48.44km</name>
+</rtept>
+<rtept lat="47.00474" lon="5.14181"><name>48.57km</name>
+</rtept>
+<rtept lat="47.00461" lon="5.14234"><name>48.62km</name>
+</rtept>
+<rtept lat="47.00418" lon="5.14307"><name>48.69km</name>
+</rtept>
+<rtept lat="47.00406" lon="5.14320"><name>48.70km</name>
+</rtept>
+<rtept lat="47.00294" lon="5.14333"><name>48.83km</name>
+</rtept>
+<rtept lat="47.00251" lon="5.14342"><name>48.88km</name>
+</rtept>
+<rtept lat="47.00166" lon="5.14318"><name>48.97km</name>
+</rtept>
+<rtept lat="47.00071" lon="5.14356"><name>49.08km</name>
+</rtept>
+<rtept lat="46.99959" lon="5.14419"><name>49.22km</name>
+</rtept>
+<rtept lat="46.99794" lon="5.14441"><name>49.40km</name>
+</rtept>
+<rtept lat="46.99650" lon="5.14528"><name>49.57km</name>
+</rtept>
+<rtept lat="46.99384" lon="5.14738"><name>49.91km</name>
+</rtept>
+<rtept lat="46.99290" lon="5.14743"><name>50.02km</name>
+</rtept>
+<rtept lat="46.99158" lon="5.14664"><name>50.17km</name>
+</rtept>
+<rtept lat="46.98969" lon="5.14518"><name>50.41km</name>
+</rtept>
+<rtept lat="46.98801" lon="5.14501"><name>50.60km</name>
+</rtept>
+<rtept lat="46.98700" lon="5.14430"><name>50.72km</name>
+</rtept>
+<rtept lat="46.98653" lon="5.14378"><name>50.79km</name>
+</rtept>
+<rtept lat="46.98619" lon="5.14307"><name>50.85km</name>
+</rtept>
+<rtept lat="46.98548" lon="5.14088"><name>51.04km</name>
+</rtept>
+<rtept lat="46.98447" lon="5.13882"><name>51.23km</name>
+</rtept>
+<rtept lat="46.98350" lon="5.13720"><name>51.39km</name>
+</rtept>
+<rtept lat="46.98284" lon="5.13656"><name>51.48km</name>
+</rtept>
+<rtept lat="46.97716" lon="5.13207"><name>52.20km</name>
+</rtept>
+<rtept lat="46.97642" lon="5.13172"><name>52.29km</name>
+</rtept>
+<rtept lat="46.97621" lon="5.13178"><name>52.31km</name>
+</rtept>
+<rtept lat="46.97474" lon="5.13094"><name>52.49km</name>
+</rtept>
+<rtept lat="46.97420" lon="5.13026"><name>52.56km</name>
+</rtept>
+<rtept lat="46.97348" lon="5.12893"><name>52.69km</name>
+</rtept>
+<rtept lat="46.97307" lon="5.12740"><name>52.82km</name>
+</rtept>
+<rtept lat="46.97271" lon="5.12353"><name>53.11km</name>
+</rtept>
+<rtept lat="46.97228" lon="5.12184"><name>53.25km</name>
+</rtept>
+<rtept lat="46.97178" lon="5.12123"><name>53.32km</name>
+</rtept>
+<rtept lat="46.97077" lon="5.12017"><name>53.46km</name>
+</rtept>
+<rtept lat="46.96995" lon="5.11983"><name>53.56km</name>
+</rtept>
+<rtept lat="46.96952" lon="5.11986"><name>53.60km</name>
+</rtept>
+<rtept lat="46.96870" lon="5.11951"><name>53.70km</name>
+</rtept>
+<rtept lat="46.96764" lon="5.11937"><name>53.82km</name>
+</rtept>
+<rtept lat="46.96701" lon="5.11943"><name>53.89km</name>
+</rtept>
+<rtept lat="46.96675" lon="5.11955"><name>53.92km</name>
+</rtept>
+<rtept lat="46.96531" lon="5.11972"><name>54.08km</name>
+</rtept>
+<rtept lat="46.96260" lon="5.12140"><name>54.41km</name>
+</rtept>
+<rtept lat="46.96207" lon="5.12150"><name>54.47km</name>
+</rtept>
+<rtept lat="46.96126" lon="5.12130"><name>54.56km</name>
+</rtept>
+<rtept lat="46.96090" lon="5.12092"><name>54.61km</name>
+</rtept>
+<rtept lat="46.96043" lon="5.12071"><name>54.66km</name>
+</rtept>
+<rtept lat="46.95995" lon="5.12005"><name>54.73km</name>
+</rtept>
+<rtept lat="46.95927" lon="5.11975"><name>54.81km</name>
+</rtept>
+<rtept lat="46.95856" lon="5.11990"><name>54.89km</name>
+</rtept>
+<rtept lat="46.95818" lon="5.12021"><name>54.94km</name>
+</rtept>
+<rtept lat="46.95800" lon="5.12048"><name>54.97km</name>
+</rtept>
+<rtept lat="46.95726" lon="5.12346"><name>55.21km</name>
+</rtept>
+<rtept lat="46.95559" lon="5.12417"><name>55.40km</name>
+</rtept>
+<rtept lat="46.95282" lon="5.12413"><name>55.71km</name>
+</rtept>
+<rtept lat="46.95224" lon="5.12409"><name>55.78km</name>
+</rtept>
+<rtept lat="46.95047" lon="5.12356"><name>55.98km</name>
+</rtept>
+<rtept lat="46.94954" lon="5.12298"><name>56.09km</name>
+</rtept>
+<rtept lat="46.94799" lon="5.12159"><name>56.29km</name>
+</rtept>
+<rtept lat="46.94759" lon="5.12107"><name>56.35km</name>
+</rtept>
+<rtept lat="46.94726" lon="5.12033"><name>56.42km</name>
+</rtept>
+<rtept lat="46.94697" lon="5.11876"><name>56.54km</name>
+</rtept>
+<rtept lat="46.94656" lon="5.11788"><name>56.62km</name>
+</rtept>
+<rtept lat="46.94575" lon="5.11659"><name>56.76km</name>
+</rtept>
+<rtept lat="46.94512" lon="5.11500"><name>56.90km</name>
+</rtept>
+<rtept lat="46.94435" lon="5.11050"><name>57.25km</name>
+</rtept>
+<rtept lat="46.94367" lon="5.10865"><name>57.41km</name>
+</rtept>
+<rtept lat="46.94320" lon="5.10648"><name>57.58km</name>
+</rtept>
+<rtept lat="46.94282" lon="5.10429"><name>57.75km</name>
+</rtept>
+<rtept lat="46.94182" lon="5.10118"><name>58.01km</name>
+</rtept>
+<rtept lat="46.94132" lon="5.09993"><name>58.12km</name>
+</rtept>
+<rtept lat="46.93991" lon="5.09714"><name>300.00km</name>
+<sym>10</sym>
+<cmt>300.00km</cmt>
+</rtept>
+<rtept lat="46.93894" lon="5.09521"><name>58.57km</name>
+</rtept>
+<rtept lat="46.93805" lon="5.09422"><name>58.69km</name>
+</rtept>
+<rtept lat="46.93774" lon="5.09417"><name>58.73km</name>
+</rtept>
+<rtept lat="46.93753" lon="5.09430"><name>58.75km</name>
+</rtept>
+<rtept lat="46.93709" lon="5.09490"><name>58.82km</name>
+</rtept>
+<rtept lat="46.93683" lon="5.09496"><name>58.85km</name>
+</rtept>
+<rtept lat="46.93484" lon="5.09396"><name>59.08km</name>
+</rtept>
+<rtept lat="46.93399" lon="5.09396"><name>59.18km</name>
+</rtept>
+<rtept lat="46.93311" lon="5.09419"><name>59.28km</name>
+</rtept>
+<rtept lat="46.93095" lon="5.09444"><name>59.52km</name>
+</rtept>
+<rtept lat="46.92952" lon="5.09402"><name>59.68km</name>
+</rtept>
+<rtept lat="46.92793" lon="5.09336"><name>59.86km</name>
+</rtept>
+<rtept lat="46.92673" lon="5.09231"><name>60.02km</name>
+</rtept>
+<rtept lat="46.92508" lon="5.09140"><name>60.21km</name>
+</rtept>
+<rtept lat="46.92374" lon="5.09019"><name>60.39km</name>
+</rtept>
+<rtept lat="46.92294" lon="5.08898"><name>60.52km</name>
+</rtept>
+<rtept lat="46.92206" lon="5.08823"><name>60.63km</name>
+</rtept>
+<rtept lat="46.92121" lon="5.08789"><name>60.73km</name>
+</rtept>
+<rtept lat="46.92016" lon="5.08791"><name>60.84km</name>
+</rtept>
+<rtept lat="46.91819" lon="5.08828"><name>61.07km</name>
+</rtept>
+<rtept lat="46.91659" lon="5.08808"><name>61.24km</name>
+</rtept>
+<rtept lat="46.91577" lon="5.08763"><name>61.34km</name>
+</rtept>
+<rtept lat="46.91511" lon="5.08765"><name>61.41km</name>
+</rtept>
+<rtept lat="46.91307" lon="5.08538"><name>61.70km</name>
+</rtept>
+<rtept lat="46.91131" lon="5.08373"><name>61.93km</name>
+</rtept>
+<rtept lat="46.91010" lon="5.08313"><name>62.07km</name>
+</rtept>
+<rtept lat="46.90883" lon="5.08285"><name>62.22km</name>
+</rtept>
+<rtept lat="46.90787" lon="5.08294"><name>62.32km</name>
+</rtept>
+<rtept lat="46.90657" lon="5.08356"><name>62.48km</name>
+</rtept>
+<rtept lat="46.90526" lon="5.08423"><name>62.63km</name>
+</rtept>
+<rtept lat="46.90482" lon="5.08424"><name>62.68km</name>
+</rtept>
+<rtept lat="46.90272" lon="5.08256"><name>62.95km</name>
+</rtept>
+<rtept lat="46.90187" lon="5.08143"><name>63.07km</name>
+</rtept>
+<rtept lat="46.90127" lon="5.08053"><name>63.17km</name>
+</rtept>
+<rtept lat="46.89913" lon="5.07614"><name>63.58km</name>
+</rtept>
+<rtept lat="46.89909" lon="5.07589"><name>63.60km</name>
+</rtept>
+<rtept lat="46.89924" lon="5.07346"><name>63.78km</name>
+</rtept>
+<rtept lat="46.89957" lon="5.07236"><name>63.88km</name>
+</rtept>
+<rtept lat="46.89984" lon="5.07180"><name>63.93km</name>
+</rtept>
+<rtept lat="46.90000" lon="5.07122"><name>63.97km</name>
+</rtept>
+<rtept lat="46.89954" lon="5.05736"><name>65.03km</name>
+</rtept>
+<rtept lat="46.89955" lon="5.05678"><name>65.07km</name>
+</rtept>
+<rtept lat="46.89897" lon="5.05378"><name>65.31km</name>
+</rtept>
+<rtept lat="46.89843" lon="5.05136"><name>65.50km</name>
+</rtept>
+<rtept lat="46.89772" lon="5.04744"><name>65.81km</name>
+</rtept>
+<rtept lat="46.89598" lon="5.03919"><name>66.47km</name>
+</rtept>
+<rtept lat="46.89516" lon="5.03356"><name>66.91km</name>
+</rtept>
+<rtept lat="46.89524" lon="5.03262"><name>66.98km</name>
+</rtept>
+<rtept lat="46.89540" lon="5.03126"><name>67.08km</name>
+</rtept>
+<rtept lat="46.89583" lon="5.03006"><name>67.19km</name>
+</rtept>
+<rtept lat="46.89612" lon="5.02927"><name>67.25km</name>
+</rtept>
+<rtept lat="46.89587" lon="5.02907"><name>67.28km</name>
+</rtept>
+<rtept lat="46.89519" lon="5.02790"><name>67.40km</name>
+</rtept>
+<rtept lat="46.89457" lon="5.02726"><name>67.49km</name>
+</rtept>
+<rtept lat="46.89451" lon="5.02706"><name>67.50km</name>
+</rtept>
+<rtept lat="46.89459" lon="5.02470"><name>67.68km</name>
+</rtept>
+<rtept lat="46.89490" lon="5.02464"><name>67.72km</name>
+</rtept>
+<rtept lat="46.89486" lon="5.02493"><name>67.74km</name>
+</rtept>
+<rtept lat="46.89558" lon="5.02534"><name>67.83km</name>
+</rtept>
+<rtept lat="46.89579" lon="5.02498"><name>67.86km</name>
+</rtept>
+<rtept lat="46.89593" lon="5.02525"><name>67.89km</name>
+</rtept>
+<rtept lat="46.89626" lon="5.02500"><name>67.93km</name>
+</rtept>
+<rtept lat="46.89627" lon="5.02468"><name>67.95km</name>
+</rtept>
+<rtept lat="46.89661" lon="5.02451"><name>67.99km</name>
+</rtept>
+<rtept lat="46.89763" lon="5.02510"><name>68.11km</name>
+</rtept>
+<rtept lat="46.89791" lon="5.02500"><name>68.15km</name>
+</rtept>
+<rtept lat="46.89857" lon="5.02451"><name>68.23km</name>
+</rtept>
+<rtept lat="46.89961" lon="5.02314"><name>310.00km</name>
+<sym>10</sym>
+<cmt>310.00km</cmt>
+</rtept>
+<rtept lat="46.90063" lon="5.02180"><name>68.54km</name>
+</rtept>
+<rtept lat="46.90113" lon="5.02164"><name>68.59km</name>
+</rtept>
+<rtept lat="46.90292" lon="5.02290"><name>68.82km</name>
+</rtept>
+<rtept lat="46.90310" lon="5.02272"><name>68.84km</name>
+</rtept>
+<rtept lat="46.90326" lon="5.02268"><name>68.86km</name>
+</rtept>
+<rtept lat="46.90472" lon="5.01864"><name>69.21km</name>
+</rtept>
+<rtept lat="46.90574" lon="5.01638"><name>69.41km</name>
+</rtept>
+<rtept lat="46.90724" lon="5.01342"><name>69.69km</name>
+</rtept>
+<rtept lat="46.90767" lon="5.01197"><name>69.81km</name>
+</rtept>
+<rtept lat="46.90789" lon="5.01056"><name>69.92km</name>
+</rtept>
+<rtept lat="46.90792" lon="5.00961"><name>69.99km</name>
+</rtept>
+<rtept lat="46.90779" lon="5.00697"><name>70.19km</name>
+</rtept>
+<rtept lat="46.90687" lon="5.00474"><name>70.39km</name>
+</rtept>
+<rtept lat="46.90494" lon="5.00129"><name>70.73km</name>
+</rtept>
+<rtept lat="46.90310" lon="4.99826"><name>71.04km</name>
+</rtept>
+<rtept lat="46.90397" lon="4.99709"><name>71.17km</name>
+</rtept>
+<rtept lat="46.90456" lon="4.99595"><name>71.28km</name>
+</rtept>
+<rtept lat="46.90488" lon="4.99487"><name>71.37km</name>
+</rtept>
+<rtept lat="46.90498" lon="4.99278"><name>71.53km</name>
+</rtept>
+<rtept lat="46.90463" lon="4.99060"><name>71.70km</name>
+</rtept>
+<rtept lat="46.90407" lon="4.98791"><name>71.91km</name>
+</rtept>
+<rtept lat="46.90378" lon="4.98704"><name>71.99km</name>
+</rtept>
+<rtept lat="46.90355" lon="4.98518"><name>72.13km</name>
+</rtept>
+<rtept lat="46.90306" lon="4.98270"><name>72.33km</name>
+</rtept>
+<rtept lat="46.90297" lon="4.97964"><name>72.56km</name>
+</rtept>
+<rtept lat="46.90272" lon="4.97816"><name>72.67km</name>
+</rtept>
+<rtept lat="46.90250" lon="4.97732"><name>72.74km</name>
+</rtept>
+<rtept lat="46.90253" lon="4.97699"><name>72.77km</name>
+</rtept>
+<rtept lat="46.90222" lon="4.97632"><name>72.83km</name>
+</rtept>
+<rtept lat="46.90155" lon="4.97296"><name>73.09km</name>
+</rtept>
+<rtept lat="46.90091" lon="4.97082"><name>73.27km</name>
+</rtept>
+<rtept lat="46.89768" lon="4.97151"><name>73.64km</name>
+</rtept>
+<rtept lat="46.89608" lon="4.96916"><name>73.89km</name>
+</rtept>
+<rtept lat="46.89596" lon="4.96880"><name>73.92km</name>
+</rtept>
+<rtept lat="46.89559" lon="4.96836"><name>73.97km</name>
+</rtept>
+<rtept lat="46.89547" lon="4.96793"><name>74.01km</name>
+</rtept>
+<rtept lat="46.89442" lon="4.96571"><name>74.21km</name>
+</rtept>
+<rtept lat="46.89408" lon="4.96486"><name>74.29km</name>
+</rtept>
+<rtept lat="46.89410" lon="4.96455"><name>74.31km</name>
+</rtept>
+<rtept lat="46.89396" lon="4.96426"><name>74.34km</name>
+</rtept>
+<rtept lat="46.89376" lon="4.96251"><name>74.47km</name>
+</rtept>
+<rtept lat="46.89354" lon="4.95911"><name>74.73km</name>
+</rtept>
+<rtept lat="46.89322" lon="4.95709"><name>74.89km</name>
+</rtept>
+<rtept lat="46.89298" lon="4.95565"><name>75.00km</name>
+</rtept>
+<rtept lat="46.89281" lon="4.95522"><name>75.04km</name>
+</rtept>
+<rtept lat="46.89258" lon="4.95488"><name>75.08km</name>
+</rtept>
+<rtept lat="46.89256" lon="4.95463"><name>75.09km</name>
+</rtept>
+<rtept lat="46.89204" lon="4.95376"><name>75.18km</name>
+</rtept>
+<rtept lat="46.89195" lon="4.95342"><name>75.21km</name>
+</rtept>
+<rtept lat="46.89105" lon="4.95294"><name>75.32km</name>
+</rtept>
+<rtept lat="46.89083" lon="4.95247"><name>75.36km</name>
+</rtept>
+<rtept lat="46.89063" lon="4.95239"><name>75.38km</name>
+</rtept>
+<rtept lat="46.89049" lon="4.95251"><name>75.40km</name>
+</rtept>
+<rtept lat="46.88953" lon="4.95194"><name>75.52km</name>
+</rtept>
+<rtept lat="46.88941" lon="4.95179"><name>75.53km</name>
+</rtept>
+<rtept lat="46.88826" lon="4.95113"><name>75.67km</name>
+</rtept>
+<rtept lat="46.88653" lon="4.95048"><name>75.87km</name>
+</rtept>
+<rtept lat="46.88438" lon="4.95003"><name>76.11km</name>
+</rtept>
+<rtept lat="46.88258" lon="4.95056"><name>76.32km</name>
+</rtept>
+<rtept lat="46.88166" lon="4.95099"><name>76.42km</name>
+</rtept>
+<rtept lat="46.87978" lon="4.95237"><name>76.66km</name>
+</rtept>
+<rtept lat="46.87834" lon="4.95451"><name>76.89km</name>
+</rtept>
+<rtept lat="46.87814" lon="4.95463"><name>76.91km</name>
+</rtept>
+<rtept lat="46.87744" lon="4.95578"><name>77.03km</name>
+</rtept>
+<rtept lat="46.87620" lon="4.95818"><name>77.25km</name>
+</rtept>
+<rtept lat="46.87391" lon="4.96233"><name>77.66km</name>
+</rtept>
+<rtept lat="46.87316" lon="4.96312"><name>77.76km</name>
+</rtept>
+<rtept lat="46.87216" lon="4.96371"><name>77.88km</name>
+</rtept>
+<rtept lat="46.87151" lon="4.96374"><name>77.95km</name>
+</rtept>
+<rtept lat="46.87097" lon="4.96348"><name>78.02km</name>
+</rtept>
+<rtept lat="46.86987" lon="4.96249"><name>78.16km</name>
+</rtept>
+<rtept lat="46.87062" lon="4.96101"><name>78.30km</name>
+</rtept>
+<rtept lat="46.87062" lon="4.96068"><name>78.33km</name>
+</rtept>
+<rtept lat="46.87022" lon="4.96049"><name>78.37km</name>
+</rtept>
+<rtept lat="46.87014" lon="4.96041"><name>320.00km</name>
+<sym>10</sym>
+<cmt>320.00km</cmt>
+</rtept>
+<rtept lat="46.86981" lon="4.96012"><name>78.43km</name>
+</rtept>
+<rtept lat="46.86911" lon="4.95976"><name>78.51km</name>
+</rtept>
+<rtept lat="46.86766" lon="4.95631"><name>78.82km</name>
+</rtept>
+<rtept lat="46.86642" lon="4.95456"><name>79.01km</name>
+</rtept>
+<rtept lat="46.86537" lon="4.95397"><name>79.14km</name>
+</rtept>
+<rtept lat="46.86407" lon="4.95391"><name>79.28km</name>
+</rtept>
+<rtept lat="46.86407" lon="4.95210"><name>79.42km</name>
+</rtept>
+<rtept lat="46.86415" lon="4.95183"><name>79.44km</name>
+</rtept>
+<rtept lat="46.86407" lon="4.94969"><name>79.60km</name>
+</rtept>
+<rtept lat="46.86332" lon="4.94989"><name>79.69km</name>
+</rtept>
+<rtept lat="46.85753" lon="4.94960"><name>80.33km</name>
+</rtept>
+<rtept lat="46.84796" lon="4.94581"><name>81.43km</name>
+</rtept>
+<rtept lat="46.84615" lon="4.94381"><name>81.69km</name>
+</rtept>
+<rtept lat="46.84505" lon="4.94242"><name>81.85km</name>
+</rtept>
+<rtept lat="46.84400" lon="4.94032"><name>82.05km</name>
+</rtept>
+<rtept lat="46.84340" lon="4.94048"><name>82.11km</name>
+</rtept>
+<rtept lat="46.84303" lon="4.94032"><name>82.16km</name>
+</rtept>
+<rtept lat="46.83858" lon="4.93528"><name>82.78km</name>
+</rtept>
+<rtept lat="46.83398" lon="4.92818"><name>83.53km</name>
+</rtept>
+<rtept lat="46.83350" lon="4.92739"><name>83.61km</name>
+</rtept>
+<rtept lat="46.83322" lon="4.92709"><name>83.64km</name>
+</rtept>
+<rtept lat="46.83253" lon="4.92664"><name>83.73km</name>
+</rtept>
+<rtept lat="46.83175" lon="4.92635"><name>83.82km</name>
+</rtept>
+<rtept lat="46.83141" lon="4.92586"><name>83.87km</name>
+</rtept>
+<rtept lat="46.83028" lon="4.92115"><name>84.25km</name>
+</rtept>
+<rtept lat="46.83008" lon="4.92024"><name>84.32km</name>
+</rtept>
+<rtept lat="46.82974" lon="4.91934"><name>84.40km</name>
+</rtept>
+<rtept lat="46.82981" lon="4.91870"><name>84.45km</name>
+</rtept>
+<rtept lat="46.83030" lon="4.91645"><name>84.63km</name>
+</rtept>
+<rtept lat="46.83030" lon="4.91608"><name>84.66km</name>
+</rtept>
+<rtept lat="46.82966" lon="4.91355"><name>84.86km</name>
+</rtept>
+<rtept lat="46.82887" lon="4.91151"><name>85.04km</name>
+</rtept>
+<rtept lat="46.82861" lon="4.91040"><name>85.13km</name>
+</rtept>
+<rtept lat="46.82846" lon="4.90926"><name>85.22km</name>
+</rtept>
+<rtept lat="46.82678" lon="4.90292"><name>85.74km</name>
+</rtept>
+<rtept lat="46.82651" lon="4.89703"><name>86.19km</name>
+</rtept>
+<rtept lat="46.82576" lon="4.89462"><name>86.39km</name>
+</rtept>
+<rtept lat="46.82147" lon="4.88908"><name>87.02km</name>
+</rtept>
+<rtept lat="46.81859" lon="4.88463"><name>87.49km</name>
+</rtept>
+<rtept lat="46.81799" lon="4.88348"><name>87.60km</name>
+</rtept>
+<rtept lat="46.81715" lon="4.88249"><name>87.72km</name>
+</rtept>
+<rtept lat="46.81699" lon="4.88216"><name>87.75km</name>
+</rtept>
+<rtept lat="46.81685" lon="4.88144"><name>87.81km</name>
+</rtept>
+<rtept lat="46.81516" lon="4.87601"><name>88.26km</name>
+</rtept>
+<rtept lat="46.81451" lon="4.87469"><name>330.00km</name>
+<sym>10</sym>
+<cmt>330.00km</cmt>
+</rtept>
+<rtept lat="46.81060" lon="4.86665"><name>89.14km</name>
+</rtept>
+<rtept lat="46.80959" lon="4.86521"><name>89.29km</name>
+</rtept>
+<rtept lat="46.80763" lon="4.86279"><name>89.58km</name>
+</rtept>
+<rtept lat="46.80642" lon="4.86188"><name>89.73km</name>
+</rtept>
+<rtept lat="46.80626" lon="4.86200"><name>89.75km</name>
+</rtept>
+<rtept lat="46.80611" lon="4.86192"><name>89.77km</name>
+</rtept>
+<rtept lat="46.80605" lon="4.86170"><name>89.79km</name>
+</rtept>
+<rtept lat="46.80577" lon="4.86173"><name>89.82km</name>
+</rtept>
+<rtept lat="46.80444" lon="4.86132"><name>89.97km</name>
+</rtept>
+<rtept lat="46.80135" lon="4.86132"><name>90.31km</name>
+</rtept>
+<rtept lat="46.79943" lon="4.86172"><name>90.53km</name>
+</rtept>
+<rtept lat="46.79756" lon="4.86233"><name>90.74km</name>
+</rtept>
+<rtept lat="46.79461" lon="4.86361"><name>91.08km</name>
+</rtept>
+<rtept lat="46.79323" lon="4.86373"><name>91.24km</name>
+</rtept>
+<rtept lat="46.79274" lon="4.86372"><name>91.29km</name>
+</rtept>
+<rtept lat="46.79220" lon="4.86355"><name>91.35km</name>
+</rtept>
+<rtept lat="46.79108" lon="4.86284"><name>91.49km</name>
+</rtept>
+<rtept lat="46.79071" lon="4.86256"><name>91.53km</name>
+</rtept>
+<rtept lat="46.79055" lon="4.86264"><name>91.55km</name>
+</rtept>
+<rtept lat="46.79039" lon="4.86256"><name>91.57km</name>
+</rtept>
+<rtept lat="46.79030" lon="4.86238"><name>91.59km</name>
+</rtept>
+<rtept lat="46.79032" lon="4.86211"><name>91.61km</name>
+</rtept>
+<rtept lat="46.78822" lon="4.85984"><name>91.90km</name>
+</rtept>
+<rtept lat="46.78546" lon="4.85616"><name>92.32km</name>
+</rtept>
+<rtept lat="46.78519" lon="4.85532"><name>92.39km</name>
+</rtept>
+<rtept lat="46.78455" lon="4.85341"><name>92.55km</name>
+</rtept>
+<rtept lat="46.78435" lon="4.85293"><name>92.59km</name>
+</rtept>
+<rtept lat="46.78676" lon="4.85146"><name>92.88km</name>
+</rtept>
+<rtept lat="46.78699" lon="4.85146"><name>92.91km</name>
+</rtept>
+<rtept lat="46.78715" lon="4.85131"><name>92.93km</name>
+</rtept>
+<rtept lat="46.79441" lon="4.84865"><name>93.76km</name>
+</rtept>
+<rtept lat="46.79481" lon="4.84729"><name>93.87km</name>
+</rtept>
+<rtept lat="46.79518" lon="4.84560"><name>94.01km</name>
+</rtept>
+<rtept lat="46.79604" lon="4.84318"><name>94.22km</name>
+</rtept>
+<rtept lat="46.79741" lon="4.84155"><name>94.41km</name>
+</rtept>
+<rtept lat="46.79811" lon="4.83989"><name>94.56km</name>
+</rtept>
+<rtept lat="46.79835" lon="4.83891"><name>94.64km</name>
+</rtept>
+<rtept lat="46.79832" lon="4.83879"><name>94.65km</name>
+</rtept>
+<rtept lat="46.79908" lon="4.83891"><name>94.73km</name>
+</rtept>
+<rtept lat="46.79906" lon="4.83869"><name>94.75km</name>
+</rtept>
+<rtept lat="46.79936" lon="4.83853"><name>94.79km</name>
+</rtept>
+<rtept lat="46.79971" lon="4.83727"><name>94.89km</name>
+</rtept>
+<rtept lat="46.79963" lon="4.83659"><name>94.94km</name>
+</rtept>
+<rtept lat="46.80010" lon="4.83506"><name>95.07km</name>
+</rtept>
+<rtept lat="46.80050" lon="4.83488"><name>95.12km</name>
+</rtept>
+<rtept lat="46.80107" lon="4.83506"><name>95.18km</name>
+</rtept>
+<rtept lat="46.80174" lon="4.83562"><name>95.27km</name>
+</rtept>
+<rtept lat="46.80255" lon="4.83611"><name>95.36km</name>
+</rtept>
+<rtept lat="46.80465" lon="4.83681"><name>95.60km</name>
+</rtept>
+<rtept lat="46.80496" lon="4.83750"><name>95.67km</name>
+</rtept>
+<rtept lat="46.80487" lon="4.83815"><name>95.72km</name>
+</rtept>
+<rtept lat="46.80492" lon="4.83858"><name>95.75km</name>
+</rtept>
+<rtept lat="46.80513" lon="4.83904"><name>95.79km</name>
+</rtept>
+<rtept lat="46.80564" lon="4.83944"><name>95.86km</name>
+</rtept>
+<rtept lat="46.80584" lon="4.83967"><name>95.88km</name>
+</rtept>
+<rtept lat="46.80649" lon="4.83975"><name>95.96km</name>
+</rtept>
+<rtept lat="46.80696" lon="4.83967"><name>96.01km</name>
+</rtept>
+<rtept lat="46.80773" lon="4.83934"><name>96.10km</name>
+</rtept>
+<rtept lat="46.80854" lon="4.83959"><name>96.19km</name>
+</rtept>
+<rtept lat="46.80909" lon="4.83937"><name>96.25km</name>
+</rtept>
+<rtept lat="46.80971" lon="4.83898"><name>96.33km</name>
+</rtept>
+<rtept lat="46.81098" lon="4.83773"><name>96.50km</name>
+</rtept>
+<rtept lat="46.81136" lon="4.83753"><name>96.54km</name>
+</rtept>
+<rtept lat="46.81184" lon="4.83760"><name>96.60km</name>
+</rtept>
+<rtept lat="46.81214" lon="4.83802"><name>96.64km</name>
+</rtept>
+<rtept lat="46.81306" lon="4.83985"><name>96.82km</name>
+</rtept>
+<rtept lat="46.81343" lon="4.84004"><name>96.86km</name>
+</rtept>
+<rtept lat="46.81567" lon="4.83942"><name>97.12km</name>
+</rtept>
+<rtept lat="46.81598" lon="4.83944"><name>97.15km</name>
+</rtept>
+<rtept lat="46.81681" lon="4.83976"><name>97.25km</name>
+</rtept>
+<rtept lat="46.81747" lon="4.84027"><name>97.33km</name>
+</rtept>
+<rtept lat="46.81847" lon="4.84212"><name>97.51km</name>
+</rtept>
+<rtept lat="46.81905" lon="4.84263"><name>97.58km</name>
+</rtept>
+<rtept lat="46.82093" lon="4.84329"><name>97.80km</name>
+</rtept>
+<rtept lat="46.82127" lon="4.84382"><name>97.85km</name>
+</rtept>
+<rtept lat="46.82145" lon="4.84479"><name>97.93km</name>
+</rtept>
+<rtept lat="46.82130" lon="4.84583"><name>98.01km</name>
+</rtept>
+<rtept lat="46.82136" lon="4.84613"><name>98.03km</name>
+</rtept>
+<rtept lat="46.82173" lon="4.84640"><name>98.08km</name>
+</rtept>
+<rtept lat="46.82304" lon="4.84650"><name>98.23km</name>
+</rtept>
+<rtept lat="46.82443" lon="4.84641"><name>98.38km</name>
+</rtept>
+<rtept lat="46.82447" lon="4.84646"><name>340.00km</name>
+<sym>10</sym>
+<cmt>340.00km</cmt>
+</rtept>
+<rtept lat="46.82472" lon="4.84674"><name>98.42km</name>
+</rtept>
+<rtept lat="46.82507" lon="4.84858"><name>98.57km</name>
+</rtept>
+<rtept lat="46.82516" lon="4.84946"><name>98.63km</name>
+</rtept>
+<rtept lat="46.82540" lon="4.84977"><name>98.67km</name>
+</rtept>
+<rtept lat="46.82661" lon="4.85055"><name>98.82km</name>
+</rtept>
+<rtept lat="46.82895" lon="4.84997"><name>99.08km</name>
+</rtept>
+<rtept lat="46.83240" lon="4.84736"><name>99.51km</name>
+</rtept>
+<rtept lat="46.83280" lon="4.84659"><name>99.58km</name>
+</rtept>
+<rtept lat="46.83297" lon="4.84594"><name>99.64km</name>
+</rtept>
+<rtept lat="46.83317" lon="4.84401"><name>99.79km</name>
+</rtept>
+<rtept lat="46.83353" lon="4.84222"><name>99.93km</name>
+</rtept>
+<rtept lat="46.83343" lon="4.84082"><name>100.03km</name>
+</rtept>
+<rtept lat="46.83354" lon="4.83908"><name>100.17km</name>
+</rtept>
+<rtept lat="46.83390" lon="4.83708"><name>100.33km</name>
+</rtept>
+<rtept lat="46.83394" lon="4.83570"><name>100.43km</name>
+</rtept>
+<rtept lat="46.83437" lon="4.83454"><name>100.53km</name>
+</rtept>
+<rtept lat="46.83543" lon="4.83112"><name>100.82km</name>
+</rtept>
+<rtept lat="46.83594" lon="4.83027"><name>100.90km</name>
+</rtept>
+<rtept lat="46.83610" lon="4.83009"><name>100.92km</name>
+</rtept>
+<rtept lat="46.83743" lon="4.82982"><name>101.07km</name>
+</rtept>
+<rtept lat="46.83805" lon="4.82937"><name>101.15km</name>
+</rtept>
+<rtept lat="46.83879" lon="4.82822"><name>101.27km</name>
+</rtept>
+<rtept lat="46.83925" lon="4.82793"><name>101.33km</name>
+</rtept>
+<rtept lat="46.84002" lon="4.82764"><name>101.42km</name>
+</rtept>
+<rtept lat="46.84054" lon="4.82694"><name>101.49km</name>
+</rtept>
+<rtept lat="46.84089" lon="4.82609"><name>101.57km</name>
+</rtept>
+<rtept lat="46.84124" lon="4.82573"><name>101.62km</name>
+</rtept>
+<rtept lat="46.84167" lon="4.82556"><name>101.67km</name>
+</rtept>
+<rtept lat="46.84227" lon="4.82513"><name>101.74km</name>
+</rtept>
+<rtept lat="46.84311" lon="4.82388"><name>101.87km</name>
+</rtept>
+<rtept lat="46.84389" lon="4.82313"><name>101.98km</name>
+</rtept>
+<rtept lat="46.84431" lon="4.82295"><name>102.03km</name>
+</rtept>
+<rtept lat="46.84523" lon="4.82316"><name>102.13km</name>
+</rtept>
+<rtept lat="46.84548" lon="4.82308"><name>102.16km</name>
+</rtept>
+<rtept lat="46.84598" lon="4.82251"><name>102.23km</name>
+</rtept>
+<rtept lat="46.84634" lon="4.82132"><name>102.33km</name>
+</rtept>
+<rtept lat="46.84688" lon="4.82040"><name>102.42km</name>
+</rtept>
+<rtept lat="46.84729" lon="4.81908"><name>102.53km</name>
+</rtept>
+<rtept lat="46.84717" lon="4.81721"><name>102.67km</name>
+</rtept>
+<rtept lat="46.84769" lon="4.81442"><name>102.89km</name>
+</rtept>
+<rtept lat="46.84764" lon="4.81384"><name>102.94km</name>
+</rtept>
+<rtept lat="46.84714" lon="4.81107"><name>103.15km</name>
+</rtept>
+<rtept lat="46.84739" lon="4.80966"><name>103.26km</name>
+</rtept>
+<rtept lat="46.84748" lon="4.80782"><name>103.41km</name>
+</rtept>
+<rtept lat="46.84873" lon="4.80340"><name>103.77km</name>
+</rtept>
+<rtept lat="46.84912" lon="4.80257"><name>103.85km</name>
+</rtept>
+<rtept lat="46.85129" lon="4.80076"><name>104.12km</name>
+</rtept>
+<rtept lat="46.85215" lon="4.80052"><name>104.22km</name>
+</rtept>
+<rtept lat="46.85301" lon="4.80064"><name>104.32km</name>
+</rtept>
+<rtept lat="46.85342" lon="4.80073"><name>104.36km</name>
+</rtept>
+<rtept lat="46.85389" lon="4.80048"><name>104.42km</name>
+</rtept>
+<rtept lat="46.85449" lon="4.79976"><name>104.51km</name>
+</rtept>
+<rtept lat="46.85699" lon="4.79838"><name>104.80km</name>
+</rtept>
+<rtept lat="46.85800" lon="4.79768"><name>104.93km</name>
+</rtept>
+<rtept lat="46.85833" lon="4.79724"><name>104.98km</name>
+</rtept>
+<rtept lat="46.85838" lon="4.79690"><name>105.00km</name>
+</rtept>
+<rtept lat="46.85898" lon="4.79696"><name>105.07km</name>
+</rtept>
+<rtept lat="46.86113" lon="4.79562"><name>105.33km</name>
+</rtept>
+<rtept lat="46.86437" lon="4.79243"><name>105.76km</name>
+</rtept>
+<rtept lat="46.86560" lon="4.79199"><name>105.90km</name>
+</rtept>
+<rtept lat="46.86633" lon="4.79172"><name>105.99km</name>
+</rtept>
+<rtept lat="46.86663" lon="4.79146"><name>106.03km</name>
+</rtept>
+<rtept lat="46.86734" lon="4.79053"><name>106.13km</name>
+</rtept>
+<rtept lat="46.86759" lon="4.78992"><name>106.19km</name>
+</rtept>
+<rtept lat="46.86780" lon="4.78887"><name>106.27km</name>
+</rtept>
+<rtept lat="46.86919" lon="4.78675"><name>106.49km</name>
+</rtept>
+<rtept lat="46.87026" lon="4.78619"><name>106.62km</name>
+</rtept>
+<rtept lat="46.87046" lon="4.78592"><name>106.65km</name>
+</rtept>
+<rtept lat="46.87092" lon="4.78390"><name>106.81km</name>
+</rtept>
+<rtept lat="46.87132" lon="4.78294"><name>106.90km</name>
+</rtept>
+<rtept lat="46.87193" lon="4.78019"><name>107.12km</name>
+</rtept>
+<rtept lat="46.87208" lon="4.77988"><name>107.15km</name>
+</rtept>
+<rtept lat="46.87371" lon="4.77878"><name>107.35km</name>
+</rtept>
+<rtept lat="46.87537" lon="4.77721"><name>107.56km</name>
+</rtept>
+<rtept lat="46.87573" lon="4.77661"><name>107.63km</name>
+</rtept>
+<rtept lat="46.87625" lon="4.77363"><name>107.86km</name>
+</rtept>
+<rtept lat="46.87638" lon="4.77334"><name>107.89km</name>
+</rtept>
+<rtept lat="46.87763" lon="4.77233"><name>108.04km</name>
+</rtept>
+<rtept lat="46.87812" lon="4.77175"><name>108.12km</name>
+</rtept>
+<rtept lat="46.87943" lon="4.76916"><name>108.36km</name>
+</rtept>
+<rtept lat="46.87963" lon="4.76900"><name>350.00km</name>
+<sym>10</sym>
+<cmt>350.00km</cmt>
+</rtept>
+<rtept lat="46.88068" lon="4.76819"><name>108.52km</name>
+</rtept>
+<rtept lat="46.88115" lon="4.76745"><name>108.59km</name>
+</rtept>
+<rtept lat="46.88221" lon="4.76510"><name>108.81km</name>
+</rtept>
+<rtept lat="46.88250" lon="4.76473"><name>108.85km</name>
+</rtept>
+<rtept lat="46.88297" lon="4.76453"><name>108.91km</name>
+</rtept>
+<rtept lat="46.88424" lon="4.76478"><name>109.05km</name>
+</rtept>
+<rtept lat="46.88580" lon="4.76502"><name>109.22km</name>
+</rtept>
+<rtept lat="46.88713" lon="4.76466"><name>109.37km</name>
+</rtept>
+<rtept lat="46.88796" lon="4.76425"><name>109.47km</name>
+</rtept>
+<rtept lat="46.88835" lon="4.76377"><name>109.53km</name>
+</rtept>
+<rtept lat="46.89113" lon="4.75716"><name>110.12km</name>
+</rtept>
+<rtept lat="46.89147" lon="4.75687"><name>110.16km</name>
+</rtept>
+<rtept lat="46.90221" lon="4.75327"><name>111.39km</name>
+</rtept>
+<rtept lat="46.90246" lon="4.75301"><name>111.42km</name>
+</rtept>
+<rtept lat="46.90235" lon="4.75282"><name>111.44km</name>
+</rtept>
+<rtept lat="46.90244" lon="4.75269"><name>111.45km</name>
+</rtept>
+<rtept lat="46.90257" lon="4.75285"><name>111.47km</name>
+</rtept>
+<rtept lat="46.90283" lon="4.75206"><name>111.54km</name>
+</rtept>
+<rtept lat="46.90314" lon="4.75022"><name>111.68km</name>
+</rtept>
+<rtept lat="46.90326" lon="4.74993"><name>111.71km</name>
+</rtept>
+<rtept lat="46.90355" lon="4.74964"><name>111.75km</name>
+</rtept>
+<rtept lat="46.90434" lon="4.74927"><name>111.84km</name>
+</rtept>
+<rtept lat="46.90488" lon="4.74863"><name>111.92km</name>
+</rtept>
+<rtept lat="46.90664" lon="4.74621"><name>112.18km</name>
+</rtept>
+<rtept lat="46.90680" lon="4.74644"><name>112.21km</name>
+</rtept>
+<rtept lat="46.90813" lon="4.74498"><name>112.39km</name>
+</rtept>
+<rtept lat="46.90858" lon="4.74411"><name>112.48km</name>
+</rtept>
+<rtept lat="46.90879" lon="4.74390"><name>112.51km</name>
+</rtept>
+<rtept lat="46.90987" lon="4.74343"><name>112.63km</name>
+</rtept>
+<rtept lat="46.91068" lon="4.74258"><name>112.74km</name>
+</rtept>
+<rtept lat="46.91108" lon="4.74152"><name>112.83km</name>
+</rtept>
+<rtept lat="46.91108" lon="4.74102"><name>112.87km</name>
+</rtept>
+<rtept lat="46.91029" lon="4.73799"><name>113.12km</name>
+</rtept>
+<rtept lat="46.91028" lon="4.73672"><name>113.21km</name>
+</rtept>
+<rtept lat="46.90973" lon="4.73404"><name>113.43km</name>
+</rtept>
+<rtept lat="46.90942" lon="4.73341"><name>113.49km</name>
+</rtept>
+<rtept lat="46.90874" lon="4.73284"><name>113.57km</name>
+</rtept>
+<rtept lat="46.90868" lon="4.73258"><name>113.59km</name>
+</rtept>
+<rtept lat="46.90871" lon="4.73135"><name>113.69km</name>
+</rtept>
+<rtept lat="46.90839" lon="4.73055"><name>113.76km</name>
+</rtept>
+<rtept lat="46.90749" lon="4.72904"><name>113.91km</name>
+</rtept>
+<rtept lat="46.90730" lon="4.72843"><name>113.96km</name>
+</rtept>
+<rtept lat="46.90733" lon="4.72740"><name>114.04km</name>
+</rtept>
+<rtept lat="46.90688" lon="4.72607"><name>114.15km</name>
+</rtept>
+<rtept lat="46.90676" lon="4.72543"><name>114.20km</name>
+</rtept>
+<rtept lat="46.90670" lon="4.72423"><name>114.29km</name>
+</rtept>
+<rtept lat="46.90631" lon="4.72301"><name>114.40km</name>
+</rtept>
+<rtept lat="46.90625" lon="4.72229"><name>114.45km</name>
+</rtept>
+<rtept lat="46.90646" lon="4.72097"><name>114.55km</name>
+</rtept>
+<rtept lat="46.90640" lon="4.72083"><name>114.57km</name>
+</rtept>
+<rtept lat="46.90671" lon="4.72001"><name>114.64km</name>
+</rtept>
+<rtept lat="46.90729" lon="4.71953"><name>114.71km</name>
+</rtept>
+<rtept lat="46.90745" lon="4.71907"><name>114.75km</name>
+</rtept>
+<rtept lat="46.90711" lon="4.71708"><name>114.91km</name>
+</rtept>
+<rtept lat="46.90609" lon="4.71468"><name>115.12km</name>
+</rtept>
+<rtept lat="46.90475" lon="4.71073"><name>115.46km</name>
+</rtept>
+<rtept lat="46.90477" lon="4.71032"><name>115.49km</name>
+</rtept>
+<rtept lat="46.90496" lon="4.70940"><name>115.56km</name>
+</rtept>
+<rtept lat="46.90495" lon="4.70902"><name>115.59km</name>
+</rtept>
+<rtept lat="46.90504" lon="4.70868"><name>115.62km</name>
+</rtept>
+<rtept lat="46.90498" lon="4.70856"><name>115.63km</name>
+</rtept>
+<rtept lat="46.90498" lon="4.70743"><name>115.71km</name>
+</rtept>
+<rtept lat="46.90459" lon="4.70657"><name>115.79km</name>
+</rtept>
+<rtept lat="46.90451" lon="4.70619"><name>115.82km</name>
+</rtept>
+<rtept lat="46.90458" lon="4.70521"><name>115.90km</name>
+</rtept>
+<rtept lat="46.90491" lon="4.70361"><name>116.03km</name>
+</rtept>
+<rtept lat="46.90521" lon="4.70112"><name>116.22km</name>
+</rtept>
+<rtept lat="46.90518" lon="4.69944"><name>116.34km</name>
+</rtept>
+<rtept lat="46.90500" lon="4.69796"><name>116.46km</name>
+</rtept>
+<rtept lat="46.90429" lon="4.69579"><name>116.64km</name>
+</rtept>
+<rtept lat="46.90398" lon="4.69527"><name>116.69km</name>
+</rtept>
+<rtept lat="46.90269" lon="4.69393"><name>116.87km</name>
+</rtept>
+<rtept lat="46.90248" lon="4.69358"><name>116.91km</name>
+</rtept>
+<rtept lat="46.90261" lon="4.69376"><name>116.93km</name>
+</rtept>
+<rtept lat="46.90161" lon="4.69199"><name>117.10km</name>
+</rtept>
+<rtept lat="46.90054" lon="4.69085"><name>117.25km</name>
+</rtept>
+<rtept lat="46.89933" lon="4.68932"><name>117.42km</name>
+</rtept>
+<rtept lat="46.89842" lon="4.68908"><name>117.53km</name>
+</rtept>
+<rtept lat="46.89636" lon="4.68783"><name>117.78km</name>
+</rtept>
+<rtept lat="46.89515" lon="4.68684"><name>117.93km</name>
+</rtept>
+<rtept lat="46.89470" lon="4.68613"><name>118.00km</name>
+</rtept>
+<rtept lat="46.89437" lon="4.68528"><name>118.08km</name>
+</rtept>
+<rtept lat="46.89386" lon="4.68468"><name>118.15km</name>
+</rtept>
+<rtept lat="46.89283" lon="4.68379"><name>118.28km</name>
+</rtept>
+<rtept lat="46.89222" lon="4.68280"><name>118.38km</name>
+</rtept>
+<rtept lat="46.89221" lon="4.68279"><name>360.00km</name>
+<sym>10</sym>
+<cmt>360.00km</cmt>
+</rtept>
+<rtept lat="46.89118" lon="4.68073"><name>118.58km</name>
+</rtept>
+<rtept lat="46.89094" lon="4.68055"><name>118.61km</name>
+</rtept>
+<rtept lat="46.89004" lon="4.67902"><name>118.76km</name>
+</rtept>
+<rtept lat="46.88981" lon="4.67836"><name>118.82km</name>
+</rtept>
+<rtept lat="46.88971" lon="4.67789"><name>118.86km</name>
+</rtept>
+<rtept lat="46.88967" lon="4.67699"><name>118.93km</name>
+</rtept>
+<rtept lat="46.88908" lon="4.67493"><name>119.10km</name>
+</rtept>
+<rtept lat="46.88831" lon="4.67357"><name>119.23km</name>
+</rtept>
+<rtept lat="46.88715" lon="4.67173"><name>119.42km</name>
+</rtept>
+<rtept lat="46.88685" lon="4.67082"><name>119.50km</name>
+</rtept>
+<rtept lat="46.88557" lon="4.66813"><name>119.75km</name>
+</rtept>
+<rtept lat="46.88521" lon="4.66779"><name>119.79km</name>
+</rtept>
+<rtept lat="46.88420" lon="4.66738"><name>119.91km</name>
+</rtept>
+<rtept lat="46.88042" lon="4.66462"><name>120.38km</name>
+</rtept>
+<rtept lat="46.88019" lon="4.66421"><name>120.42km</name>
+</rtept>
+<rtept lat="46.87907" lon="4.66182"><name>120.64km</name>
+</rtept>
+<rtept lat="46.87835" lon="4.66095"><name>120.74km</name>
+</rtept>
+<rtept lat="46.87574" lon="4.65922"><name>121.06km</name>
+</rtept>
+<rtept lat="46.87361" lon="4.65716"><name>121.35km</name>
+</rtept>
+<rtept lat="46.87305" lon="4.65647"><name>121.43km</name>
+</rtept>
+<rtept lat="46.87263" lon="4.65556"><name>121.51km</name>
+</rtept>
+<rtept lat="46.87041" lon="4.65267"><name>121.84km</name>
+</rtept>
+<rtept lat="46.86907" lon="4.65000"><name>122.09km</name>
+</rtept>
+<rtept lat="46.86839" lon="4.64763"><name>122.29km</name>
+</rtept>
+<rtept lat="46.86733" lon="4.64623"><name>122.45km</name>
+</rtept>
+<rtept lat="46.86682" lon="4.64593"><name>122.51km</name>
+</rtept>
+<rtept lat="46.86624" lon="4.64598"><name>122.57km</name>
+</rtept>
+<rtept lat="46.86454" lon="4.64621"><name>122.76km</name>
+</rtept>
+<rtept lat="46.86374" lon="4.64613"><name>122.85km</name>
+</rtept>
+<rtept lat="46.86198" lon="4.64548"><name>123.05km</name>
+</rtept>
+<rtept lat="46.85837" lon="4.64326"><name>123.49km</name>
+</rtept>
+<rtept lat="46.85760" lon="4.64251"><name>123.59km</name>
+</rtept>
+<rtept lat="46.85641" lon="4.64099"><name>123.77km</name>
+</rtept>
+<rtept lat="46.85625" lon="4.64067"><name>123.80km</name>
+</rtept>
+<rtept lat="46.85503" lon="4.63968"><name>123.95km</name>
+</rtept>
+<rtept lat="46.85431" lon="4.63941"><name>124.04km</name>
+</rtept>
+<rtept lat="46.85256" lon="4.63894"><name>124.23km</name>
+</rtept>
+<rtept lat="46.85039" lon="4.63751"><name>124.50km</name>
+</rtept>
+<rtept lat="46.84917" lon="4.63683"><name>124.64km</name>
+</rtept>
+<rtept lat="46.84855" lon="4.63588"><name>124.74km</name>
+</rtept>
+<rtept lat="46.84666" lon="4.63391"><name>125.00km</name>
+</rtept>
+<rtept lat="46.84671" lon="4.63362"><name>125.02km</name>
+</rtept>
+<rtept lat="46.84604" lon="4.63491"><name>125.15km</name>
+</rtept>
+<rtept lat="46.84539" lon="4.63472"><name>125.22km</name>
+</rtept>
+<rtept lat="46.84325" lon="4.63487"><name>125.46km</name>
+</rtept>
+<rtept lat="46.84088" lon="4.63527"><name>125.73km</name>
+</rtept>
+<rtept lat="46.84066" lon="4.63516"><name>125.75km</name>
+</rtept>
+<rtept lat="46.84002" lon="4.63454"><name>125.84km</name>
+</rtept>
+<rtept lat="46.83926" lon="4.63410"><name>125.93km</name>
+</rtept>
+<rtept lat="46.83869" lon="4.63348"><name>126.01km</name>
+</rtept>
+<rtept lat="46.83793" lon="4.63288"><name>126.10km</name>
+</rtept>
+<rtept lat="46.83701" lon="4.63243"><name>126.21km</name>
+</rtept>
+<rtept lat="46.83688" lon="4.63223"><name>126.23km</name>
+</rtept>
+<rtept lat="46.83656" lon="4.63051"><name>126.37km</name>
+</rtept>
+<rtept lat="46.83656" lon="4.62982"><name>126.42km</name>
+</rtept>
+<rtept lat="46.83512" lon="4.62882"><name>126.60km</name>
+</rtept>
+<rtept lat="46.83499" lon="4.62865"><name>126.62km</name>
+</rtept>
+<rtept lat="46.83472" lon="4.62659"><name>126.78km</name>
+</rtept>
+<rtept lat="46.83481" lon="4.62561"><name>126.85km</name>
+</rtept>
+<rtept lat="46.83478" lon="4.62490"><name>126.91km</name>
+</rtept>
+<rtept lat="46.83493" lon="4.62336"><name>127.02km</name>
+</rtept>
+<rtept lat="46.83526" lon="4.62270"><name>127.09km</name>
+</rtept>
+<rtept lat="46.83554" lon="4.62258"><name>127.12km</name>
+</rtept>
+<rtept lat="46.83577" lon="4.62222"><name>127.16km</name>
+</rtept>
+<rtept lat="46.83584" lon="4.62190"><name>127.18km</name>
+</rtept>
+<rtept lat="46.83710" lon="4.62003"><name>127.38km</name>
+</rtept>
+<rtept lat="46.83713" lon="4.61981"><name>127.40km</name>
+</rtept>
+<rtept lat="46.83703" lon="4.61959"><name>127.42km</name>
+</rtept>
+<rtept lat="46.83761" lon="4.61902"><name>127.50km</name>
+</rtept>
+<rtept lat="46.83798" lon="4.61889"><name>127.54km</name>
+</rtept>
+<rtept lat="46.83841" lon="4.61888"><name>127.59km</name>
+</rtept>
+<rtept lat="46.83828" lon="4.61698"><name>127.73km</name>
+</rtept>
+<rtept lat="46.83880" lon="4.61575"><name>127.84km</name>
+</rtept>
+<rtept lat="46.83928" lon="4.61328"><name>128.04km</name>
+</rtept>
+<rtept lat="46.83978" lon="4.61257"><name>128.11km</name>
+</rtept>
+<rtept lat="46.84008" lon="4.61246"><name>128.15km</name>
+</rtept>
+<rtept lat="46.84041" lon="4.61153"><name>128.23km</name>
+</rtept>
+<rtept lat="46.84073" lon="4.61105"><name>128.28km</name>
+</rtept>
+<rtept lat="46.84106" lon="4.61077"><name>128.32km</name>
+</rtept>
+<rtept lat="46.84130" lon="4.61042"><name>128.36km</name>
+</rtept>
+<rtept lat="46.84138" lon="4.61009"><name>370.00km</name>
+<sym>10</sym>
+<cmt>370.00km</cmt>
+</rtept>
+<rtept lat="46.84138" lon="4.61007"><name>128.39km</name>
+</rtept>
+<rtept lat="46.84186" lon="4.60904"><name>128.48km</name>
+</rtept>
+<rtept lat="46.84189" lon="4.60809"><name>128.55km</name>
+</rtept>
+<rtept lat="46.84199" lon="4.60790"><name>128.57km</name>
+</rtept>
+<rtept lat="46.84261" lon="4.60800"><name>128.64km</name>
+</rtept>
+<rtept lat="46.84279" lon="4.60772"><name>128.67km</name>
+</rtept>
+<rtept lat="46.84293" lon="4.60676"><name>128.75km</name>
+</rtept>
+<rtept lat="46.84342" lon="4.60442"><name>128.93km</name>
+</rtept>
+<rtept lat="46.84364" lon="4.60304"><name>129.04km</name>
+</rtept>
+<rtept lat="46.84407" lon="4.60207"><name>129.13km</name>
+</rtept>
+<rtept lat="46.84429" lon="4.60055"><name>129.25km</name>
+</rtept>
+<rtept lat="46.84427" lon="4.60033"><name>129.26km</name>
+</rtept>
+<rtept lat="46.84281" lon="4.59832"><name>129.49km</name>
+</rtept>
+<rtept lat="46.84236" lon="4.59790"><name>129.55km</name>
+</rtept>
+<rtept lat="46.84188" lon="4.59693"><name>129.64km</name>
+</rtept>
+<rtept lat="46.84125" lon="4.59626"><name>129.72km</name>
+</rtept>
+<rtept lat="46.84108" lon="4.59549"><name>129.78km</name>
+</rtept>
+<rtept lat="46.84095" lon="4.59454"><name>129.86km</name>
+</rtept>
+<rtept lat="46.84009" lon="4.59265"><name>130.03km</name>
+</rtept>
+<rtept lat="46.83978" lon="4.59140"><name>130.13km</name>
+</rtept>
+<rtept lat="46.83767" lon="4.58794"><name>130.49km</name>
+</rtept>
+<rtept lat="46.83738" lon="4.58790"><name>130.52km</name>
+</rtept>
+<rtept lat="46.83705" lon="4.58808"><name>130.56km</name>
+</rtept>
+<rtept lat="46.83665" lon="4.58770"><name>130.61km</name>
+</rtept>
+<rtept lat="46.83619" lon="4.58752"><name>130.66km</name>
+</rtept>
+<rtept lat="46.83585" lon="4.58764"><name>130.70km</name>
+</rtept>
+<rtept lat="46.83522" lon="4.58819"><name>130.78km</name>
+</rtept>
+<rtept lat="46.83423" lon="4.59093"><name>131.02km</name>
+</rtept>
+<rtept lat="46.83372" lon="4.59188"><name>131.11km</name>
+</rtept>
+<rtept lat="46.83323" lon="4.59250"><name>131.18km</name>
+</rtept>
+<rtept lat="46.83291" lon="4.59272"><name>131.22km</name>
+</rtept>
+<rtept lat="46.83113" lon="4.59315"><name>131.42km</name>
+</rtept>
+<rtept lat="46.82993" lon="4.59371"><name>131.56km</name>
+</rtept>
+<rtept lat="46.82893" lon="4.59394"><name>131.68km</name>
+</rtept>
+<rtept lat="46.82766" lon="4.59439"><name>131.82km</name>
+</rtept>
+<rtept lat="46.82667" lon="4.59497"><name>131.94km</name>
+</rtept>
+<rtept lat="46.82619" lon="4.59556"><name>132.01km</name>
+</rtept>
+<rtept lat="46.82572" lon="4.59531"><name>132.06km</name>
+</rtept>
+<rtept lat="46.82558" lon="4.59539"><name>132.08km</name>
+</rtept>
+<rtept lat="46.82531" lon="4.59674"><name>132.19km</name>
+</rtept>
+<rtept lat="46.82557" lon="4.59781"><name>132.27km</name>
+</rtept>
+<rtept lat="46.82538" lon="4.59857"><name>132.34km</name>
+</rtept>
+<rtept lat="46.82533" lon="4.59946"><name>132.40km</name>
+</rtept>
+<rtept lat="46.82471" lon="4.59939"><name>132.47km</name>
+</rtept>
+<rtept lat="46.82470" lon="4.59999"><name>132.52km</name>
+</rtept>
+<rtept lat="46.82401" lon="4.60096"><name>132.63km</name>
+</rtept>
+<rtept lat="46.82360" lon="4.60110"><name>132.67km</name>
+</rtept>
+<rtept lat="46.82246" lon="4.60079"><name>132.80km</name>
+</rtept>
+<rtept lat="46.82186" lon="4.60114"><name>132.87km</name>
+</rtept>
+<rtept lat="46.82128" lon="4.60174"><name>132.95km</name>
+</rtept>
+<rtept lat="46.82034" lon="4.60253"><name>133.07km</name>
+</rtept>
+<rtept lat="46.81996" lon="4.60273"><name>133.12km</name>
+</rtept>
+<rtept lat="46.81736" lon="4.60264"><name>133.41km</name>
+</rtept>
+<rtept lat="46.81636" lon="4.60238"><name>133.52km</name>
+</rtept>
+<rtept lat="46.81578" lon="4.60276"><name>133.59km</name>
+</rtept>
+<rtept lat="46.81481" lon="4.60295"><name>133.70km</name>
+</rtept>
+<rtept lat="46.81399" lon="4.60341"><name>133.80km</name>
+</rtept>
+<rtept lat="46.81381" lon="4.60366"><name>133.82km</name>
+</rtept>
+<rtept lat="46.81352" lon="4.60532"><name>133.95km</name>
+</rtept>
+<rtept lat="46.81324" lon="4.60586"><name>134.01km</name>
+</rtept>
+<rtept lat="46.81288" lon="4.60622"><name>134.05km</name>
+</rtept>
+<rtept lat="46.81194" lon="4.60679"><name>134.17km</name>
+</rtept>
+<rtept lat="46.81174" lon="4.60679"><name>134.19km</name>
+</rtept>
+<rtept lat="46.81074" lon="4.60630"><name>134.31km</name>
+</rtept>
+<rtept lat="46.81059" lon="4.60597"><name>134.34km</name>
+</rtept>
+<rtept lat="46.81025" lon="4.60456"><name>134.45km</name>
+</rtept>
+<rtept lat="46.80939" lon="4.60298"><name>134.61km</name>
+</rtept>
+<rtept lat="46.80689" lon="4.60104"><name>134.92km</name>
+</rtept>
+<rtept lat="46.80658" lon="4.60107"><name>134.96km</name>
+</rtept>
+<rtept lat="46.80536" lon="4.60193"><name>135.11km</name>
+</rtept>
+<rtept lat="46.80506" lon="4.60254"><name>135.16km</name>
+</rtept>
+<rtept lat="46.80500" lon="4.60350"><name>135.24km</name>
+</rtept>
+<rtept lat="46.80475" lon="4.60406"><name>135.29km</name>
+</rtept>
+<rtept lat="46.80438" lon="4.60414"><name>135.33km</name>
+</rtept>
+<rtept lat="46.80425" lon="4.60411"><name>135.34km</name>
+</rtept>
+<rtept lat="46.80388" lon="4.60358"><name>135.40km</name>
+</rtept>
+<rtept lat="46.80342" lon="4.60309"><name>135.46km</name>
+</rtept>
+<rtept lat="46.80255" lon="4.60272"><name>135.56km</name>
+</rtept>
+<rtept lat="46.80221" lon="4.60180"><name>135.64km</name>
+</rtept>
+<rtept lat="46.80183" lon="4.60137"><name>135.70km</name>
+</rtept>
+<rtept lat="46.80036" lon="4.60057"><name>135.87km</name>
+</rtept>
+<rtept lat="46.80028" lon="4.59994"><name>135.92km</name>
+</rtept>
+<rtept lat="46.80053" lon="4.59940"><name>135.97km</name>
+</rtept>
+<rtept lat="46.80047" lon="4.59883"><name>136.01km</name>
+</rtept>
+<rtept lat="46.80078" lon="4.59804"><name>136.08km</name>
+</rtept>
+<rtept lat="46.80080" lon="4.59758"><name>136.12km</name>
+</rtept>
+<rtept lat="46.80063" lon="4.59520"><name>136.30km</name>
+</rtept>
+<rtept lat="46.80041" lon="4.59483"><name>136.34km</name>
+</rtept>
+<rtept lat="46.79998" lon="4.59303"><name>136.48km</name>
+</rtept>
+<rtept lat="46.79984" lon="4.59223"><name>136.55km</name>
+</rtept>
+<rtept lat="46.79862" lon="4.58944"><name>136.80km</name>
+</rtept>
+<rtept lat="46.79804" lon="4.58871"><name>136.88km</name>
+</rtept>
+<rtept lat="46.79761" lon="4.58784"><name>136.96km</name>
+</rtept>
+<rtept lat="46.79736" lon="4.58705"><name>137.03km</name>
+</rtept>
+<rtept lat="46.79700" lon="4.58657"><name>137.09km</name>
+</rtept>
+<rtept lat="46.79640" lon="4.58638"><name>137.15km</name>
+</rtept>
+<rtept lat="46.79515" lon="4.58409"><name>137.38km</name>
+</rtept>
+<rtept lat="46.79452" lon="4.58261"><name>137.51km</name>
+</rtept>
+<rtept lat="46.79420" lon="4.58211"><name>137.56km</name>
+</rtept>
+<rtept lat="46.79375" lon="4.58193"><name>137.61km</name>
+</rtept>
+<rtept lat="46.79354" lon="4.58202"><name>137.64km</name>
+</rtept>
+<rtept lat="46.79343" lon="4.58217"><name>137.66km</name>
+</rtept>
+<rtept lat="46.79294" lon="4.58226"><name>137.71km</name>
+</rtept>
+<rtept lat="46.79239" lon="4.58260"><name>137.78km</name>
+</rtept>
+<rtept lat="46.79198" lon="4.58256"><name>137.82km</name>
+</rtept>
+<rtept lat="46.79135" lon="4.58219"><name>137.90km</name>
+</rtept>
+<rtept lat="46.79036" lon="4.58181"><name>138.01km</name>
+</rtept>
+<rtept lat="46.78980" lon="4.58153"><name>138.08km</name>
+</rtept>
+<rtept lat="46.78921" lon="4.58195"><name>138.15km</name>
+</rtept>
+<rtept lat="46.78807" lon="4.58241"><name>138.28km</name>
+</rtept>
+<rtept lat="46.78752" lon="4.58242"><name>138.34km</name>
+</rtept>
+<rtept lat="46.78714" lon="4.58236"><name>380.00km</name>
+<sym>10</sym>
+<cmt>380.00km</cmt>
+</rtept>
+<rtept lat="46.78623" lon="4.58219"><name>138.49km</name>
+</rtept>
+<rtept lat="46.78569" lon="4.58239"><name>138.55km</name>
+</rtept>
+<rtept lat="46.78431" lon="4.58229"><name>138.70km</name>
+</rtept>
+<rtept lat="46.78339" lon="4.58156"><name>138.82km</name>
+</rtept>
+<rtept lat="46.78271" lon="4.58124"><name>138.90km</name>
+</rtept>
+<rtept lat="46.78173" lon="4.58021"><name>139.03km</name>
+</rtept>
+<rtept lat="46.78147" lon="4.57967"><name>139.08km</name>
+</rtept>
+<rtept lat="46.78070" lon="4.57895"><name>139.18km</name>
+</rtept>
+<rtept lat="46.77989" lon="4.57855"><name>139.28km</name>
+</rtept>
+<rtept lat="46.77839" lon="4.57742"><name>139.47km</name>
+</rtept>
+<rtept lat="46.77816" lon="4.57717"><name>139.50km</name>
+</rtept>
+<rtept lat="46.77700" lon="4.57469"><name>139.73km</name>
+</rtept>
+<rtept lat="46.77658" lon="4.57325"><name>139.85km</name>
+</rtept>
+<rtept lat="46.77651" lon="4.57282"><name>139.88km</name>
+</rtept>
+<rtept lat="46.77558" lon="4.57241"><name>139.99km</name>
+</rtept>
+<rtept lat="46.77513" lon="4.57190"><name>140.05km</name>
+</rtept>
+<rtept lat="46.77477" lon="4.57175"><name>140.09km</name>
+</rtept>
+<rtept lat="46.77451" lon="4.57145"><name>140.13km</name>
+</rtept>
+<rtept lat="46.77430" lon="4.57075"><name>140.19km</name>
+</rtept>
+<rtept lat="46.77435" lon="4.56922"><name>140.31km</name>
+</rtept>
+<rtept lat="46.77386" lon="4.56834"><name>140.39km</name>
+</rtept>
+<rtept lat="46.77344" lon="4.56796"><name>140.45km</name>
+</rtept>
+<rtept lat="46.77325" lon="4.56760"><name>140.48km</name>
+</rtept>
+<rtept lat="46.77248" lon="4.56548"><name>140.66km</name>
+</rtept>
+<rtept lat="46.77143" lon="4.56385"><name>140.84km</name>
+</rtept>
+<rtept lat="46.77166" lon="4.56357"><name>140.87km</name>
+</rtept>
+<rtept lat="46.77136" lon="4.56296"><name>140.93km</name>
+</rtept>
+<rtept lat="46.77128" lon="4.56260"><name>140.96km</name>
+</rtept>
+<rtept lat="46.76995" lon="4.55989"><name>141.21km</name>
+</rtept>
+<rtept lat="46.77045" lon="4.55823"><name>141.35km</name>
+</rtept>
+<rtept lat="46.77079" lon="4.55795"><name>141.39km</name>
+</rtept>
+<rtept lat="46.77137" lon="4.55718"><name>141.48km</name>
+</rtept>
+<rtept lat="46.77230" lon="4.55691"><name>141.58km</name>
+</rtept>
+<rtept lat="46.77281" lon="4.55545"><name>141.71km</name>
+</rtept>
+<rtept lat="46.77312" lon="4.55393"><name>141.83km</name>
+</rtept>
+<rtept lat="46.77290" lon="4.55345"><name>141.87km</name>
+</rtept>
+<rtept lat="46.77292" lon="4.55066"><name>142.09km</name>
+</rtept>
+<rtept lat="46.77334" lon="4.54988"><name>142.16km</name>
+</rtept>
+<rtept lat="46.77315" lon="4.54875"><name>142.25km</name>
+</rtept>
+<rtept lat="46.77323" lon="4.54807"><name>142.30km</name>
+</rtept>
+<rtept lat="46.77428" lon="4.54601"><name>142.50km</name>
+</rtept>
+<rtept lat="46.77431" lon="4.54565"><name>142.53km</name>
+</rtept>
+<rtept lat="46.77387" lon="4.54492"><name>142.60km</name>
+</rtept>
+<rtept lat="46.77297" lon="4.54475"><name>142.70km</name>
+</rtept>
+<rtept lat="46.77319" lon="4.54384"><name>142.77km</name>
+</rtept>
+<rtept lat="46.77255" lon="4.54371"><name>142.85km</name>
+</rtept>
+<rtept lat="46.77190" lon="4.54279"><name>142.95km</name>
+</rtept>
+<rtept lat="46.77106" lon="4.54102"><name>143.11km</name>
+</rtept>
+<rtept lat="46.77073" lon="4.53964"><name>143.22km</name>
+</rtept>
+<rtept lat="46.77046" lon="4.53924"><name>143.27km</name>
+</rtept>
+<rtept lat="46.76902" lon="4.53479"><name>143.64km</name>
+</rtept>
+<rtept lat="46.76880" lon="4.53336"><name>143.75km</name>
+</rtept>
+<rtept lat="46.76874" lon="4.53254"><name>143.81km</name>
+</rtept>
+<rtept lat="46.76843" lon="4.53186"><name>143.88km</name>
+</rtept>
+<rtept lat="46.76806" lon="4.53140"><name>143.93km</name>
+</rtept>
+<rtept lat="46.76783" lon="4.53096"><name>143.97km</name>
+</rtept>
+<rtept lat="46.76752" lon="4.52999"><name>144.05km</name>
+</rtept>
+<rtept lat="46.76699" lon="4.52732"><name>144.27km</name>
+</rtept>
+<rtept lat="46.76657" lon="4.52642"><name>144.35km</name>
+</rtept>
+<rtept lat="46.76644" lon="4.52575"><name>144.40km</name>
+</rtept>
+<rtept lat="46.76599" lon="4.52468"><name>144.50km</name>
+</rtept>
+<rtept lat="46.76576" lon="4.52441"><name>144.53km</name>
+</rtept>
+<rtept lat="46.76539" lon="4.52423"><name>144.57km</name>
+</rtept>
+<rtept lat="46.76458" lon="4.52404"><name>144.67km</name>
+</rtept>
+<rtept lat="46.76390" lon="4.52366"><name>144.75km</name>
+</rtept>
+<rtept lat="46.76352" lon="4.52332"><name>144.80km</name>
+</rtept>
+<rtept lat="46.76253" lon="4.52174"><name>144.96km</name>
+</rtept>
+<rtept lat="46.76189" lon="4.52101"><name>145.05km</name>
+</rtept>
+<rtept lat="46.76130" lon="4.52063"><name>145.12km</name>
+</rtept>
+<rtept lat="46.76116" lon="4.52039"><name>145.14km</name>
+</rtept>
+<rtept lat="46.76025" lon="4.51990"><name>145.25km</name>
+</rtept>
+<rtept lat="46.75981" lon="4.51903"><name>145.34km</name>
+</rtept>
+<rtept lat="46.75958" lon="4.51785"><name>145.43km</name>
+</rtept>
+<rtept lat="46.75945" lon="4.51636"><name>145.54km</name>
+</rtept>
+<rtept lat="46.75890" lon="4.51490"><name>145.67km</name>
+</rtept>
+<rtept lat="46.75645" lon="4.50893"><name>146.20km</name>
+</rtept>
+<rtept lat="46.75614" lon="4.50801"><name>146.28km</name>
+</rtept>
+<rtept lat="46.75590" lon="4.50759"><name>146.32km</name>
+</rtept>
+<rtept lat="46.75516" lon="4.50577"><name>146.48km</name>
+</rtept>
+<rtept lat="46.75486" lon="4.50614"><name>146.53km</name>
+</rtept>
+<rtept lat="46.75484" lon="4.50644"><name>146.55km</name>
+</rtept>
+<rtept lat="46.75463" lon="4.50710"><name>146.60km</name>
+</rtept>
+<rtept lat="46.75385" lon="4.50849"><name>146.74km</name>
+</rtept>
+<rtept lat="46.75350" lon="4.51017"><name>146.87km</name>
+</rtept>
+<rtept lat="46.74851" lon="4.50805"><name>147.45km</name>
+</rtept>
+<rtept lat="46.74778" lon="4.50679"><name>147.58km</name>
+</rtept>
+<rtept lat="46.74722" lon="4.50673"><name>147.64km</name>
+</rtept>
+<rtept lat="46.74540" lon="4.50779"><name>147.86km</name>
+</rtept>
+<rtept lat="46.74409" lon="4.50976"><name>148.07km</name>
+</rtept>
+<rtept lat="46.74383" lon="4.50991"><name>148.10km</name>
+</rtept>
+<rtept lat="46.74334" lon="4.50847"><name>148.22km</name>
+</rtept>
+<rtept lat="46.74357" lon="4.50787"><name>148.27km</name>
+</rtept>
+<rtept lat="46.74391" lon="4.50649"><name>390.00km</name>
+<sym>10</sym>
+<cmt>390.00km</cmt>
+</rtept>
+<rtept lat="46.74393" lon="4.50643"><name>148.39km</name>
+</rtept>
+<rtept lat="46.74479" lon="4.50106"><name>148.81km</name>
+</rtept>
+<rtept lat="46.74494" lon="4.49691"><name>149.13km</name>
+</rtept>
+<rtept lat="46.74502" lon="4.49597"><name>149.20km</name>
+</rtept>
+<rtept lat="46.74496" lon="4.49586"><name>149.21km</name>
+</rtept>
+<rtept lat="46.74445" lon="4.49558"><name>149.27km</name>
+</rtept>
+<rtept lat="46.74321" lon="4.49488"><name>149.42km</name>
+</rtept>
+<rtept lat="46.74305" lon="4.49150"><name>149.68km</name>
+</rtept>
+<rtept lat="46.74219" lon="4.48997"><name>149.83km</name>
+</rtept>
+<rtept lat="46.74179" lon="4.48891"><name>149.92km</name>
+</rtept>
+<rtept lat="46.74109" lon="4.48843"><name>150.01km</name>
+</rtept>
+<rtept lat="46.74035" lon="4.48764"><name>150.11km</name>
+</rtept>
+<rtept lat="46.73951" lon="4.48751"><name>150.20km</name>
+</rtept>
+<rtept lat="46.73920" lon="4.48782"><name>150.24km</name>
+</rtept>
+<rtept lat="46.73859" lon="4.48872"><name>150.34km</name>
+</rtept>
+<rtept lat="46.73820" lon="4.48911"><name>150.39km</name>
+</rtept>
+<rtept lat="46.73770" lon="4.48828"><name>150.48km</name>
+</rtept>
+<rtept lat="46.73750" lon="4.48819"><name>150.50km</name>
+</rtept>
+<rtept lat="46.73707" lon="4.48834"><name>150.55km</name>
+</rtept>
+<rtept lat="46.73673" lon="4.48832"><name>150.59km</name>
+</rtept>
+<rtept lat="46.73689" lon="4.48782"><name>150.63km</name>
+</rtept>
+<rtept lat="46.73694" lon="4.48727"><name>150.67km</name>
+</rtept>
+<rtept lat="46.73676" lon="4.48648"><name>150.74km</name>
+</rtept>
+<rtept lat="46.73674" lon="4.48512"><name>150.84km</name>
+</rtept>
+<rtept lat="46.73657" lon="4.48468"><name>150.88km</name>
+</rtept>
+<rtept lat="46.73620" lon="4.48422"><name>150.93km</name>
+</rtept>
+<rtept lat="46.73605" lon="4.48358"><name>150.98km</name>
+</rtept>
+<rtept lat="46.73610" lon="4.48195"><name>151.11km</name>
+</rtept>
+<rtept lat="46.73640" lon="4.48160"><name>151.15km</name>
+</rtept>
+<rtept lat="46.73635" lon="4.48102"><name>151.20km</name>
+</rtept>
+<rtept lat="46.73582" lon="4.48021"><name>151.28km</name>
+</rtept>
+<rtept lat="46.73556" lon="4.47998"><name>151.31km</name>
+</rtept>
+<rtept lat="46.73590" lon="4.47954"><name>151.36km</name>
+</rtept>
+<rtept lat="46.73594" lon="4.47927"><name>151.39km</name>
+</rtept>
+<rtept lat="46.73558" lon="4.47834"><name>151.47km</name>
+</rtept>
+<rtept lat="46.73522" lon="4.47836"><name>151.51km</name>
+</rtept>
+<rtept lat="46.73501" lon="4.47826"><name>151.53km</name>
+</rtept>
+<rtept lat="46.73390" lon="4.47660"><name>151.71km</name>
+</rtept>
+<rtept lat="46.73303" lon="4.47575"><name>151.83km</name>
+</rtept>
+<rtept lat="46.73126" lon="4.47518"><name>152.03km</name>
+</rtept>
+<rtept lat="46.73061" lon="4.47455"><name>152.11km</name>
+</rtept>
+<rtept lat="46.73029" lon="4.47376"><name>152.18km</name>
+</rtept>
+<rtept lat="46.72888" lon="4.46746"><name>152.69km</name>
+</rtept>
+<rtept lat="46.72817" lon="4.46480"><name>152.91km</name>
+</rtept>
+<rtept lat="46.72745" lon="4.46137"><name>153.18km</name>
+</rtept>
+<rtept lat="46.72597" lon="4.45810"><name>153.48km</name>
+</rtept>
+<rtept lat="46.72382" lon="4.45204"><name>154.00km</name>
+</rtept>
+<rtept lat="46.72351" lon="4.45101"><name>154.08km</name>
+</rtept>
+<rtept lat="46.72331" lon="4.45073"><name>154.11km</name>
+</rtept>
+<rtept lat="46.72199" lon="4.44946"><name>154.29km</name>
+</rtept>
+<rtept lat="46.72148" lon="4.44847"><name>154.38km</name>
+</rtept>
+<rtept lat="46.72131" lon="4.44767"><name>154.45km</name>
+</rtept>
+<rtept lat="46.72141" lon="4.44582"><name>154.59km</name>
+</rtept>
+<rtept lat="46.72130" lon="4.44535"><name>154.63km</name>
+</rtept>
+<rtept lat="46.72031" lon="4.44387"><name>154.79km</name>
+</rtept>
+<rtept lat="46.71982" lon="4.44362"><name>154.84km</name>
+</rtept>
+<rtept lat="46.71936" lon="4.44351"><name>154.90km</name>
+</rtept>
+<rtept lat="46.71845" lon="4.44283"><name>155.01km</name>
+</rtept>
+<rtept lat="46.71802" lon="4.44206"><name>155.09km</name>
+</rtept>
+<rtept lat="46.71772" lon="4.44064"><name>155.20km</name>
+</rtept>
+<rtept lat="46.71751" lon="4.44036"><name>155.23km</name>
+</rtept>
+<rtept lat="46.71610" lon="4.43980"><name>155.39km</name>
+</rtept>
+<rtept lat="46.71571" lon="4.43974"><name>155.44km</name>
+</rtept>
+<rtept lat="46.71380" lon="4.44048"><name>155.66km</name>
+</rtept>
+<rtept lat="46.71354" lon="4.44046"><name>155.68km</name>
+</rtept>
+<rtept lat="46.71251" lon="4.43895"><name>155.85km</name>
+</rtept>
+<rtept lat="46.71225" lon="4.43824"><name>155.91km</name>
+</rtept>
+<rtept lat="46.71182" lon="4.43586"><name>156.10km</name>
+</rtept>
+<rtept lat="46.71135" lon="4.43452"><name>156.21km</name>
+</rtept>
+<rtept lat="46.71101" lon="4.43380"><name>156.28km</name>
+</rtept>
+<rtept lat="46.71090" lon="4.43336"><name>156.31km</name>
+</rtept>
+<rtept lat="46.71082" lon="4.43234"><name>156.39km</name>
+</rtept>
+<rtept lat="46.71040" lon="4.43090"><name>156.51km</name>
+</rtept>
+<rtept lat="46.71000" lon="4.43003"><name>156.59km</name>
+</rtept>
+<rtept lat="46.70947" lon="4.42942"><name>156.67km</name>
+</rtept>
+<rtept lat="46.70903" lon="4.42921"><name>156.72km</name>
+</rtept>
+<rtept lat="46.70829" lon="4.42906"><name>156.80km</name>
+</rtept>
+<rtept lat="46.70806" lon="4.42888"><name>156.83km</name>
+</rtept>
+<rtept lat="46.70775" lon="4.42840"><name>156.88km</name>
+</rtept>
+<rtept lat="46.70752" lon="4.42786"><name>156.93km</name>
+</rtept>
+<rtept lat="46.70745" lon="4.42745"><name>156.96km</name>
+</rtept>
+<rtept lat="46.70743" lon="4.42671"><name>157.02km</name>
+</rtept>
+<rtept lat="46.70718" lon="4.42605"><name>157.07km</name>
+</rtept>
+<rtept lat="46.70522" lon="4.42253"><name>157.42km</name>
+</rtept>
+<rtept lat="46.70470" lon="4.42136"><name>157.53km</name>
+</rtept>
+<rtept lat="46.70377" lon="4.42015"><name>157.66km</name>
+</rtept>
+<rtept lat="46.70244" lon="4.41546"><name>158.05km</name>
+</rtept>
+<rtept lat="46.70216" lon="4.41493"><name>158.10km</name>
+</rtept>
+<rtept lat="46.70163" lon="4.41423"><name>158.18km</name>
+</rtept>
+<rtept lat="46.70080" lon="4.41368"><name>158.28km</name>
+</rtept>
+<rtept lat="46.70057" lon="4.41340"><name>158.32km</name>
+</rtept>
+<rtept lat="46.70024" lon="4.41264"><name>400.00km</name>
+<sym>10</sym>
+<cmt>400.00km</cmt>
+</rtept>
+<rtept lat="46.70009" lon="4.41228"><name>158.42km</name>
+</rtept>
+<rtept lat="46.70003" lon="4.41169"><name>158.46km</name>
+</rtept>
+<rtept lat="46.70012" lon="4.41087"><name>158.53km</name>
+</rtept>
+<rtept lat="46.69991" lon="4.40872"><name>158.69km</name>
+</rtept>
+<rtept lat="46.69923" lon="4.40687"><name>158.85km</name>
+</rtept>
+<rtept lat="46.69794" lon="4.40498"><name>159.06km</name>
+</rtept>
+<rtept lat="46.69722" lon="4.40348"><name>159.19km</name>
+</rtept>
+<rtept lat="46.69709" lon="4.40302"><name>159.23km</name>
+</rtept>
+<rtept lat="46.69706" lon="4.40261"><name>159.26km</name>
+</rtept>
+<rtept lat="46.69717" lon="4.40212"><name>159.30km</name>
+</rtept>
+<rtept lat="46.69907" lon="4.39968"><name>159.59km</name>
+</rtept>
+<rtept lat="46.69922" lon="4.39926"><name>159.62km</name>
+</rtept>
+<rtept lat="46.69929" lon="4.39863"><name>159.67km</name>
+</rtept>
+<rtept lat="46.69904" lon="4.39773"><name>159.74km</name>
+</rtept>
+<rtept lat="46.69826" lon="4.39661"><name>159.87km</name>
+</rtept>
+<rtept lat="46.69798" lon="4.39638"><name>159.90km</name>
+</rtept>
+<rtept lat="46.69652" lon="4.39562"><name>160.07km</name>
+</rtept>
+<rtept lat="46.69615" lon="4.39511"><name>160.13km</name>
+</rtept>
+<rtept lat="46.69592" lon="4.39398"><name>160.22km</name>
+</rtept>
+<rtept lat="46.69590" lon="4.39342"><name>160.26km</name>
+</rtept>
+<rtept lat="46.69605" lon="4.39233"><name>160.35km</name>
+</rtept>
+<rtept lat="46.69584" lon="4.39102"><name>160.45km</name>
+</rtept>
+<rtept lat="46.69501" lon="4.38906"><name>160.63km</name>
+</rtept>
+<rtept lat="46.69371" lon="4.38720"><name>160.83km</name>
+</rtept>
+<rtept lat="46.69302" lon="4.38585"><name>160.96km</name>
+</rtept>
+<rtept lat="46.69270" lon="4.38546"><name>161.00km</name>
+</rtept>
+<rtept lat="46.69167" lon="4.38455"><name>161.14km</name>
+</rtept>
+<rtept lat="46.69097" lon="4.38378"><name>161.24km</name>
+</rtept>
+<rtept lat="46.69041" lon="4.38351"><name>161.30km</name>
+</rtept>
+<rtept lat="46.68861" lon="4.38157"><name>161.55km</name>
+</rtept>
+<rtept lat="46.68848" lon="4.38108"><name>161.59km</name>
+</rtept>
+<rtept lat="46.68810" lon="4.38052"><name>161.65km</name>
+</rtept>
+<rtept lat="46.68776" lon="4.38034"><name>161.69km</name>
+</rtept>
+<rtept lat="46.68744" lon="4.37983"><name>161.74km</name>
+</rtept>
+<rtept lat="46.68713" lon="4.37920"><name>161.80km</name>
+</rtept>
+<rtept lat="46.68662" lon="4.37876"><name>161.87km</name>
+</rtept>
+<rtept lat="46.68457" lon="4.37753"><name>162.11km</name>
+</rtept>
+<rtept lat="46.68425" lon="4.37710"><name>162.16km</name>
+</rtept>
+<rtept lat="46.68344" lon="4.37541"><name>162.32km</name>
+</rtept>
+<rtept lat="46.68258" lon="4.37437"><name>162.44km</name>
+</rtept>
+<rtept lat="46.68080" lon="4.37082"><name>162.78km</name>
+</rtept>
+<rtept lat="46.68032" lon="4.36936"><name>162.90km</name>
+</rtept>
+<rtept lat="46.67953" lon="4.36796"><name>163.04km</name>
+</rtept>
+<rtept lat="46.67838" lon="4.36636"><name>163.22km</name>
+</rtept>
+<rtept lat="46.67816" lon="4.36656"><name>163.25km</name>
+</rtept>
+<rtept lat="46.67797" lon="4.36647"><name>163.27km</name>
+</rtept>
+<rtept lat="46.67716" lon="4.36476"><name>163.43km</name>
+</rtept>
+<rtept lat="46.67398" lon="4.36189"><name>163.84km</name>
+</rtept>
+<rtept lat="46.67414" lon="4.36144"><name>163.88km</name>
+</rtept>
+<rtept lat="46.67403" lon="4.36109"><name>163.91km</name>
+</rtept>
+<rtept lat="46.67308" lon="4.36025"><name>164.04km</name>
+</rtept>
+<rtept lat="46.67095" lon="4.35882"><name>164.30km</name>
+</rtept>
+<rtept lat="46.67000" lon="4.35698"><name>164.47km</name>
+</rtept>
+<rtept lat="46.66846" lon="4.35526"><name>164.69km</name>
+</rtept>
+<rtept lat="46.66518" lon="4.35265"><name>165.10km</name>
+</rtept>
+<rtept lat="46.66407" lon="4.35096"><name>165.28km</name>
+</rtept>
+<rtept lat="46.66248" lon="4.34933"><name>165.50km</name>
+</rtept>
+<rtept lat="46.66216" lon="4.34885"><name>165.55km</name>
+</rtept>
+<rtept lat="46.66236" lon="4.34859"><name>165.58km</name>
+</rtept>
+<rtept lat="46.66217" lon="4.34826"><name>165.61km</name>
+</rtept>
+<rtept lat="46.66066" lon="4.34697"><name>165.81km</name>
+</rtept>
+<rtept lat="46.65922" lon="4.34619"><name>165.98km</name>
+</rtept>
+<rtept lat="46.65806" lon="4.34523"><name>166.12km</name>
+</rtept>
+<rtept lat="46.65652" lon="4.34345"><name>166.34km</name>
+</rtept>
+<rtept lat="46.65465" lon="4.34039"><name>166.66km</name>
+</rtept>
+<rtept lat="46.65422" lon="4.34003"><name>166.71km</name>
+</rtept>
+<rtept lat="46.65289" lon="4.33938"><name>166.87km</name>
+</rtept>
+<rtept lat="46.65103" lon="4.33943"><name>167.07km</name>
+</rtept>
+<rtept lat="46.65056" lon="4.33926"><name>167.13km</name>
+</rtept>
+<rtept lat="46.64955" lon="4.33771"><name>167.29km</name>
+</rtept>
+<rtept lat="46.64863" lon="4.33587"><name>167.46km</name>
+</rtept>
+<rtept lat="46.64823" lon="4.33561"><name>167.51km</name>
+</rtept>
+<rtept lat="46.64720" lon="4.33561"><name>167.63km</name>
+</rtept>
+<rtept lat="46.64654" lon="4.33606"><name>167.71km</name>
+</rtept>
+<rtept lat="46.64588" lon="4.33597"><name>167.78km</name>
+</rtept>
+<rtept lat="46.64550" lon="4.33580"><name>167.83km</name>
+</rtept>
+<rtept lat="46.64529" lon="4.33531"><name>167.87km</name>
+</rtept>
+<rtept lat="46.64527" lon="4.33434"><name>167.95km</name>
+</rtept>
+<rtept lat="46.64507" lon="4.33370"><name>168.00km</name>
+</rtept>
+<rtept lat="46.64476" lon="4.33332"><name>168.04km</name>
+</rtept>
+<rtept lat="46.64433" lon="4.33297"><name>168.10km</name>
+</rtept>
+<rtept lat="46.64388" lon="4.33292"><name>168.15km</name>
+</rtept>
+<rtept lat="46.64364" lon="4.33300"><name>168.18km</name>
+</rtept>
+<rtept lat="46.64346" lon="4.33293"><name>168.20km</name>
+</rtept>
+<rtept lat="46.64285" lon="4.33313"><name>168.27km</name>
+</rtept>
+<rtept lat="46.64185" lon="4.33369"><name>410.00km</name>
+<sym>10</sym>
+<cmt>410.00km</cmt>
+</rtept>
+<rtept lat="46.64171" lon="4.33376"><name>168.40km</name>
+</rtept>
+<rtept lat="46.64114" lon="4.33376"><name>168.47km</name>
+</rtept>
+<rtept lat="46.64028" lon="4.33362"><name>168.56km</name>
+</rtept>
+<rtept lat="46.63916" lon="4.33415"><name>168.69km</name>
+</rtept>
+<rtept lat="46.63783" lon="4.33440"><name>168.84km</name>
+</rtept>
+<rtept lat="46.63676" lon="4.33477"><name>168.96km</name>
+</rtept>
+<rtept lat="46.63599" lon="4.33479"><name>169.05km</name>
+</rtept>
+<rtept lat="46.63506" lon="4.33451"><name>169.16km</name>
+</rtept>
+<rtept lat="46.63417" lon="4.33499"><name>169.26km</name>
+</rtept>
+<rtept lat="46.63286" lon="4.33506"><name>169.41km</name>
+</rtept>
+<rtept lat="46.63253" lon="4.33497"><name>169.44km</name>
+</rtept>
+<rtept lat="46.63211" lon="4.33451"><name>169.50km</name>
+</rtept>
+<rtept lat="46.63123" lon="4.33292"><name>169.66km</name>
+</rtept>
+<rtept lat="46.63079" lon="4.33255"><name>169.71km</name>
+</rtept>
+<rtept lat="46.63014" lon="4.33243"><name>169.79km</name>
+</rtept>
+<rtept lat="46.62984" lon="4.33259"><name>169.82km</name>
+</rtept>
+<rtept lat="46.62939" lon="4.33333"><name>169.90km</name>
+</rtept>
+<rtept lat="46.62677" lon="4.33398"><name>170.20km</name>
+</rtept>
+<rtept lat="46.62606" lon="4.33381"><name>170.28km</name>
+</rtept>
+<rtept lat="46.62517" lon="4.33311"><name>170.39km</name>
+</rtept>
+<rtept lat="46.62467" lon="4.33077"><name>170.57km</name>
+</rtept>
+<rtept lat="46.62471" lon="4.32924"><name>170.69km</name>
+</rtept>
+<rtept lat="46.62397" lon="4.32754"><name>170.84km</name>
+</rtept>
+<rtept lat="46.62356" lon="4.32711"><name>170.90km</name>
+</rtept>
+<rtept lat="46.62310" lon="4.32718"><name>170.95km</name>
+</rtept>
+<rtept lat="46.62229" lon="4.32784"><name>171.06km</name>
+</rtept>
+<rtept lat="46.62189" lon="4.32788"><name>171.10km</name>
+</rtept>
+<rtept lat="46.62074" lon="4.32732"><name>171.24km</name>
+</rtept>
+<rtept lat="46.61954" lon="4.32640"><name>171.39km</name>
+</rtept>
+<rtept lat="46.61932" lon="4.32590"><name>171.43km</name>
+</rtept>
+<rtept lat="46.61834" lon="4.31759"><name>172.08km</name>
+</rtept>
+<rtept lat="46.61814" lon="4.31691"><name>172.13km</name>
+</rtept>
+<rtept lat="46.61719" lon="4.31570"><name>172.27km</name>
+</rtept>
+<rtept lat="46.61661" lon="4.31440"><name>172.39km</name>
+</rtept>
+<rtept lat="46.61628" lon="4.31406"><name>172.44km</name>
+</rtept>
+<rtept lat="46.61421" lon="4.31315"><name>172.68km</name>
+</rtept>
+<rtept lat="46.61332" lon="4.31228"><name>172.80km</name>
+</rtept>
+<rtept lat="46.61306" lon="4.31218"><name>172.83km</name>
+</rtept>
+<rtept lat="46.61229" lon="4.31242"><name>172.91km</name>
+</rtept>
+<rtept lat="46.61170" lon="4.31259"><name>172.98km</name>
+</rtept>
+<rtept lat="46.61007" lon="4.31233"><name>173.16km</name>
+</rtept>
+<rtept lat="46.60947" lon="4.31192"><name>173.24km</name>
+</rtept>
+<rtept lat="46.60754" lon="4.30934"><name>173.53km</name>
+</rtept>
+<rtept lat="46.60639" lon="4.30829"><name>173.68km</name>
+</rtept>
+<rtept lat="46.60593" lon="4.30739"><name>173.76km</name>
+</rtept>
+<rtept lat="46.60528" lon="4.30525"><name>173.94km</name>
+</rtept>
+<rtept lat="46.60497" lon="4.30475"><name>173.99km</name>
+</rtept>
+<rtept lat="46.60473" lon="4.30344"><name>174.10km</name>
+</rtept>
+<rtept lat="46.60461" lon="4.30215"><name>174.20km</name>
+</rtept>
+<rtept lat="46.60423" lon="4.30103"><name>174.29km</name>
+</rtept>
+<rtept lat="46.60358" lon="4.30039"><name>174.38km</name>
+</rtept>
+<rtept lat="46.60280" lon="4.29973"><name>174.48km</name>
+</rtept>
+<rtept lat="46.60025" lon="4.29572"><name>174.90km</name>
+</rtept>
+<rtept lat="46.59997" lon="4.29484"><name>174.97km</name>
+</rtept>
+<rtept lat="46.59798" lon="4.28536"><name>175.73km</name>
+</rtept>
+<rtept lat="46.59766" lon="4.27964"><name>176.17km</name>
+</rtept>
+<rtept lat="46.59705" lon="4.27619"><name>176.44km</name>
+</rtept>
+<rtept lat="46.59748" lon="4.27362"><name>176.64km</name>
+</rtept>
+<rtept lat="46.59788" lon="4.27247"><name>176.74km</name>
+</rtept>
+<rtept lat="46.59842" lon="4.27147"><name>176.84km</name>
+</rtept>
+<rtept lat="46.59848" lon="4.27052"><name>176.91km</name>
+</rtept>
+<rtept lat="46.59839" lon="4.26998"><name>176.95km</name>
+</rtept>
+<rtept lat="46.59775" lon="4.26829"><name>177.10km</name>
+</rtept>
+<rtept lat="46.59712" lon="4.26712"><name>177.21km</name>
+</rtept>
+<rtept lat="46.59697" lon="4.26609"><name>177.29km</name>
+</rtept>
+<rtept lat="46.59708" lon="4.26524"><name>177.36km</name>
+</rtept>
+<rtept lat="46.59794" lon="4.26380"><name>177.51km</name>
+</rtept>
+<rtept lat="46.59814" lon="4.26308"><name>177.56km</name>
+</rtept>
+<rtept lat="46.59809" lon="4.26222"><name>177.63km</name>
+</rtept>
+<rtept lat="46.59773" lon="4.26116"><name>177.72km</name>
+</rtept>
+<rtept lat="46.59724" lon="4.26052"><name>177.79km</name>
+</rtept>
+<rtept lat="46.59491" lon="4.25895"><name>178.08km</name>
+</rtept>
+<rtept lat="46.59383" lon="4.25765"><name>178.24km</name>
+</rtept>
+<rtept lat="46.59326" lon="4.25591"><name>178.38km</name>
+</rtept>
+<rtept lat="46.59325" lon="4.25587"><name>420.00km</name>
+<sym>10</sym>
+<cmt>420.00km</cmt>
+</rtept>
+<rtept lat="46.59303" lon="4.25370"><name>178.55km</name>
+</rtept>
+<rtept lat="46.59268" lon="4.25298"><name>178.62km</name>
+</rtept>
+<rtept lat="46.59049" lon="4.25067"><name>178.92km</name>
+</rtept>
+<rtept lat="46.58751" lon="4.24698"><name>179.36km</name>
+</rtept>
+<rtept lat="46.58727" lon="4.24633"><name>179.41km</name>
+</rtept>
+<rtept lat="46.58687" lon="4.24398"><name>179.60km</name>
+</rtept>
+<rtept lat="46.58629" lon="4.24246"><name>179.73km</name>
+</rtept>
+<rtept lat="46.58587" lon="4.24196"><name>179.79km</name>
+</rtept>
+<rtept lat="46.58504" lon="4.24155"><name>179.89km</name>
+</rtept>
+<rtept lat="46.58392" lon="4.24169"><name>180.01km</name>
+</rtept>
+<rtept lat="46.58352" lon="4.24155"><name>180.06km</name>
+</rtept>
+<rtept lat="46.58210" lon="4.23965"><name>180.27km</name>
+</rtept>
+<rtept lat="46.58182" lon="4.23925"><name>180.32km</name>
+</rtept>
+<rtept lat="46.58089" lon="4.23861"><name>180.43km</name>
+</rtept>
+<rtept lat="46.58040" lon="4.23846"><name>180.49km</name>
+</rtept>
+<rtept lat="46.57968" lon="4.23795"><name>180.58km</name>
+</rtept>
+<rtept lat="46.57816" lon="4.23565"><name>180.82km</name>
+</rtept>
+<rtept lat="46.57806" lon="4.23533"><name>180.85km</name>
+</rtept>
+<rtept lat="46.57745" lon="4.23442"><name>180.94km</name>
+</rtept>
+<rtept lat="46.57709" lon="4.23420"><name>180.99km</name>
+</rtept>
+<rtept lat="46.57648" lon="4.23404"><name>181.06km</name>
+</rtept>
+<rtept lat="46.57467" lon="4.23244"><name>181.29km</name>
+</rtept>
+<rtept lat="46.57452" lon="4.23212"><name>181.32km</name>
+</rtept>
+<rtept lat="46.57432" lon="4.23053"><name>181.45km</name>
+</rtept>
+<rtept lat="46.57405" lon="4.22988"><name>181.50km</name>
+</rtept>
+<rtept lat="46.57356" lon="4.22921"><name>181.58km</name>
+</rtept>
+<rtept lat="46.57168" lon="4.22785"><name>181.81km</name>
+</rtept>
+<rtept lat="46.57126" lon="4.22719"><name>181.88km</name>
+</rtept>
+<rtept lat="46.57074" lon="4.22542"><name>182.03km</name>
+</rtept>
+<rtept lat="46.57084" lon="4.22243"><name>182.26km</name>
+</rtept>
+<rtept lat="46.57065" lon="4.22188"><name>182.30km</name>
+</rtept>
+<rtept lat="46.57022" lon="4.22156"><name>182.36km</name>
+</rtept>
+<rtept lat="46.56783" lon="4.22158"><name>182.62km</name>
+</rtept>
+<rtept lat="46.56729" lon="4.22206"><name>182.69km</name>
+</rtept>
+<rtept lat="46.56690" lon="4.22327"><name>182.80km</name>
+</rtept>
+<rtept lat="46.56675" lon="4.22349"><name>182.82km</name>
+</rtept>
+<rtept lat="46.56697" lon="4.22398"><name>182.86km</name>
+</rtept>
+<rtept lat="46.56697" lon="4.22418"><name>182.88km</name>
+</rtept>
+<rtept lat="46.56673" lon="4.22490"><name>182.94km</name>
+</rtept>
+<rtept lat="46.56597" lon="4.22488"><name>183.02km</name>
+</rtept>
+<rtept lat="46.56541" lon="4.22461"><name>183.09km</name>
+</rtept>
+<rtept lat="46.56399" lon="4.22312"><name>183.28km</name>
+</rtept>
+<rtept lat="46.56385" lon="4.22317"><name>183.30km</name>
+</rtept>
+<rtept lat="46.56330" lon="4.22460"><name>183.43km</name>
+</rtept>
+<rtept lat="46.56290" lon="4.22484"><name>183.47km</name>
+</rtept>
+<rtept lat="46.56247" lon="4.22484"><name>183.52km</name>
+</rtept>
+<rtept lat="46.56134" lon="4.22511"><name>183.65km</name>
+</rtept>
+<rtept lat="46.56110" lon="4.22497"><name>183.68km</name>
+</rtept>
+<rtept lat="46.56100" lon="4.22466"><name>183.70km</name>
+</rtept>
+<rtept lat="46.56095" lon="4.22397"><name>183.76km</name>
+</rtept>
+<rtept lat="46.56054" lon="4.22288"><name>183.85km</name>
+</rtept>
+<rtept lat="46.55985" lon="4.22188"><name>183.96km</name>
+</rtept>
+<rtept lat="46.55962" lon="4.22165"><name>183.99km</name>
+</rtept>
+<rtept lat="46.55763" lon="4.22135"><name>184.21km</name>
+</rtept>
+<rtept lat="46.55332" lon="4.21932"><name>184.72km</name>
+</rtept>
+<rtept lat="46.55336" lon="4.21864"><name>184.77km</name>
+</rtept>
+<rtept lat="46.55342" lon="4.21853"><name>184.78km</name>
+</rtept>
+<rtept lat="46.55279" lon="4.21768"><name>184.88km</name>
+</rtept>
+<rtept lat="46.55046" lon="4.21535"><name>185.19km</name>
+</rtept>
+<rtept lat="46.54973" lon="4.21434"><name>185.30km</name>
+</rtept>
+<rtept lat="46.54940" lon="4.21374"><name>185.36km</name>
+</rtept>
+<rtept lat="46.54922" lon="4.21306"><name>185.42km</name>
+</rtept>
+<rtept lat="46.54900" lon="4.21158"><name>185.53km</name>
+</rtept>
+<rtept lat="46.54881" lon="4.21125"><name>185.57km</name>
+</rtept>
+<rtept lat="46.54749" lon="4.21196"><name>185.72km</name>
+</rtept>
+<rtept lat="46.54724" lon="4.21219"><name>185.76km</name>
+</rtept>
+<rtept lat="46.54634" lon="4.21255"><name>185.86km</name>
+</rtept>
+<rtept lat="46.54581" lon="4.21225"><name>185.92km</name>
+</rtept>
+<rtept lat="46.54443" lon="4.21179"><name>186.08km</name>
+</rtept>
+<rtept lat="46.54291" lon="4.21147"><name>186.25km</name>
+</rtept>
+<rtept lat="46.54204" lon="4.21072"><name>186.36km</name>
+</rtept>
+<rtept lat="46.54183" lon="4.21072"><name>186.39km</name>
+</rtept>
+<rtept lat="46.54164" lon="4.21091"><name>186.41km</name>
+</rtept>
+<rtept lat="46.54116" lon="4.21105"><name>186.47km</name>
+</rtept>
+<rtept lat="46.54097" lon="4.21132"><name>186.49km</name>
+</rtept>
+<rtept lat="46.54084" lon="4.21195"><name>186.55km</name>
+</rtept>
+<rtept lat="46.54074" lon="4.21285"><name>186.62km</name>
+</rtept>
+<rtept lat="46.54063" lon="4.21324"><name>186.65km</name>
+</rtept>
+<rtept lat="46.54007" lon="4.21409"><name>186.74km</name>
+</rtept>
+<rtept lat="46.53990" lon="4.21449"><name>186.77km</name>
+</rtept>
+<rtept lat="46.53856" lon="4.21384"><name>186.93km</name>
+</rtept>
+<rtept lat="46.53645" lon="4.21365"><name>187.16km</name>
+</rtept>
+<rtept lat="46.53546" lon="4.21320"><name>187.28km</name>
+</rtept>
+<rtept lat="46.53092" lon="4.21289"><name>187.79km</name>
+</rtept>
+<rtept lat="46.52557" lon="4.21333"><name>188.38km</name>
+</rtept>
+<rtept lat="46.52554" lon="4.21332"><name>430.00km</name>
+<sym>10</sym>
+<cmt>430.00km</cmt>
+</rtept>
+<rtept lat="46.52429" lon="4.21278"><name>188.53km</name>
+</rtept>
+<rtept lat="46.52367" lon="4.21234"><name>188.61km</name>
+</rtept>
+<rtept lat="46.52076" lon="4.21154"><name>188.94km</name>
+</rtept>
+<rtept lat="46.51903" lon="4.21066"><name>189.14km</name>
+</rtept>
+<rtept lat="46.51750" lon="4.20860"><name>189.37km</name>
+</rtept>
+<rtept lat="46.51642" lon="4.20809"><name>189.50km</name>
+</rtept>
+<rtept lat="46.51199" lon="4.20647"><name>190.01km</name>
+</rtept>
+<rtept lat="46.51130" lon="4.20644"><name>190.08km</name>
+</rtept>
+<rtept lat="46.51081" lon="4.20652"><name>190.14km</name>
+</rtept>
+<rtept lat="46.51019" lon="4.20679"><name>190.21km</name>
+</rtept>
+<rtept lat="46.50933" lon="4.20683"><name>190.31km</name>
+</rtept>
+<rtept lat="46.50874" lon="4.20588"><name>190.40km</name>
+</rtept>
+<rtept lat="46.50825" lon="4.20373"><name>190.58km</name>
+</rtept>
+<rtept lat="46.50808" lon="4.20023"><name>190.85km</name>
+</rtept>
+<rtept lat="46.50782" lon="4.19955"><name>190.91km</name>
+</rtept>
+<rtept lat="46.50749" lon="4.19917"><name>190.95km</name>
+</rtept>
+<rtept lat="46.50651" lon="4.19864"><name>191.07km</name>
+</rtept>
+<rtept lat="46.50494" lon="4.19748"><name>191.26km</name>
+</rtept>
+<rtept lat="46.50498" lon="4.19568"><name>191.40km</name>
+</rtept>
+<rtept lat="46.50519" lon="4.19443"><name>191.50km</name>
+</rtept>
+<rtept lat="46.50578" lon="4.19244"><name>191.67km</name>
+</rtept>
+<rtept lat="46.50599" lon="4.19034"><name>191.83km</name>
+</rtept>
+<rtept lat="46.50627" lon="4.18830"><name>191.99km</name>
+</rtept>
+<rtept lat="46.50622" lon="4.18728"><name>192.07km</name>
+</rtept>
+<rtept lat="46.50627" lon="4.18702"><name>192.09km</name>
+</rtept>
+<rtept lat="46.50910" lon="4.18199"><name>192.58km</name>
+</rtept>
+<rtept lat="46.50772" lon="4.18102"><name>192.76km</name>
+</rtept>
+<rtept lat="46.50686" lon="4.18060"><name>192.86km</name>
+</rtept>
+<rtept lat="46.50473" lon="4.18001"><name>193.10km</name>
+</rtept>
+<rtept lat="46.50214" lon="4.17927"><name>193.39km</name>
+</rtept>
+<rtept lat="46.50095" lon="4.17909"><name>193.52km</name>
+</rtept>
+<rtept lat="46.50073" lon="4.17888"><name>193.55km</name>
+</rtept>
+<rtept lat="46.49984" lon="4.17765"><name>193.69km</name>
+</rtept>
+<rtept lat="46.49890" lon="4.17700"><name>193.81km</name>
+</rtept>
+<rtept lat="46.49801" lon="4.17608"><name>193.93km</name>
+</rtept>
+<rtept lat="46.49780" lon="4.17559"><name>193.97km</name>
+</rtept>
+<rtept lat="46.49792" lon="4.17366"><name>194.12km</name>
+</rtept>
+<rtept lat="46.49811" lon="4.17247"><name>194.21km</name>
+</rtept>
+<rtept lat="46.49804" lon="4.16736"><name>194.60km</name>
+</rtept>
+<rtept lat="46.49772" lon="4.16729"><name>194.64km</name>
+</rtept>
+<rtept lat="46.49658" lon="4.16631"><name>194.79km</name>
+</rtept>
+<rtept lat="46.49624" lon="4.16617"><name>194.83km</name>
+</rtept>
+<rtept lat="46.49341" lon="4.16586"><name>195.14km</name>
+</rtept>
+<rtept lat="46.49293" lon="4.16590"><name>195.20km</name>
+</rtept>
+<rtept lat="46.49204" lon="4.16566"><name>195.30km</name>
+</rtept>
+<rtept lat="46.49089" lon="4.16505"><name>195.43km</name>
+</rtept>
+<rtept lat="46.48632" lon="4.16532"><name>195.94km</name>
+</rtept>
+<rtept lat="46.48586" lon="4.16517"><name>195.99km</name>
+</rtept>
+<rtept lat="46.48498" lon="4.16527"><name>196.09km</name>
+</rtept>
+<rtept lat="46.48421" lon="4.16578"><name>196.18km</name>
+</rtept>
+<rtept lat="46.48341" lon="4.16668"><name>196.30km</name>
+</rtept>
+<rtept lat="46.48129" lon="4.16822"><name>196.56km</name>
+</rtept>
+<rtept lat="46.48009" lon="4.16757"><name>196.70km</name>
+</rtept>
+<rtept lat="46.47942" lon="4.16697"><name>196.79km</name>
+</rtept>
+<rtept lat="46.47655" lon="4.16546"><name>197.13km</name>
+</rtept>
+<rtept lat="46.47512" lon="4.16404"><name>197.32km</name>
+</rtept>
+<rtept lat="46.47477" lon="4.16355"><name>197.38km</name>
+</rtept>
+<rtept lat="46.47373" lon="4.16256"><name>197.51km</name>
+</rtept>
+<rtept lat="46.47210" lon="4.16019"><name>197.77km</name>
+</rtept>
+<rtept lat="46.46942" lon="4.15847"><name>198.10km</name>
+</rtept>
+<rtept lat="46.46858" lon="4.15730"><name>198.23km</name>
+</rtept>
+<rtept lat="46.46824" lon="4.15618"><name>198.32km</name>
+</rtept>
+<rtept lat="46.46823" lon="4.15533"><name>440.00km</name>
+<sym>10</sym>
+<cmt>440.00km</cmt>
+</rtept>
+<rtept lat="46.46823" lon="4.15486"><name>198.42km</name>
+</rtept>
+<rtept lat="46.46801" lon="4.15357"><name>198.52km</name>
+</rtept>
+<rtept lat="46.46733" lon="4.15152"><name>198.70km</name>
+</rtept>
+<rtept lat="46.46666" lon="4.15004"><name>198.83km</name>
+</rtept>
+<rtept lat="46.46636" lon="4.14834"><name>198.97km</name>
+</rtept>
+<rtept lat="46.46536" lon="4.14674"><name>199.13km</name>
+</rtept>
+<rtept lat="46.46489" lon="4.14789"><name>199.24km</name>
+</rtept>
+<rtept lat="46.46467" lon="4.14814"><name>199.27km</name>
+</rtept>
+<rtept lat="46.46418" lon="4.14847"><name>199.33km</name>
+</rtept>
+<rtept lat="46.46364" lon="4.14913"><name>199.41km</name>
+</rtept>
+<rtept lat="46.46283" lon="4.15057"><name>199.55km</name>
+</rtept>
+<rtept lat="46.46149" lon="4.15096"><name>199.70km</name>
+</rtept>
+<rtept lat="46.46101" lon="4.15071"><name>199.76km</name>
+</rtept>
+<rtept lat="46.46068" lon="4.15047"><name>199.80km</name>
+</rtept>
+<rtept lat="46.46023" lon="4.15048"><name>199.85km</name>
+</rtept>
+<rtept lat="46.46000" lon="4.15066"><name>199.88km</name>
+</rtept>
+<rtept lat="46.45951" lon="4.15131"><name>199.95km</name>
+</rtept>
+<rtept lat="46.45896" lon="4.15144"><name>200.01km</name>
+</rtept>
+<rtept lat="46.45837" lon="4.15120"><name>200.08km</name>
+</rtept>
+<rtept lat="46.45685" lon="4.15073"><name>200.25km</name>
+</rtept>
+<rtept lat="46.45471" lon="4.15193"><name>200.51km</name>
+</rtept>
+<rtept lat="46.45167" lon="4.15266"><name>200.85km</name>
+</rtept>
+<rtept lat="46.45169" lon="4.15374"><name>200.93km</name>
+</rtept>
+<rtept lat="46.45144" lon="4.15499"><name>201.03km</name>
+</rtept>
+<rtept lat="46.45142" lon="4.15718"><name>201.20km</name>
+</rtept>
+<rtept lat="46.45000" lon="4.15684"><name>201.36km</name>
+</rtept>
+<rtept lat="46.44646" lon="4.15562"><name>201.77km</name>
+</rtept>
+<rtept lat="46.44354" lon="4.15359"><name>202.13km</name>
+</rtept>
+<rtept lat="46.44317" lon="4.15315"><name>202.18km</name>
+</rtept>
+<rtept lat="46.44239" lon="4.15171"><name>202.32km</name>
+</rtept>
+<rtept lat="46.44230" lon="4.15125"><name>202.36km</name>
+</rtept>
+<rtept lat="46.44271" lon="4.14945"><name>202.50km</name>
+</rtept>
+<rtept lat="46.44322" lon="4.14373"><name>202.94km</name>
+</rtept>
+<rtept lat="46.44317" lon="4.12862"><name>204.10km</name>
+</rtept>
+<rtept lat="46.44335" lon="4.12772"><name>204.17km</name>
+</rtept>
+<rtept lat="46.44573" lon="4.12039"><name>204.80km</name>
+</rtept>
+<rtept lat="46.44614" lon="4.12001"><name>204.85km</name>
+</rtept>
+<rtept lat="46.44653" lon="4.11860"><name>204.97km</name>
+</rtept>
+<rtept lat="46.44697" lon="4.11793"><name>205.04km</name>
+</rtept>
+<rtept lat="46.44722" lon="4.11745"><name>205.08km</name>
+</rtept>
+<rtept lat="46.44889" lon="4.11514"><name>205.34km</name>
+</rtept>
+<rtept lat="46.44899" lon="4.11512"><name>205.35km</name>
+</rtept>
+<rtept lat="46.45387" lon="4.10432"><name>206.34km</name>
+</rtept>
+<rtept lat="46.45481" lon="4.10230"><name>206.53km</name>
+</rtept>
+<rtept lat="46.45535" lon="4.10145"><name>206.62km</name>
+</rtept>
+<rtept lat="46.45561" lon="4.10110"><name>206.65km</name>
+</rtept>
+<rtept lat="46.45752" lon="4.09845"><name>206.95km</name>
+</rtept>
+<rtept lat="46.45957" lon="4.09722"><name>207.20km</name>
+</rtept>
+<rtept lat="46.46168" lon="4.09417"><name>207.53km</name>
+</rtept>
+<rtept lat="46.46453" lon="4.09130"><name>207.91km</name>
+</rtept>
+<rtept lat="46.46657" lon="4.08818"><name>208.24km</name>
+</rtept>
+<rtept lat="46.46749" lon="4.08686"><name>450.00km</name>
+<sym>10</sym>
+<cmt>450.00km</cmt>
+</rtept>
+<rtept lat="46.46991" lon="4.08341"><name>208.76km</name>
+</rtept>
+<rtept lat="46.47008" lon="4.08284"><name>208.81km</name>
+</rtept>
+<rtept lat="46.47020" lon="4.08207"><name>208.87km</name>
+</rtept>
+<rtept lat="46.47070" lon="4.08098"><name>208.97km</name>
+</rtept>
+<rtept lat="46.47074" lon="4.08032"><name>209.02km</name>
+</rtept>
+<rtept lat="46.47045" lon="4.07895"><name>209.13km</name>
+</rtept>
+<rtept lat="46.47054" lon="4.07805"><name>209.20km</name>
+</rtept>
+<rtept lat="46.47183" lon="4.07496"><name>209.48km</name>
+</rtept>
+<rtept lat="46.47250" lon="4.07289"><name>209.65km</name>
+</rtept>
+<rtept lat="46.47290" lon="4.07200"><name>209.73km</name>
+</rtept>
+<rtept lat="46.47320" lon="4.07082"><name>209.83km</name>
+</rtept>
+<rtept lat="46.47385" lon="4.06920"><name>209.97km</name>
+</rtept>
+<rtept lat="46.47501" lon="4.06807"><name>210.13km</name>
+</rtept>
+<rtept lat="46.47680" lon="4.06664"><name>210.36km</name>
+</rtept>
+<rtept lat="46.47849" lon="4.06632"><name>210.55km</name>
+</rtept>
+<rtept lat="46.47908" lon="4.06566"><name>210.63km</name>
+</rtept>
+<rtept lat="46.47934" lon="4.06514"><name>210.68km</name>
+</rtept>
+<rtept lat="46.47955" lon="4.06415"><name>210.76km</name>
+</rtept>
+<rtept lat="46.47901" lon="4.05970"><name>211.10km</name>
+</rtept>
+<rtept lat="46.47910" lon="4.05864"><name>211.19km</name>
+</rtept>
+<rtept lat="46.47923" lon="4.05835"><name>211.21km</name>
+</rtept>
+<rtept lat="46.48009" lon="4.05715"><name>211.34km</name>
+</rtept>
+<rtept lat="46.48145" lon="4.05475"><name>211.58km</name>
+</rtept>
+<rtept lat="46.48204" lon="4.05315"><name>211.72km</name>
+</rtept>
+<rtept lat="46.48237" lon="4.05285"><name>211.76km</name>
+</rtept>
+<rtept lat="46.48283" lon="4.05261"><name>211.82km</name>
+</rtept>
+<rtept lat="46.48433" lon="4.05098"><name>212.03km</name>
+</rtept>
+<rtept lat="46.48451" lon="4.05048"><name>212.07km</name>
+</rtept>
+<rtept lat="46.48465" lon="4.04973"><name>212.13km</name>
+</rtept>
+<rtept lat="46.48496" lon="4.04915"><name>212.19km</name>
+</rtept>
+<rtept lat="46.48569" lon="4.04844"><name>212.28km</name>
+</rtept>
+<rtept lat="46.48594" lon="4.04788"><name>212.33km</name>
+</rtept>
+<rtept lat="46.48670" lon="4.03966"><name>212.97km</name>
+</rtept>
+<rtept lat="46.48709" lon="4.03699"><name>213.18km</name>
+</rtept>
+<rtept lat="46.48684" lon="4.03498"><name>213.33km</name>
+</rtept>
+<rtept lat="46.48703" lon="4.03293"><name>213.49km</name>
+</rtept>
+<rtept lat="46.48733" lon="4.03144"><name>213.61km</name>
+</rtept>
+<rtept lat="46.48792" lon="4.03033"><name>213.72km</name>
+</rtept>
+<rtept lat="46.48809" lon="4.02966"><name>213.77km</name>
+</rtept>
+<rtept lat="46.48818" lon="4.02816"><name>213.89km</name>
+</rtept>
+<rtept lat="46.48786" lon="4.02532"><name>214.11km</name>
+</rtept>
+<rtept lat="46.48765" lon="4.02408"><name>214.21km</name>
+</rtept>
+<rtept lat="46.48753" lon="4.02253"><name>214.33km</name>
+</rtept>
+<rtept lat="46.48704" lon="4.02071"><name>214.48km</name>
+</rtept>
+<rtept lat="46.48700" lon="4.02023"><name>214.51km</name>
+</rtept>
+<rtept lat="46.48727" lon="4.01689"><name>214.77km</name>
+</rtept>
+<rtept lat="46.48753" lon="4.01615"><name>214.83km</name>
+</rtept>
+<rtept lat="46.48775" lon="4.01610"><name>214.86km</name>
+</rtept>
+<rtept lat="46.48772" lon="4.01552"><name>214.90km</name>
+</rtept>
+<rtept lat="46.48816" lon="4.01424"><name>215.01km</name>
+</rtept>
+<rtept lat="46.48827" lon="4.01310"><name>215.10km</name>
+</rtept>
+<rtept lat="46.48814" lon="4.01215"><name>215.18km</name>
+</rtept>
+<rtept lat="46.48768" lon="4.01024"><name>215.33km</name>
+</rtept>
+<rtept lat="46.48768" lon="4.00950"><name>215.39km</name>
+</rtept>
+<rtept lat="46.48805" lon="4.00718"><name>215.57km</name>
+</rtept>
+<rtept lat="46.48834" lon="4.00526"><name>215.72km</name>
+</rtept>
+<rtept lat="46.48831" lon="4.00462"><name>215.77km</name>
+</rtept>
+<rtept lat="46.48802" lon="4.00338"><name>215.87km</name>
+</rtept>
+<rtept lat="46.48605" lon="3.99908"><name>216.26km</name>
+</rtept>
+<rtept lat="46.48567" lon="3.99841"><name>216.33km</name>
+</rtept>
+<rtept lat="46.48539" lon="3.99720"><name>216.43km</name>
+</rtept>
+<rtept lat="46.48534" lon="3.99431"><name>216.65km</name>
+</rtept>
+<rtept lat="46.48508" lon="3.99343"><name>216.72km</name>
+</rtept>
+<rtept lat="46.48416" lon="3.99191"><name>216.88km</name>
+</rtept>
+<rtept lat="46.48383" lon="3.99051"><name>216.99km</name>
+</rtept>
+<rtept lat="46.48347" lon="3.98892"><name>217.12km</name>
+</rtept>
+<rtept lat="46.48312" lon="3.98815"><name>217.19km</name>
+</rtept>
+<rtept lat="46.48321" lon="3.98803"><name>217.20km</name>
+</rtept>
+<rtept lat="46.48282" lon="3.98728"><name>217.28km</name>
+</rtept>
+<rtept lat="46.48259" lon="3.98730"><name>217.30km</name>
+</rtept>
+<rtept lat="46.48247" lon="3.98706"><name>217.33km</name>
+</rtept>
+<rtept lat="46.48251" lon="3.98693"><name>217.34km</name>
+</rtept>
+<rtept lat="46.48025" lon="3.98235"><name>217.77km</name>
+</rtept>
+<rtept lat="46.47976" lon="3.98209"><name>217.82km</name>
+</rtept>
+<rtept lat="46.47986" lon="3.98212"><name>217.84km</name>
+</rtept>
+<rtept lat="46.47820" lon="3.98104"><name>218.04km</name>
+</rtept>
+<rtept lat="46.47534" lon="3.97916"><name>460.00km</name>
+<sym>10</sym>
+<cmt>460.00km</cmt>
+</rtept>
+<rtept lat="46.47499" lon="3.97893"><name>218.43km</name>
+</rtept>
+<rtept lat="46.47495" lon="3.97879"><name>218.44km</name>
+</rtept>
+<rtept lat="46.47392" lon="3.97823"><name>218.56km</name>
+</rtept>
+<rtept lat="46.47309" lon="3.97731"><name>218.68km</name>
+</rtept>
+<rtept lat="46.47299" lon="3.97683"><name>218.72km</name>
+</rtept>
+<rtept lat="46.47231" lon="3.96623"><name>219.53km</name>
+</rtept>
+<rtept lat="46.47220" lon="3.96567"><name>219.58km</name>
+</rtept>
+<rtept lat="46.47180" lon="3.95952"><name>220.05km</name>
+</rtept>
+<rtept lat="46.47184" lon="3.95916"><name>220.08km</name>
+</rtept>
+<rtept lat="46.47178" lon="3.95865"><name>220.12km</name>
+</rtept>
+<rtept lat="46.47184" lon="3.95811"><name>220.16km</name>
+</rtept>
+<rtept lat="46.47198" lon="3.95786"><name>220.18km</name>
+</rtept>
+<rtept lat="46.47198" lon="3.95713"><name>220.24km</name>
+</rtept>
+<rtept lat="46.47167" lon="3.95650"><name>220.30km</name>
+</rtept>
+<rtept lat="46.47159" lon="3.95609"><name>220.33km</name>
+</rtept>
+<rtept lat="46.47093" lon="3.94587"><name>221.12km</name>
+</rtept>
+<rtept lat="46.47103" lon="3.94538"><name>221.16km</name>
+</rtept>
+<rtept lat="46.47096" lon="3.94407"><name>221.26km</name>
+</rtept>
+<rtept lat="46.47128" lon="3.94241"><name>221.39km</name>
+</rtept>
+<rtept lat="46.47190" lon="3.94091"><name>221.52km</name>
+</rtept>
+<rtept lat="46.47348" lon="3.93756"><name>221.83km</name>
+</rtept>
+<rtept lat="46.47342" lon="3.93738"><name>221.85km</name>
+</rtept>
+<rtept lat="46.47488" lon="3.93430"><name>222.14km</name>
+</rtept>
+<rtept lat="46.47535" lon="3.93270"><name>222.27km</name>
+</rtept>
+<rtept lat="46.47558" lon="3.93140"><name>222.37km</name>
+</rtept>
+<rtept lat="46.47567" lon="3.92959"><name>222.51km</name>
+</rtept>
+<rtept lat="46.47589" lon="3.92753"><name>222.67km</name>
+</rtept>
+<rtept lat="46.47616" lon="3.92449"><name>222.90km</name>
+</rtept>
+<rtept lat="46.47629" lon="3.92388"><name>222.95km</name>
+</rtept>
+<rtept lat="46.47636" lon="3.92219"><name>223.08km</name>
+</rtept>
+<rtept lat="46.47663" lon="3.92038"><name>223.23km</name>
+</rtept>
+<rtept lat="46.47705" lon="3.91902"><name>223.34km</name>
+</rtept>
+<rtept lat="46.47767" lon="3.91748"><name>223.48km</name>
+</rtept>
+<rtept lat="46.47809" lon="3.91561"><name>223.63km</name>
+</rtept>
+<rtept lat="46.47814" lon="3.91310"><name>223.82km</name>
+</rtept>
+<rtept lat="46.47794" lon="3.91171"><name>223.93km</name>
+</rtept>
+<rtept lat="46.47804" lon="3.91017"><name>224.05km</name>
+</rtept>
+<rtept lat="46.47984" lon="3.89863"><name>224.95km</name>
+</rtept>
+<rtept lat="46.47988" lon="3.89676"><name>225.10km</name>
+</rtept>
+<rtept lat="46.47972" lon="3.89537"><name>225.20km</name>
+</rtept>
+<rtept lat="46.47936" lon="3.89342"><name>225.36km</name>
+</rtept>
+<rtept lat="46.47921" lon="3.89207"><name>225.46km</name>
+</rtept>
+<rtept lat="46.47924" lon="3.89005"><name>225.62km</name>
+</rtept>
+<rtept lat="46.47944" lon="3.88850"><name>225.74km</name>
+</rtept>
+<rtept lat="46.47972" lon="3.88743"><name>225.83km</name>
+</rtept>
+<rtept lat="46.48001" lon="3.88674"><name>225.89km</name>
+</rtept>
+<rtept lat="46.48047" lon="3.88509"><name>226.02km</name>
+</rtept>
+<rtept lat="46.48070" lon="3.88339"><name>226.16km</name>
+</rtept>
+<rtept lat="46.48063" lon="3.87333"><name>226.93km</name>
+</rtept>
+<rtept lat="46.48068" lon="3.87057"><name>227.14km</name>
+</rtept>
+<rtept lat="46.48114" lon="3.86828"><name>227.32km</name>
+</rtept>
+<rtept lat="46.48138" lon="3.86743"><name>227.39km</name>
+</rtept>
+<rtept lat="46.48481" lon="3.85882"><name>228.15km</name>
+</rtept>
+<rtept lat="46.48508" lon="3.85778"><name>228.24km</name>
+</rtept>
+<rtept lat="46.48542" lon="3.85613"><name>228.37km</name>
+</rtept>
+<rtept lat="46.48549" lon="3.85595"><name>470.00km</name>
+<sym>10</sym>
+<cmt>470.00km</cmt>
+</rtept>
+<rtept lat="46.48621" lon="3.85418"><name>228.54km</name>
+</rtept>
+<rtept lat="46.48704" lon="3.85283"><name>228.68km</name>
+</rtept>
+<rtept lat="46.48904" lon="3.85080"><name>228.95km</name>
+</rtept>
+<rtept lat="46.49023" lon="3.84926"><name>229.13km</name>
+</rtept>
+<rtept lat="46.49111" lon="3.84747"><name>229.30km</name>
+</rtept>
+<rtept lat="46.49338" lon="3.84232"><name>229.77km</name>
+</rtept>
+<rtept lat="46.49390" lon="3.84145"><name>229.85km</name>
+</rtept>
+<rtept lat="46.49500" lon="3.83912"><name>230.07km</name>
+</rtept>
+<rtept lat="46.49755" lon="3.83453"><name>230.52km</name>
+</rtept>
+<rtept lat="46.50028" lon="3.82928"><name>231.03km</name>
+</rtept>
+<rtept lat="46.50934" lon="3.80629"><name>233.05km</name>
+</rtept>
+<rtept lat="46.50983" lon="3.80552"><name>233.13km</name>
+</rtept>
+<rtept lat="46.51117" lon="3.80407"><name>233.32km</name>
+</rtept>
+<rtept lat="46.51148" lon="3.80357"><name>233.37km</name>
+</rtept>
+<rtept lat="46.51165" lon="3.80349"><name>233.39km</name>
+</rtept>
+<rtept lat="46.51201" lon="3.80297"><name>233.45km</name>
+</rtept>
+<rtept lat="46.51718" lon="3.79021"><name>234.58km</name>
+</rtept>
+<rtept lat="46.52009" lon="3.78213"><name>235.28km</name>
+</rtept>
+<rtept lat="46.52091" lon="3.78066"><name>235.42km</name>
+</rtept>
+<rtept lat="46.52147" lon="3.77988"><name>235.51km</name>
+</rtept>
+<rtept lat="46.52531" lon="3.77568"><name>236.04km</name>
+</rtept>
+<rtept lat="46.52681" lon="3.77413"><name>236.25km</name>
+</rtept>
+<rtept lat="46.53200" lon="3.76848"><name>236.97km</name>
+</rtept>
+<rtept lat="46.53247" lon="3.76797"><name>237.03km</name>
+</rtept>
+<rtept lat="46.53418" lon="3.76683"><name>237.24km</name>
+</rtept>
+<rtept lat="46.53509" lon="3.76587"><name>237.37km</name>
+</rtept>
+<rtept lat="46.53630" lon="3.76409"><name>237.56km</name>
+</rtept>
+<rtept lat="46.53646" lon="3.76348"><name>237.61km</name>
+</rtept>
+<rtept lat="46.53649" lon="3.76289"><name>237.65km</name>
+</rtept>
+<rtept lat="46.53663" lon="3.76203"><name>237.72km</name>
+</rtept>
+<rtept lat="46.53648" lon="3.76091"><name>237.81km</name>
+</rtept>
+<rtept lat="46.53648" lon="3.76069"><name>237.83km</name>
+</rtept>
+<rtept lat="46.53718" lon="3.76068"><name>237.90km</name>
+</rtept>
+<rtept lat="46.53936" lon="3.76038"><name>238.15km</name>
+</rtept>
+<rtept lat="46.53950" lon="3.76024"><name>238.17km</name>
+</rtept>
+<rtept lat="46.53936" lon="3.75738"><name>480.00km</name>
+<sym>10</sym>
+<cmt>480.00km</cmt>
+</rtept>
+<rtept lat="46.53918" lon="3.75352"><name>238.68km</name>
+</rtept>
+<rtept lat="46.53924" lon="3.75286"><name>238.73km</name>
+</rtept>
+<rtept lat="46.53970" lon="3.75117"><name>238.87km</name>
+</rtept>
+<rtept lat="46.54023" lon="3.75024"><name>238.96km</name>
+</rtept>
+<rtept lat="46.54231" lon="3.74752"><name>239.27km</name>
+</rtept>
+<rtept lat="46.54700" lon="3.74252"><name>239.92km</name>
+</rtept>
+<rtept lat="46.54807" lon="3.74175"><name>240.05km</name>
+</rtept>
+<rtept lat="46.54886" lon="3.74149"><name>240.14km</name>
+</rtept>
+<rtept lat="46.55024" lon="3.74153"><name>240.30km</name>
+</rtept>
+<rtept lat="46.55101" lon="3.74182"><name>240.39km</name>
+</rtept>
+<rtept lat="46.56570" lon="3.74978"><name>242.13km</name>
+</rtept>
+</rte>
+</gpx>
